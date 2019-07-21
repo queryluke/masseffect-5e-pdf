@@ -1,0 +1,2 @@
+- note about variant races, starting credits
+- move class and galaxy restrictions text from step-by-step here

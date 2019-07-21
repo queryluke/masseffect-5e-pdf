@@ -1,0 +1,16 @@
+{
+  "name": "masseffect-5e-pdf",
+  "version": "1.1.2",
+  "description": "'Markdown files for Mass Effect 5e PDF'",
+  "scripts": {
+    "init-pdf": "node -r esm ./scripts/init-pdf-files.js",
+    "init-partials": "node -r esm ./scripts/make-partial.js"
+  },
+  "author": "Luke Aeschleman <lukeaeschleman@gmail.com>",
+  "private": true,
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15"
+  }
+}
