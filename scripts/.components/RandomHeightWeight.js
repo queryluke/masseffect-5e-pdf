@@ -1,5 +1,5 @@
 
-  import stats from '~/static/data/random_height_weight'
+  import stats from './../../../masseffect-5e/static/data/random_height_weight'
   export default {
     data () {
       return {
