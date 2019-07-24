@@ -6,7 +6,9 @@ const order = [
     'preface',
     'introduction',
     'part_1',
-    'chapter_1'
+    'chapter_1',
+    'chapter_2',
+    'angara'
 ]
 
 
