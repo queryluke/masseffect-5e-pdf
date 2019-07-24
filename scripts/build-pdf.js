@@ -8,7 +8,8 @@ const order = [
     'part_1',
     'chapter_1',
     'chapter_2',
-    'angara'
+    'angara',
+    'asari'
 ]
 
 
