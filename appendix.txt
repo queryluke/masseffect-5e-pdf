@@ -1,0 +1,7 @@
+A: Armor Sets
+B: Armor Mods
+C: Weapons
+D: Weapon Mods
+E: Omni-tool Programs
+F: Vehicle Stats
+G: Conditions
