@@ -46,7 +46,7 @@ If you have a biotic implant, think about how long you’ve had the implant. It 
 
 You can make an adept quickly by following these suggestions. First, put your highest ability score in Wisdom. If you've
 choosen an asari as your race, put your highest ability score in Charisma, instead. Your next focus should be Dexterity
-or Constitution. Second, choose the Artisan background.
+or Constitution. Second, choose the Artisan background. Third, choose the _biotic punch_, _lift_, _phase disruptor_, and _throw_ cantrips, along with the following 1st level spells: _lance_ and _pull_.
 
 ## Class Features
 
