@@ -76,18 +76,14 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Spellcasting
 
+Using your biotic implant or innate biotic talents, you can manimulate the mass of objects and space. See chapter 10 for the
+general rules of spellcasting and chapter 11 for the list of spells.
+
 #### Cantrips
 At 1st level, you know four cantrips of your choice from the adept spell list. You learn additional adept cantrips of
 your choice at higher levels, as shown in the Cantrips column of the Adept table.
 
 Instead of learning a new cantrip, you may instead learn the advanced version of a cantrip you already know.
-
-```
-```
-
-<img 
-  src='https://vignette.wikia.nocookie.net/masseffect/images/3/3e/MEA_Adept_Profile.png/revision/latest?cb=20180308180448' 
-  style='width:325px' />
 
 
 #### Spell Slots
@@ -97,6 +93,11 @@ a long rest.
 
 For example, if you know the 1st-level spell lance and have a 1st-level and a 2nd-level spell slot available, you can
 cast lance using either slot.
+
+<img 
+  src='https://vignette.wikia.nocookie.net/masseffect/images/3/3e/MEA_Adept_Profile.png/revision/latest?cb=20180308180448' 
+  style='width:300px' />
+
 
 #### Spells Known of 1st Level and Higher
 You know three 1st-level spells of your choice from the adept spell list.
