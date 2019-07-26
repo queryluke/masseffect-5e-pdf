@@ -13,7 +13,8 @@ const order = [
     'chapter-3',
     'adept',
     'engineer',
-    'infiltrator'
+    'infiltrator',
+    'chapter-4'
 ]
 
 
