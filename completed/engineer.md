@@ -54,19 +54,19 @@ You can make an engineer quickly by following these suggestions. First, Intellig
 | 2nd | +2 | Subclass Feature | 4 | 1 |
 | 3rd | +2 | Engineer's Efficiency | 5 | 1 |
 | 4th | +2 | Ability Score Improvement | 7 | 1 |
-| 5th | +3 |  | 11 | 2 |
+| 5th | +3 | - | 11 | 2 |
 | 6th | +3 | Subclass Feature | 13 | 2 |
 | 7th | +3 | Recharge (1d4) | 15 | 2 |
 | 8th | +3 | Ability Score Improvement | 17 | 2 |
-| 9th | +4 |  | 20 | 3 |
+| 9th | +4 | - | 20 | 3 |
 | 10th | +4 | Subclass Feature | 23 | 3 |
 | 11th | +4 | Recharge (1d6) | 26 | 3 |
 | 12th | +4 | Ability Score Improvement | 26 | 3 |
-| 13th | +5 |  | 30 | 4 |
+| 13th | +5 | - | 30 | 4 |
 | 14th | +5 | Subclass Feature | 30 | 4 |
 | 15th | +5 | Recharge (1d8) | 34 | 4 |
 | 16th | +5 | Ability Score Improvement | 34 | 4 |
-| 17th | +6 |  | 39 | 5 |
+| 17th | +6 | - | 39 | 5 |
 | 18th | +6 | Subclass Feature | 42 | 5 |
 | 19th | +6 | Ability Score Improvement | 45 | 6 |
 | 20th | +6 | Invention | 50 | 6 |
