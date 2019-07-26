@@ -45,7 +45,7 @@ If you have a biotic implant, think about how long you’ve had the implant. It 
 #### Quick build
 
 You can make an adept quickly by following these suggestions. First, put your highest ability score in Wisdom. If you've
-choosen an asari as your race, put your highest ability score in Charisma, instead. Your next focus should be Dexterity
+chosen an asari as your race, put your highest ability score in Charisma, instead. Your next focus should be Dexterity
 or Constitution. Second, choose the Artisan background. Third, choose the _biotic punch_, _lift_, _phase disruptor_, and _throw_ cantrips, along with the following 1st level spells: _lance_ and _pull_.
 
 ## Class Features
@@ -76,7 +76,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Spellcasting
 
-Using your biotic implant or innate biotic talents, you can manimulate the mass of objects and space. See chapter 10 for the
+Using your biotic implant or innate biotic talents, you can manipulate the mass of objects and space. See chapter 10 for the
 general rules of spellcasting and chapter 11 for the list of spells.
 
 #### Cantrips
