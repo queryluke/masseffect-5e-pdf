@@ -24,9 +24,6 @@
 05-06-resting.md
 05-07-between-missions.md
 
-06-01-starting-equipment.md
-06-02-armor.md
-06-03-custom-armor.md
 06-04-weapons.md
 06-05-mods.md
 06-06-medi-gel.md
@@ -37,9 +34,6 @@
 06-11-tools-kits.md
 06-12-omni-tool-programs.md
 
-07-01-wealth.md
-07-02-selling-items.md
-07-03-discounts.md
 07-04-lifestyle-expenses.md
 07-05-cost-of-things.md
 
