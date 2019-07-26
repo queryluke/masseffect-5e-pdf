@@ -12,7 +12,8 @@ const order = [
     'asari',
     'chapter-3',
     'adept',
-    'engineer'
+    'engineer',
+    'infiltrator'
 ]
 
 
