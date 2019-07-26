@@ -48,8 +48,8 @@ You can make an engineer quickly by following these suggestions. First, Intellig
 
 <div class='classTable'>
 ##### Engineer
-| Level | Proficiency Bonus | Features | Tech Points | Tech Point Limit |
-| :---: | :---: | :--- | :--- | :--- |
+| <span style='font-size:12px'>Level</span> | <span style='font-size:12px'>Proficiency Bonus<span> | <span style='font-size:12px'>Features</span> | <span style='font-size:12px'>Tech Points</span> | <span style='font-size:12px'>Tech Point Limit</span> |
+| :---: | :---: | :--- | :---: | :---: |
 | 1st | +2 | Drone | 2 | 1 |
 | 2nd | +2 | Subclass Feature | 4 | 1 |
 | 3rd | +2 | Engineer's Efficiency | 5 | 1 |
