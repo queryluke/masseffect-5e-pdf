@@ -33,7 +33,7 @@ hanar.
 ```
 ```
 
-<div style='text-align: right; margin-top: 20px; font-style: italic;'>
+<div style='text-align: right; margin-top: 20px; font-style: italic'>
 [Citadel Nightlife by /u/Nahdude653](https://www.reddit.com/r/masseffect/comments/7p76yz/no_spoilers_citadel_nightlife/)
 </div>
 
@@ -119,6 +119,9 @@ are attributed to your race. The formula used for the race's starting credits is
 Longer-lived races (asari and krogan) have larger dice pools but smaller dice. Whereas, short-lived races
 have the opposite (small dice pools but larger dice). This represents the probability (and luck) of how many
 credits your character has amassed over the years.
+
+When you optionally choose to use your racial starting credits, you do not gain any recommended equipment packages
+from your chosen class nor your chosen background.
 
 #### Variants
 Some races have variants. These races are exist to represent the gamut of available races in the galaxy
