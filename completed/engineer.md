@@ -75,27 +75,21 @@ You can make an engineer quickly by following these suggestions. First, Intellig
 
 ## Class Features
 
-As a engineer, you gain the following class features
+As a engineer, you gain the following class features.
 
 #### Hit Points
-
-__Hit Dice__: 1d8 per engineer level
-
-__Hit Points at 1st Level__: 8 + your Constitution modifier
-
-__Hit Points at Higher Levels__: 1d8 (or 5) + your Constitution modifier per engineer level after 1st
+___
+- __Hit Dice__: 1d8 per engineer level
+- __Hit Points at 1st Level__: 8 + your Constitution modifier
+- __Hit Points at Higher Levels__: 1d8 (or 5) + your Constitution modifier per engineer level after 1st
 
 #### Proficiencies
-
-__Armor__: Light armor, medium armor
-
-__Weapons__: Heavy Pistols and choose one from Assault Rifles, Melee, or SMGs
-
-__Tools__: None
-
-__Saving Throws__: Constitution, Intelligence
-
-__Skills__: Choose three from Athletics, Electronics, Engineering, History, Investigation, Medicine, Science,  and Vehicle Handling
+___
+- __Armor__: Light armor, medium armor
+- __Weapons__: Heavy Pistols and choose one from Assault Rifles, Melee, or SMGs
+- __Tools__: Choose one from Armorsmith's Workbench, Tailor's Tools, Tinker's Tools, or Weaponsmith's Workbench
+- __Saving Throws__: Constitution, Intelligence
+- __Skills__: Choose three from Athletics, Electronics, Engineering, History, Investigation, Medicine, Science,  and Vehicle Handling
 
 ```
 ```
