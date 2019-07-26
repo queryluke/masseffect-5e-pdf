@@ -33,7 +33,7 @@ hanar.
 ```
 ```
 
-<div style='text-align: right; margin-top: 20px'>
+<div style='text-align: right; margin-top: 20px; font-style: italic;'>
 [Citadel Nightlife by /u/Nahdude653](https://www.reddit.com/r/masseffect/comments/7p76yz/no_spoilers_citadel_nightlife/)
 </div>
 
