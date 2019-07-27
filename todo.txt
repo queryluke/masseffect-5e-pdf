@@ -1,8 +1,5 @@
 
 
-03-02-multiclassing.md
-
-
 04-01-using-ability-scores.md
 04-02-ability-scores-and-modifiers.md
 04-03-advantage-and-disadvantage.md
