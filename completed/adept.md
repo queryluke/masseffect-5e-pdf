@@ -127,7 +127,7 @@ __Spell attack modifier__ = your proficiency bonus + your Wisdom modifier
 
 <div class='classTable wide'>
 ##### Adept
-  | <span style='font-size:12px'>Level</span> | <span style='font-size:12px'>Proficiency<br>Bonus</span> | <span style='font-size:12px'>Features</span> | <span style='font-size:12px'>Barrier<br>Uses</span> | <span style='font-size:12px'>Barrier<br>Ticks</span> | <span style='font-size:12px'>Cantrips<br>Known</span> | <span style='font-size:12px'>Spells<br>Known</span> | 1st | 2nd | 3rd | 4th | 5th |
+| <span style='font-size:12px'>Level</span> | <span style='font-size:12px'>Proficiency<br>Bonus</span> | <span style='font-size:12px'>Features</span> | <span style='font-size:12px'>Barrier<br>Uses</span> | <span style='font-size:12px'>Barrier<br>Ticks</span> | <span style='font-size:12px'>Cantrips<br>Known</span> | <span style='font-size:12px'>Spells<br>Known</span> | 1st | 2nd | 3rd | 4th | 5th |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1st | +2 | Barrier, Biotic Recovery | 2 | 2 | 4 | 3 | 2 | - | - | - | - |
 | 2nd | +2 | Subclass Feature | 2 | 2 | 4 | 4 | 4 | - | - | - | - |
@@ -164,7 +164,7 @@ any remaining damage it to other hit pools like tech armor, shields, temporary h
 Barrier lasts 1 minute. It ends early if you are knocked unconscious or have no barrier ticks remaining. 
 You can also end barrier at any time as a free action. When Barrier ends, you lose any remaining barrier ticks.
 
-Once you have used barrier the maximum number of times for your Adept, Sentinel, or Vanguard level (whichever is highest),
+Once you have used barrier the maximum number of times for your combined Adept, Sentinel, and/or Vanguard levels,
 you must finish a short rest before you can use it again. You may use barrier 2 times at 1st level, 3 at 3rd, 4 at 6th,
 5 at 12th, and 6 at 17th.
 
