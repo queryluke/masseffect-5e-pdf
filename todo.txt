@@ -24,9 +24,6 @@
 05-06-resting.md
 05-07-between-missions.md
 
-07-04-lifestyle-expenses.md
-07-05-cost-of-things.md
-
 08-01-vehicle-concept.md
 08-02-transports-starships.md
 08-03-basic-information.md
