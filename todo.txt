@@ -24,16 +24,6 @@
 05-06-resting.md
 05-07-between-missions.md
 
-06-04-weapons.md
-06-05-mods.md
-06-06-medi-gel.md
-06-07-thermal-clips.md
-06-08-grenades.md
-06-09-heavy-weapon-charges.md
-06-10-omni-gel.md
-06-11-tools-kits.md
-06-12-omni-tool-programs.md
-
 07-04-lifestyle-expenses.md
 07-05-cost-of-things.md
 
