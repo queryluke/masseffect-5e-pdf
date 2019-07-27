@@ -4,5 +4,4 @@ C: Weapons
 D: Weapon Mods
 E: Grenades & Mines
 F: Omni-tool Programs
-G: Vehicle Stats
-H: Conditions
+G: Conditions
