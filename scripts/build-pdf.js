@@ -14,7 +14,8 @@ const order = [
     'adept',
     'engineer',
     'infiltrator',
-    'chapter-4'
+    'chapter-4',
+    'chapter-5'
 ]
 
 
