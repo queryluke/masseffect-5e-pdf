@@ -11,6 +11,7 @@ const order = [
     'angara',
     'asari',
     'batarian',
+    'drell',
     'chapter-3',
     'adept',
     'engineer',
