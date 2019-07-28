@@ -75,6 +75,8 @@ ___
 ### Asari Traits
 Your asari character has an assortment of inborn abilities, all part of asari nature.
 
+__Galaxy Restriction__. None
+
 __Available Classes__. All classes
 
 __Ability Score Increase__. Your Charisma score increases by 2, and your Wisdom score increases by 1.
