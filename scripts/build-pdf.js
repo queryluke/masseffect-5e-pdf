@@ -10,6 +10,7 @@ const order = [
     'chapter_2',
     'angara',
     'asari',
+    'batarian',
     'chapter-3',
     'adept',
     'engineer',
