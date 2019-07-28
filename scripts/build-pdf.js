@@ -14,13 +14,14 @@ const order = [
     'drell',
     'elcor',
     'geth',
+    'hanar',
     'chapter-3',
     'adept',
     'engineer',
     'infiltrator',
     'chapter-4',
     'chapter-5',
-    'chapter-6'
+    'chapter-6',
 ]
 
 
