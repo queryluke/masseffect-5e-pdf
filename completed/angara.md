@@ -24,12 +24,9 @@ reincarnated and the reincarnated soul stays in the family, making their lineage
 ### Angara Names
 Little is known about angaran names. But it is assumed that they do not use family names given the collective nature
 of their families.
-
-__Male names__: Afray De If, Dadh Qjavaf, Gorsa Afe Ol, Jahkis Tora Sje, Jef De Gan, Khahnos De Ivraan, Kjojey Sheda Af, 
-Orvfiy Qirshae Ak, Nel Sja, Qos De Ivfre, Sihris De Or, Tashed De Kjerad, Val Gafa
-                
-__Female Names__: Afihia De Xana, Avfaarian, Dhahfrin Sa, Fohfania, Hefrehal Ven, Inil Sefe, Jalshaye, Janvfe Sje, 
-Nalvi Sjarshev, Noshfa Seme Tavfal, Oni Vor, Onne De Tiv, Ovih Qjana In, Sohnani Sirshav, Yihvref
+___
+- __Male names__: Afray De If, Dadh Qjavaf, Gorsa Afe Ol, Jahkis Tora Sje, Jef De Gan, Khahnos De Ivraan, Kjojey Sheda Af, Orvfiy Qirshae Ak, Nel Sja, Qos De Ivfre, Sihris De Or, Tashed De Kjerad, Val Gafa            
+- __Female Names__: Afihia De Xana, Avfaarian, Dhahfrin Sa, Fohfania, Hefrehal Ven, Inil Sefe, Jalshaye, Janvfe Sje, Nalvi Sjarshev, Noshfa Seme Tavfal, Oni Vor, Onne De Tiv, Ovih Qjana In, Sohnani Sirshav, Yihvref
 
 <source-reference pages="Angara" source="wiki"></source-reference>
 
@@ -40,7 +37,7 @@ Angara have a number of abilities that reflect their unique bio-electric phisiol
 
 __Galaxy Restriction__. Andromeda
 
-__Class Restriction__. Engineer, Infiltrator, Soldier
+__Available Classes__. Engineer, Infiltrator, Soldier
 
 __Ability Score Increase__. Your Charisma score increases by 2, and your Constitution score increases by 1.
 
