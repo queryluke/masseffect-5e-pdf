@@ -47,28 +47,33 @@ asari destroy the partner's mind during melding, occurs much more frequently amo
 \page
 
 ### Maiden, Matron, Matriarch
-Asari pass through three climacteric life stages, marked by biochemical and physiological changes. The __Maiden__ stage 
+Asari pass through three climacteric life stages, marked by biochemical and physiological changes. 
+
+The __Maiden__ stage 
 begins at puberty and is marked by the drive to explore and experience. Most young asari are curious and restless, and 
-it is not uncommon for many to try their hand at dancing in bars or working as mercenaries during this time. The __Matron__ 
+it is not uncommon for many to try their hand at dancing in bars or working as mercenaries during this time. 
+
+The __Matron__ 
 stage of life begins around the age of 350, though it can be triggered earlier if the individual melds frequently. This 
-period is marked by a desire to settle in one area and raise children. The __Matriarch__ stage begins around 700 years 
+period is marked by a desire to settle in one area and raise children. 
+
+The __Matriarch__ stage begins around 700 years 
 of age, or earlier if the individual melds rarely. Matriarchs become active in their community as sages and councilors, 
 dispensing wisdom from centuries of experience. Their knowledge and guidance may be one reason why Matriarchs are rarely seen outside asari space.
+
 However, each stage can be started whenever an asari feels that she has reached the correct level of maturity. 
 
 ### Asari Names
 Asari are given a personal name by their parents and take the surname of their mothers, even if the child has 2 asari 
 parents. Outside of asari communities, they normally do not use their surnames and prefer to introduce themselves with 
 their personal name only. Matriarchs are addressed as "Matriarch" but other titles may be used for matriarchs in prestigious positions.
-
-__Personal Names__: Aeian, Aethyta, Aleena, Alestia, Aria, Batha, Benezia, Dahlia, Falere, Irissa, Jona, Liara, Lidanya, 
-Liselle, Mallene, Morinth, Nassana, Nyxeris, Pelessaria, Rana, Rila, Samara, Sarissa, Shiala, Tela, Tevos, Treeya
-
-__Surnames__: Ateyne, B'Sayle, Calis, D'Layne, D'Nava, D'Ysesan, Dantius, Iallis, Iasava, Janieri, Kelis, M'Loari, M'Taros, 
-Makenus, Nuwani, Sedela, Sederis, T'Goni, T'Loak, T'Soni, Thanoptis, Theris, V'Lanis, V'Nato, V'Tizor, Vasir
+___
+- __Personal Names__: Aeian, Aethyta, Aleena, Alestia, Aria, Batha, Benezia, Dahlia, Falere, Irissa, Jona, Liara, Lidanya,  Liselle, Mallene, Morinth, Nassana, Nyxeris, Pelessaria, Rana, Rila, Samara, Sarissa, Shiala, Tela, Tevos, Treeya
+- __Surnames__: Ateyne, B'Sayle, Calis, D'Layne, D'Nava, D'Ysesan, Dantius, Iallis, Iasava, Janieri, Kelis, M'Loari, M'Taros, Makenus, Nuwani, Sedela, Sederis, T'Goni, T'Loak, T'Soni, Thanoptis, Theris, V'Lanis, V'Nato, V'Tizor, Vasir
 
 
 ### Asari Traits
+Your asari character has an assortment of inborn abilities, all part of asari nature.
 
 __Available Classes__. All classes
 
@@ -113,10 +118,6 @@ develop an addiction to the power and feel intense compulsion to meld. The addit
 and so a life of monastic celibacy allows asari to leave in peace with a controllable desire. Those who are able to 
 avoid isolation and execution, however, quickly become psychopathic in their intense lust for the destructive melding.
 
-
-<img 
-  src='https://vignette.wikia.nocookie.net/masseffect/images/f/fe/Tumblr_m0s62pEgCZ1qzlt9vo1_500.jpg/revision/latest?cb=20141201203906&path-prefix=es' 
-  style='width:350px; margin-top: 10px' />
 
 #### Variant Traits
 If you would like to play an ardat-yakshi, you can choose to replace the _Alignment_ and _Mind Meld_ traits with the following.
