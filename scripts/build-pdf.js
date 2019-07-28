@@ -21,6 +21,8 @@ const order = [
     'quarian',
     'salarian',
     'turian',
+    'vorcha',
+    'volus',
     'chapter-3',
     'adept',
     'engineer',
