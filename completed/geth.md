@@ -86,7 +86,7 @@ but if you are wielding a weapon or shield that provides additional AC, you appl
 You can alter your armor type for 2 omni-gel each time you finish a long rest. Choose one mode to adopt from the
 Integrated Protection table, provided you meet the mode’s prerequisite.
 
-Mode | Prerequisite | AC
+<span style='font-size:12px;'>Mode</span> | <span style='font-size:12px;'>Prerequisite</span> | <span style='font-size:12px;'>AC</span>
 :--- | :--- | ---
 Lithe | None | 11 + your Dexterity Modifier. Advantage on Dexterity (Stealth) checks.
 Composite Plating | Medium armor proficiency | 12 + your Dexterity modifier (maximum of 2) + proficiency bonus
@@ -111,11 +111,9 @@ per long rest. Hunter Mode grants the following benefits:
 
 At 11th level, you gain an additional benefit based on your class:
 
-Class | Benefit
-:--- | ---
-Engineer | When you cast a spell, the die type of that spell increases by 1 die type (max d12). If the die type is already d12, add +1 for each die rolled instead.
-Soldier | Your extra attack features grants you 1 additional attack the first time you take the Attack action on your turn.
-Infiltrator | Increase your sneak attack die type to d8 (if you are a Shadow Infiltrator, your sneak attack for melee weapons attacks is a d10).
+- *Engineer*. When you cast a spell, the die type of that spell increases by 1 die type (max d12). If the die type is already d12, add +1 for each die rolled instead.
+- _Soldier_. Your extra attack features grants you 1 additional attack the first time you take the Attack action on your turn.
+- _Infiltrator._ Increase your sneak attack die type to d8 (if you are a Shadow Infiltrator, your sneak attack for melee weapons attacks is a d10).
 
 
 __Repair Matrix__. As a construct, you cannot be healed by medi-gel or spells that heal organic creatures (such as the _first aid_ spell).
