@@ -15,6 +15,7 @@ const order = [
     'elcor',
     'geth',
     'hanar',
+    'human',
     'chapter-3',
     'adept',
     'engineer',
