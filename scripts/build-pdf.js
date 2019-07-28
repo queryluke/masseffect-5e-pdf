@@ -13,6 +13,7 @@ const order = [
     'batarian',
     'drell',
     'elcor',
+    'geth',
     'chapter-3',
     'adept',
     'engineer',
