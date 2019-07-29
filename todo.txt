@@ -1,18 +1,5 @@
 
 
-04-01-using-ability-scores.md
-04-02-ability-scores-and-modifiers.md
-04-03-advantage-and-disadvantage.md
-04-04-proficiency-bonus.md
-04-05-ability-checks.md
-04-06-strength.md
-04-07-dexterity.md
-04-08-constitution.md
-04-09-intelligence.md
-04-10-wisdom.md
-04-11-charisma.md
-04-12-saving-throws.md
-
 05-01-missions.md
 05-02-time.md
 05-03-movement.md
