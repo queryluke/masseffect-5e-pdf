@@ -1,3 +1,20 @@
+
+
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Part 2
+# Rules of Play
+
+<div style='margin-top:25px'></div>
+
+\page
+
 # Chapter 7: Using Ability Scores
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
