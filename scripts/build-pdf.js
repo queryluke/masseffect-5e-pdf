@@ -5,7 +5,6 @@ const order = [
     'table_of_contents',
     'preface',
     'introduction',
-    'part_1',
     'chapter_1',
     'chapter_2',
     'angara',
