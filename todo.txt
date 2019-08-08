@@ -1,13 +1,3 @@
-
-
-05-01-missions.md
-05-02-time.md
-05-03-movement.md
-05-04-environment.md
-05-05-social-interaction.md
-05-06-resting.md
-05-07-between-missions.md
-
 08-01-vehicle-concept.md
 08-02-transports-starships.md
 08-03-basic-information.md
