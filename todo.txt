@@ -8,14 +8,6 @@
 08-08-other-rules.md
 08-10-creating-vehicles.md
 
-09-01-order-of-combat.md
-09-02-movement-and-position.md
-09-03-actions-in-combat.md
-09-04-making-an-attack.md
-09-05-cover.md
-09-06-damage-and-healing.md
-09-07-shields.md
-
 10-01-what-is-a-spell.md
 10-02-spell-types.md
 10-03-spell-level.md
