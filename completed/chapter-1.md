@@ -1,3 +1,20 @@
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
+# Part 1
+# Character Creation
+
+<div style='margin-top:25px'></div>
+\page
+
+
+
+
+
 # Chapter 1: Step-by-Step Characters
 ## Overview
 
@@ -133,7 +150,7 @@ notes the proficiency bonus for a 1st-level character, which is +2.
 Much of what your character does in the game depends on his or her six abilities: __Strength__, __Dexterity__, __Constitution__,
 __Intelligence__, __Wisdom__, and __Charisma__. Each ability has a score, which is a number you record on your character sheet.
 
-The six abilities and their use in the game are described in chapter 7. The Ability Score Summary provides a quick reference
+The six abilities and their use in the game are described in chapter 7. The Ability Score Summary provides a quick reference 
 for what qualities are measured by each ability, what races increases which abilities, and what classes consider each ability
 particularly important.
 
@@ -186,7 +203,7 @@ ___
 	___
     - <span style='width: 100px; display: inline-block'>Geth (+2)</span> Quarian (+1)
 	- <span style='width: 100px; display: inline-block'>Salarian (+2)</span> Volus (+1)
-	- <span style='width: 100px; display: inline-block'>Human (+1)</span>
+	- <span style='width: 100px; display: inline-block'>Human (+1)</span> 
 
 | | |
 |-|-|
@@ -199,7 +216,7 @@ ___
     - <span style='width: 100px; display: inline-block'>Hanar (+2)</span> Drell (+1)
 	- <span style='width: 100px; display: inline-block'>Prothean (+2)</span> Elcor (+1)
 	- <span style='width: 100px; display: inline-block'>Volus (+2)</span> Human (+1)
-    - <span style='width: 100px; display: inline-block'>Asari (+1)</span>
+    - <span style='width: 100px; display: inline-block'>Asari (+1)</span> 
 
 | | |
 |-|-|
@@ -211,9 +228,9 @@ ___
 	___
     - <span style='width: 100px; display: inline-block'>Angara (+2)</span> Hanar (+1)
 	- <span style='width: 100px; display: inline-block'>Asari (+2)</span> Human (+1)
-	- <span style='width: 100px; display: inline-block'>Batarian (+2)</span>
-
-
+	- <span style='width: 100px; display: inline-block'>Batarian (+2)</span> 
+    
+    
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | STEP-BY-STEP CHARACTERS</div>
 
@@ -323,13 +340,13 @@ A background gives your character a background feature (a general benefit) and p
 you proficiency with certain kinds of tools. Record this information, along with the personality information you develop, on your
 character sheet.
 
-<img
-  src='https://raw.githubusercontent.com/queryluke/masseffect-5e-pdf/master/images/kaleem.png'
+<img 
+  src='https://raw.githubusercontent.com/queryluke/masseffect-5e-pdf/master/images/kaleem.png' 
   style='position:absolute; bottom:60px; right:30px; width:400px' />
-
+  
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | STEP-BY-STEP CHARACTERS</div>
-
+  
 \page
 
 #### Your Character's Abilities
@@ -437,9 +454,9 @@ includes Stock Medium Armor which (after adding her Dexterity modifier) gives Ka
 For Kaleem’s weapons, Sam chooses an M-8 Avenger (because she took the Assault Rifle proficiency) and an Omni-torch.
 Her M-8 Avenger is a ranged weapon, so Kaleem uses her Dexterity modifier for her attacks and damage. Her attack bonus is
 her Dexterity modifier (+2) plus her proficiency bonus (+2), for a total of +4. The M-8 Avenger deals 1d8 piercing damage,
-and Kaleem adds her Dexterity modifier to the damage when she hits, for a total of 1d8 + 2 piercing damage. Notice,
+and Kaleem adds her Dexterity modifier to the damage when she hits, for a total of 1d8 + 2 piercing damage. Notice, 
 she does not add her proficiency bonus to the damage roll, only the attack roll. When using the
-Omni-torch, a melee weapon, Kaleem adds her Strength modifier (+1) to the attack roll and the damage roll. But, because
+Omni-torch, a melee weapon, Kaleem adds her Strength modifier (+1) to the attack roll and the damage roll. But, because 
 she is not proficient with melee weapons, she does not add her proficiency bonus to the attack roll.
 
 ### 6. Coming Together
@@ -483,24 +500,24 @@ what other improvements you gain at each level.
 The shading in the Character Advancement table shows the four tiers of play. The tiers don’t have any rules associated with them;
 they are a general description of how the play experience changes as characters gain levels.
 
-In the __first tier__ (levels 1–4), characters are effectively rookies. They are learning the features
+In the __first tier__ (levels 1–4), characters are effectively rookies. They are learning the features 
 that define them as members of particular classes, including the major choices that flavor their class features.
 The threats they face are relatively minor, usually dealing with street gangs, small crimes, or loose pyjaks.
 
-In the __second tier__ (levels 5–10), characters come into their own. Operatives should start acquiring __uncommon__ level
+In the __second tier__ (levels 5–10), characters come into their own. Operatives should start acquiring __uncommon__ level 
 equipment, increasing their combat potential. These characters have become important members of their factions (if they have
-one), facing organized crime syndicates like the Blue Suns, Eclipse, and Blood Pack, and deal with threats to small colonies
+one), facing organized crime syndicates like the Blue Suns, Eclipse, and Blood Pack, and deal with threats to small colonies 
 and medium-sized corporations.
 
-In the __third tier__ (levels 11–16), characters have reached a level of noteriety that sets them high above the ordinary
+In the __third tier__ (levels 11–16), characters have reached a level of noteriety that sets them high above the ordinary 
 populace and makes them special even among other operatives. This tier is equivalent to reaching N7 and would
-be the tier at which Shepard started in Mass Effect 1. Operatives gain access to __rare__ quality weapons and armor and might
-begin crafting their own unique armor with capabilities that further their potential. These operatives often confront threats
+be the tier at which Shepard started in Mass Effect 1. Operatives gain access to __rare__ quality weapons and armor and might 
+begin crafting their own unique armor with capabilities that further their potential. These operatives often confront threats 
 to whole cities, are conscripted my major corporations to protect valuable assets, and are sent unexplored and dangerous
 planets. Additionally, within this tier, the party generally acquires their own personal starship which opens up
 travel across the galaxy.
 
-At the __fourth tier__ (levels 17–20), characters achieve the pinnacle of their class features, becoming heroic
+At the __fourth tier__ (levels 17–20), characters achieve the pinnacle of their class features, becoming heroic 
 (or villainous) archetypes in their own right. They begin collecting __spectre__ level equipment, the very best the galaxy
 can offer. The fate of the entire universe might hang in the balance during their adventures.
 
