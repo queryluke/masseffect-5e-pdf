@@ -76,8 +76,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Spellcasting
 
-Using your biotic implant or innate biotic talents, you can manipulate the mass of objects and space. See chapter 11 for the
-general rules of spellcasting and chapter 12 for the list of spells.
+Using your biotic implant or innate biotic talents, you can manipulate the mass of objects and space. See chapter 12 for the
+general rules of spellcasting and chapter 13 for the list of spells.
 
 #### Cantrips
 At 1st level, you know four cantrips of your choice from the adept spell list. You learn additional adept cantrips of
