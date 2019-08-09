@@ -104,8 +104,8 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Spellcasting
 
-Your omni-tool is the source of your spellcasting capabilities. See chapter 11 for the
-general rules of spellcasting and chapter 12 for the list of spells.
+Your omni-tool is the source of your spellcasting capabilities. See chapter 12 for the
+general rules of spellcasting and chapter 13 for the list of spells.
 
 #### Preparing and casting spells
 The Engineer table shows how many tech points you have to cast your spells of 1st level and higher. To cast one of these
