@@ -337,6 +337,9 @@ of this spell without expending any tech points. If you cast the power at a high
 
 You can prepare the advanced version of the selected spell at the cost of 1 prepared spell.
 
+At 11th level, you can cast a 2 tech point version of your selected spell without expending 
+any tech points.
+
 With 8 hours of programming your omni-tool, you can exchange the selected spell with either Cryo Blast, Incinerate, or Overload.
 
 ### Ability Score Improvement
