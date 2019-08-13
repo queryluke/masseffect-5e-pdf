@@ -228,7 +228,7 @@ if a set provides:
 - __Set Bonus (2 of 4)__: +1 AC 
 - __Set Bonus (4 of 4)__: +1 AC
 
-If you are wearing the head and chest pieces, you gain +0 AC from the helmet and +2 AC from the chest piece (as calculated using hte Armor / AC table). In addition you gain +1 AC from weaing 2 pieces of the set.
+If you are wearing the head and chest pieces, you gain +0 AC from the helmet and +2 AC from the chest piece (as calculated using the Armor / AC table). In addition you gain +1 AC from weaing 2 pieces of the set.
 
 Note, you _do not_ gain +1 AC for the head _and_ +1 AC for the chest. As soon as you remove either the helmet or the chest piece, you loose the +1 AC bonus.
 
