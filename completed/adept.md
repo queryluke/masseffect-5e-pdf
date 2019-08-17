@@ -270,7 +270,7 @@ immunity.
 
 ### Blackstar
 
-Blackstars prefer controlling the battlefield over raw power. They can shape their biotic powers to avoid hurting friends and gain unique benefits to biotic control spells like Life, Singularity, and Stasis.
+Blackstars prefer controlling the battlefield over raw power. They can shape their biotic powers to avoid hurting friends and gain unique benefits to biotic control spells like Lift, Singularity, and Stasis.
 
 #### Sculpt Biotics
 
