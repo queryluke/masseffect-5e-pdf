@@ -13,5 +13,8 @@
     "esm": "^3.2.25",
     "fs": "0.0.1-security",
     "lodash": "^4.17.15"
+  },
+  "dependencies": {
+    "front-matter": "^3.0.2"
   }
 }

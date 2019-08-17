@@ -1,14 +1,52 @@
 const fs = require('fs')
 const fm = require('front-matter')
 const _ = require('lodash')
-import listOfChoices from './../../plugins/filters/listOfChoices'
-import ordinal from './../../plugins/filters/ordinal'
+import listOfChoices from './../../masseffect-5e/plugins/filters/listOfChoices'
+import ordinal from './../../masseffect-5e/plugins/filters/ordinal'
+
+const xpByCr = [
+  {cr: 0, xp: 10},
+  {cr: '1/8', xp: 25},
+  {cr: '1/4', xp: 50},
+  {cr: '1/2', xp: 100},
+  {cr: 1, xp: 200},
+  {cr: 2, xp: 450},
+  {cr: 3, xp: 700},
+  {cr: 4, xp: 1100},
+  {cr: 5, xp: 1800},
+  {cr: 6, xp: 2300},
+  {cr: 7, xp: 2900},
+  {cr: 8, xp: 3900},
+  {cr: 9, xp: 5000},
+  {cr: 10, xp: 5900},
+  {cr: 11, xp: 7200},
+  {cr: 12, xp: 8400},
+  {cr: 13, xp: 10000},
+  {cr: 14, xp: 11500},
+  {cr: 15, xp: 13000},
+  {cr: 16, xp: 15000},
+  {cr: 17, xp: 18000},
+  {cr: 18, xp: 20000},
+  {cr: 19, xp: 22000},
+  {cr: 20, xp: 25000},
+  {cr: 21, xp: 33000},
+  {cr: 22, xp: 41000},
+  {cr: 23, xp: 50000},
+  {cr: 24, xp: 62000},
+  {cr: 25, xp: 75000},
+  {cr: 26, xp: 90000},
+  {cr: 27, xp: 105000},
+  {cr: 28, xp: 120000},
+  {cr: 29, xp: 135000},
+  {cr: 30, xp: 155000}
+]
+
 
 // potentially rerun certain sections
 const limit = process.argv[2]
 
 function mdFiles(dir) {
-  const path = `./static/data/${dir}`
+  const path = `./../masseffect-5e/static/data/${dir}`
   const files = fs.readdirSync(path)
 
   return files.map((file) => {
@@ -40,7 +78,7 @@ function simplePart(collection, section, subSection) {
 }
 
 function write(file, text) {
-  fs.writeFileSync(`./.manual/parts/${file}.md`, text)
+  fs.writeFileSync(`./parts/${file}.md`, text)
 }
 
 const rules = mdFiles('rules')
@@ -312,4 +350,62 @@ if (limit === 'chapter4') {
   write('04/03-backgrounds', text)
 }
 
+// Vehicle List
 
+if (limit === 'vehicles') {
+  const vehicles = mdFiles('vehicles')
+  const text = []
+  for (const v of vehicles) {
+    const vt = []
+    vt.push('___\n___')
+    vt.push(`> ## ${v.name}`)
+    const subtype = v.vehicle.subtype ? ` (${v.vehicle.subtype})` : ''
+    vt.push(`> *${_.startCase(v.size)} ${v.vehicle.type}${subtype}*`)
+    vt.push('> ___')
+    vt.push(`> - **Armor Class** ${v.ac}`)
+    vt.push(`> - **Hull Points** ${v.hp.toLocaleString()}`)
+    vt.push(`> - **Shield Points** ${v.sp.toLocaleString()}`)
+    vt.push(`> - **Speed** ${v.speed}`)
+    vt.push('> ___')
+    vt.push(`> - **Range** ${_.parseInt(v.range.replace(/\D/g, '')).
+        toLocaleString()} ${v.range.replace(/[^A-Za-z]/g, '')}`)
+    vt.push(`> - **Crew** Minimum ${v.crew.min}. Maximum ${v.crew.max}`)
+    const cost = _.isInteger(v.cost) ? v.cost.toLocaleString() : v.cost
+    vt.push(`> - **Cost** ${cost}`)
+    vt.push(`> - **Cargo Capacity** ${v.cargo} tonnes`)
+    const crXp = xpByCr.find(c => c.cr.toString() === v.cr.toString().replace(/\D/g,''))
+    if (crXp) {
+      vt.push(`> - **Challenge** ${v.cr} (${crXp.xp.toLocaleString()} XP)`)
+    } else {
+      console.log(`could not find cr: ${v.cr}`)
+    }
+    vt.push('>')
+    vt.push('> ### Systems')
+    for (const s of v.systems) {
+      if (s.type === 'combined') {
+        vt.push(`> ***Combined (${s.systems.join(', ')}).*** ${s.crew} crew`)
+      } else {
+        vt.push(`> ***${s.type}.*** ${s.crew} crew`)
+      }
+      vt.push('>')
+    }
+    const addSystems = v.body.match(/__Additional Systems__:(.*)/gm)
+    if (addSystems) {
+      const addSystemsText = addSystems[0].replace(/__Additional Systems__: /g, '')
+      vt.push(`> ***Additional Systems.*** ${addSystemsText}`)
+    }
+    if (v.weapons) {
+      vt.push('> ### Weapons')
+      for (const w of v.weapons) {
+        vt.push(`> ***${w.name}.*** ${w.damage}`)
+        vt.push('>')
+      }
+    }
+    vt.push(`\n ${v.body}`)
+    if (v.image) {
+      vt.push(`\n <img src='${v.image}' style='width:325px' />`)
+    }
+    text.push(vt.join('\n'))
+  }
+  write('vehicles',text.join('\n\n'))
+}
