@@ -359,7 +359,6 @@ determined, it resolves normally.
 ### Hair-Trigger
 _Prerequisite: Dexterity 13 or higher_
 - Increase your Dexterity score by 1, to a maximum of 20.
-- When wielding only one Double Tap weapon, you may make a second ranged attack on the same target as your first ranged attack as a free action. You may do this once per turn.
 - When you use your bonus action or free action to make a ranged attack with a Double Tap weapon, you add your ability modifier to the damage roll.
 
 
