@@ -21,8 +21,7 @@ The primary feature of an infiltrator is their tactical cloak. Using refractive 
 
 Because of their clandestine capabilities, infiltrators are generally recruited as spies, assassins, and thieves. As such, infiltrators also prefer to work alone. Too many missions are botched by the boldness of a soldier, the unreliable tech of engineers, or the chaotic nature of biotics. However, some infiltrators do find roles in larger squads, typically motivated by the call of a greater objective.
 
-<img 
-  src='https://n7.world/images/classes/engineer.png' 
+<img  src='https://n7.world/images/classes/infiltrator.png'
   style='width:325px; margin-top: 140px' />
 
 ### Skill and Precision
@@ -71,7 +70,7 @@ Also, think about your relationships with other beings. Do you prefer to work al
 
 
 #### Quick Build
-You can make an engineer quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to focus on hacking and tech spells. Choose Charisma instead if you plan to emphasize deception and social interactions. Second, choose the Faction Agent background.
+You can make an infiltrator quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to focus on hacking and tech spells. Choose Charisma instead if you plan to emphasize deception and social interactions. Second, choose the Faction Agent background.
 
 ## Class Features
 
