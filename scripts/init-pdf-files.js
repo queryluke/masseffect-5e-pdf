@@ -466,3 +466,33 @@ if (limit === 'spells') {
 
   write('spells', text)
 }
+
+// armor sets
+
+if (limit === 'armorsets') {
+  const sets = require('./../../masseffect-5e/static/data/armor_sets')
+
+  let text = ''
+
+  for (const s of sets) {
+    text += `#### ${s.name}\n`
+    const ado = s.andromeda ? ', Andromeda-only' : ''
+    text += `*${s.armorType} ${_.lowerCase(s.type)}, ${_.lowerCase(s.rarity)}${ado}*\n`
+    text += '___\n'
+    text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
+    if (s.feature) {
+      text += '\n'
+      text += `${s.feature.split('--').join(' ')}.\n`
+    }
+    if (s.setBonus) {
+      const bonuses = s.setBonus.split('--').map((b) => {
+        return b.trim().replace(/set bonus \((\d) of (\d)\):/gi, function(match, p1, p2) {
+          return `___Set Bonus (${p1} of ${p2}).___`
+        })
+      })
+      text += `\n${bonuses.join('\n\n')}`
+    }
+    text += '\n\n\n\n'
+  }
+  write('armor-sets', text)
+}
