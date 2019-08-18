@@ -436,3 +436,33 @@ if (limit === 'spelllist') {
   }
   write('spell-list',text)
 }
+
+// spells
+
+if (limit === 'spells') {
+  const spells = mdFiles('spells')
+
+  let text = ''
+
+  for (const s of spells) {
+    text += `#### ${s.name}\n`
+    text += s.level === 0 ? `*${_.startCase(s.type)} cantrip*\n` : `*${ordinal(s.level)}-level ${s.type}*\n`
+    text += '___\n'
+    text += `- **Casting Time:** ${s.castingTime}\n`
+    text += `- **Range:** ${s.distance.range}\n`
+    text += `- **Duration:** ${s.concentration ? `Concentration, up to ${s.duration}` : s.duration}\n`
+    text += '\n'
+    const body = s.body.replace(/__At Higher Levels__:?\.?/i,'___At Higher Levels.___').replace(/<condition id="(.*?)"\/?>/g, function(m,p1) {
+      return `*${p1}*`
+    })
+    text += body
+    text += '\n'
+    text += '___\n- __Advancements__\n'
+    for (const adv of s.advancementOptions) {
+      text += `- *${adv.name}.* ${adv.description}\n`
+    }
+    text += '\n\n\n\n'
+  }
+
+  write('spells', text)
+}
