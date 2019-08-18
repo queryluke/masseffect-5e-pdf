@@ -409,3 +409,30 @@ if (limit === 'vehicles') {
   }
   write('vehicles',text.join('\n\n'))
 }
+
+
+// Spell list
+
+if (limit === 'spelllist') {
+  const spells = mdFiles('spells')
+  const classes = require('./../../masseffect-5e/static/data/classes')
+  let text = ''
+  for(const c of classes) {
+    text += `\n\n<div class='spellList'>\n### ${c.name}`
+    const cs = spells.filter(s => s.availableClasses.includes(c.id))
+    for(const lvl of [0,1,2,3,4,5]) {
+      const lvls = cs.filter(s => s.level === lvl)
+      if (lvls.length > 0) {
+        if (lvl === 0) {
+          text += `\n##### Cantrips (0 Level)`
+        } else {
+          text += `\n##### ${ordinal(lvl)} Level`
+        }
+        const names = lvls.map(s => `- ${s.name}`)
+        text += `\n${names.join('\n')}\n`
+      }
+    }
+    text += '</div>'
+  }
+  write('spell-list',text)
+}
