@@ -3,6 +3,10 @@ Most armor you buy in the galaxy has been mass-produced, these are called armor 
 
 Some armore pieces are identified as __Andromeda Only__, meaning these pieces would only be available if you set your campaign in the Andromeda Galaxy.
 
+## Armor Set List
+
+The Armor Sets are presented in alphabetical order.
+
 #### Andromeda Elite Helmet
 *Light head, rare*
 ___
@@ -96,6 +100,16 @@ As an action, you can activate a tactical cloak, becoming invisible. The cloak l
 
 
 
+#### BT Suit
+*Light body armor, rare*
+___
+- **Cost:** 73,950
+
+You can regain 2d4 tech points every short rest.
+
+
+
+
 #### Batarian Talon Gauntlets
 *Light arms, uncommon*
 ___
@@ -118,9 +132,12 @@ ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you ma
 ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
 
+
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>APPENDIX A | ARMOR SETS</div>
 \page
+
 
 #### Blood Dragon Curiass
 *Medium chest, spectre*
@@ -161,16 +178,6 @@ ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack y
 
 
 
-#### BT Suit
-*Light body armor, rare*
-___
-- **Cost:** 73,950
-
-You can regain 2d4 tech points every short rest.
-
-
-
-
 #### Capacitor Helmet
 *Medium head, uncommon*
 ___
@@ -179,8 +186,7 @@ ___
 +1 AC. Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
 
-```
-```
+
 
 #### Cerberus Ajax Gauntlets
 *Medium arms, uncommon*
@@ -270,9 +276,6 @@ ___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
 ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
 
 #### Cerberus Nightmare Chestpiece
 *Light chest, spectre*
@@ -287,7 +290,9 @@ ___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
 
 ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### Cerberus Nightmare Gloves
 *Light arms, spectre*
@@ -429,10 +434,6 @@ ___Set Bonus (3 of 4).___ Resistance to fire and force damage.
 ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
-
 
 #### Colossus Gauntlets
 *Heavy hands, rare*
@@ -463,6 +464,9 @@ ___Set Bonus (3 of 4).___ Resistance to fire and force damage.
 ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### Colossus Helmet
 *Heavy head, rare*
@@ -550,7 +554,6 @@ Advantage on Strength checks and saving throws.
 
 
 
-
 #### Enviro-Greaves
 *Light legs, uncommon*
 ___
@@ -571,22 +574,22 @@ ___
 
 
 
-#### Gladiator Armor
-*Heavy body armor, uncommon*
-___
-- **Cost:** 42,500
-
-10 shields (regen 5). +1 AC
-
-
-
-
 #### GUARDIAN Gauntlets
 *Medium arms, rare*
 ___
 - **Cost:** 40,800
 
 When you are forced to make a saving throw from a heavy weapon attack that required targeting, you may use your reaction to reduce the damage done to you to 0. You may use this feature once per long rest.
+
+
+
+
+#### Gladiator Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 42,500
+
+10 shields (regen 5). +1 AC
 
 
 
@@ -622,17 +625,13 @@ ___
 ___Set Bonus (2 of 2).___ +3 AC
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
 
-
-#### Survivor Armor
-*Medium body armor, uncommon*
+#### Hoplite Armor
+*Light body armor, uncommon*
 ___
-- **Cost:** 30,600
+- **Cost:** 80,750
 
-+1 AC
+20 shields (regen 10).  +2 AC.
 
 
 
@@ -651,6 +650,9 @@ ___Set Bonus (3 of 4).___ +10 Shields, +5 Shield Regen.
 ___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### HyperGuardian Gauntlets
 *Heavy arms, uncommon*
@@ -706,8 +708,7 @@ ___
 
 ___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expend a charge of medi-gel.
 
-```
-```
+
 
 #### Inferno Helmet
 *Medium head, rare*
@@ -732,6 +733,8 @@ ___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negativ
 ___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negative effects at the first two levels.
 
 
+```
+```
 
 #### Initiative Gauntlets
 *Medium arms, uncommon*
@@ -780,9 +783,7 @@ ___
 +2 AC
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
+
 
 #### Kett Chestplate
 *Heavy chest, rare, Andromeda-only*
@@ -798,6 +799,9 @@ ___Set Bonus (3 of 4).___ Your Strength score is 21 while you wear this armor. T
 ___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. There is no effect on you if your Strength is 23 or higher without it.
 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### Kett Greaves
 *Heavy legs, rare, Andromeda-only*
@@ -861,8 +865,8 @@ ___
 
 10 shields (regen 5).  +1 AC
 
-
-
+```
+```
 
 #### Lockdown Greaves
 *Heavy legs, uncommon*
@@ -870,16 +874,6 @@ ___
 - **Cost:** 18,700
 
 As a bonus action, the wearer can activate the effect of the greaves to stick to the surface they are walking on, provided it's made of metal. This can aid them in walking up walls, upside down, etc. If the surface is metal, the user is immune to being lifted, otherwise, they have advantage on saving throws against being lifted. The effect lasts for 1 minute and can only be used once per short rest.
-
-
-
-
-#### Skirmish Armor
-*Medium body armor, uncommon*
-___
-- **Cost:** 39,950
-
-+1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
 
 
 
@@ -919,9 +913,6 @@ ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining
 ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
 
 #### Maverick Visor
 *Light head, uncommon, Andromeda-only*
@@ -935,6 +926,9 @@ ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining
 ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
 
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### Maverick Wraps
 *Light arms, uncommon, Andromeda-only*
@@ -969,6 +963,19 @@ When you roll a 1 damage die for an attack you make with a biotic spell, you can
 
 
 
+#### N7 Chestplate
+*Medium chest, rare*
+___
+- **Cost:** 40,250
+
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+
 #### N7 Defender Armorsuit
 *Heavy body armor, rare*
 ___
@@ -991,19 +998,6 @@ ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
 
 
 
-#### N7 Chestplate
-*Medium chest, rare*
-___
-- **Cost:** 40,250
-
-10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
-
-___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
-
-___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
-
-
-
 #### N7 Gauntlets
 *Medium arms, rare*
 ___
@@ -1016,6 +1010,8 @@ ___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have 
 ___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
 
 
+```
+```
 
 #### N7 Greaves
 *Medium legs, rare*
@@ -1158,7 +1154,8 @@ ___
 Increase thermal clip capacity by 4.   Any critical hit against you becomes a normal hit
 
 
-
+```
+```
 
 #### Reckoner-Knight Armet
 *Heavy head, spectre*
@@ -1219,7 +1216,6 @@ ___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Ea
 <div class='pageNumber auto'></div>
 <div class='footnote'>APPENDIX A | ARMOR SETS</div>
 \page
-
 
 #### Remnant Tasset
 *Medium legs, rare, Andromeda-only*
@@ -1339,6 +1335,16 @@ Advantage on Persuasion and Performance checks.
 
 
 
+#### Skirmish Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 39,950
+
++1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
+
+
+
+
 #### Stealth Greaves
 *Light legs, uncommon*
 ___
@@ -1371,7 +1377,9 @@ ___
 - **Cost:** 17,850
 
 
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
 
 #### Strider Legguards
 *Medium legs, uncommon*
@@ -1381,9 +1389,16 @@ ___
 Advantage on Acrobatics checks.  Speed +6m.
 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>APPENDIX A | ARMOR SETS</div>
-\page
+
+
+#### Survivor Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 30,600
+
++1 AC
+
+
 
 
 #### Terminus Assault Chestpiece
@@ -1436,6 +1451,17 @@ ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
 ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have advantage on stealth checks against thermal sensors and creatures or devices using infrared vision.
 
+```
+```
+
+#### Titan Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 87,550
+
+20 shields (regen 5).  +2 AC
+
+
 
 
 #### Umbra Visor
@@ -1448,17 +1474,6 @@ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your sp
 
 
 
-#### Warlord Armor
-*Heavy body armor, rare*
-___
-- **Cost:** 116,875
-
-Resistance to slashing and bludgeoning damage.  +2 AC.
-
-
-```
-```
-
 #### Ursa Armor
 *Medium body armor, uncommon*
 ___
@@ -1469,22 +1484,17 @@ ___
 
 
 
-#### Titan Armor
-*Heavy body armor, uncommon*
+#### Warlord Armor
+*Heavy body armor, rare*
 ___
-- **Cost:** 87,550
+- **Cost:** 116,875
 
-20 shields (regen 5).  +2 AC
-
-
+Resistance to slashing and bludgeoning damage.  +2 AC.
 
 
-#### Hoplite Armor
-*Light body armor, uncommon*
-___
-- **Cost:** 80,750
 
-20 shields (regen 10).  +2 AC.
+
+
 
 
 <div class='pageNumber auto'></div>
