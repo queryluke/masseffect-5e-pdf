@@ -500,7 +500,7 @@ if (limit === 'armorsets') {
 // armor sets
 
 if (limit === 'armormods') {
-  const sets = require('./../../masseffect-5e/static/data/armor_mods')
+  const sets = _.sortBy(require('./../../masseffect-5e/static/data/armor_mods'), ['name'])
 
   let text = ''
 

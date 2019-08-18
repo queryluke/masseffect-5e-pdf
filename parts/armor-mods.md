@@ -18,6 +18,16 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 
 
 
+#### Aerial Performance Optimizer
+*Chest, rare*
+___
+- **Cost:** 40,000
+
+Requires a Jump Jet or Jetpack mod also be installed. When you are hovering (via Jump Jets) or flying (via Jetpack), you have a +2 bonus to all attack and damage rolls.
+
+
+
+
 #### Amplifier Plates
 *Arms, rare*
 ___
@@ -138,6 +148,16 @@ You regain 1d4 worth of spell slots or tech points when you take a short rest.
 
 
 
+#### Battlefield Assist Module
+*Chest, spectre*
+___
+- **Cost:** 38,000
+
+At the start of your turn, if you have less than one-quarter of your hit points remaining, you can use a bonus action to cast Defense Matrix (Custom Current). It lasts 1 minute and does not require concentration. You may use this feature once per long rest.
+
+
+
+
 #### Bladed Wristguards
 *Arms, uncommon*
 ___
@@ -188,12 +208,52 @@ Resistance to lightning.
 
 
 
+#### EC Counter
+*Arms, rare*
+___
+- **Cost:** 22,000
+
+Whenever you are hit with a melee attack, the attacking creature takes 2d4 lightning damage and must succeed on a DC 10 Constitution saving throw or becomes stunned until the start of your next turn. This effect can only happen once per round (every 6 seconds).
+
+
+
+
+#### ER Jetpack
+*Chest, rare*
+___
+- **Cost:** 150,000
+
+As a bonus action, activate the jetpack to gain flying 6m for 10 minutes. This device cannot be used again until you finish a long rest.
+
+
+
+
+#### Echo Cancel
+*Legs, common*
+___
+- **Cost:** 4,000
+
+Your footsteps make no noise and you have advantage on Dexterity (Stealth) checks that rely on remaining silent.
+
+
+
+
 #### Energized Plating
 *Chest, spectre*
 ___
 - **Cost:** 90,000
 
 +3 AC
+
+
+
+
+#### Enviro-Systems
+*Chest, common*
+___
+- **Cost:** 6,000
+
+As a free action, you gain Water Breathing and the ability to breathe indefinitely in zero-oxygen environments for the next 24 hours. If you are not wearing a helmet, the suit creates a hard light helmet that equalizes pressure around your head.
 
 
 
@@ -208,12 +268,12 @@ Resistance to fire and cold damage.
 
 
 
-#### ER Jetpack
-*Chest, rare*
+#### Equilibrium Regulator
+*Head, uncommon*
 ___
-- **Cost:** 150,000
+- **Cost:** 30,000
 
-As a bonus action, activate the jetpack to gain flying 6m for 10 minutes. This device cannot be used again until you finish a long rest.
+When you take the Dash action on your turn, you can use a bonus action to make one weapon attack.
 
 
 
@@ -308,6 +368,16 @@ If you are standing on a metal surface, you are immune to being lifted. Otherwis
 
 
 
+#### Medi-gel Regulator
+*Chest, spectre*
+___
+- **Cost:** 60,000
+
+Gain 1 additional hit point for each level you have gained.
+
+
+
+
 #### Microservos
 *Legs, uncommon*
 ___
@@ -324,6 +394,16 @@ ___
 - **Cost:** 30,000
 
 +2 bonus to melee attack and damage rolls
+
+
+
+
+#### Night Sight
+*Head, uncommon*
+___
+- **Cost:** 10,000
+
+You gain darkvision 30m.
 
 
 
@@ -364,6 +444,16 @@ ___
 - **Cost:** 120,000
 
 As a bonus action, activate the jetpack to gain flying 6m for 1 minute. You may use this 3 times per short rest.
+
+
+
+
+#### Reactive Kinetic Compensator
+*Chest, uncommon*
+___
+- **Cost:** 20,000
+
+Any critical hit against you becomes a normal hit.
 
 
 
@@ -478,6 +568,26 @@ Increase your speed by 6m.
 
 
 
+#### Tactical Holsters
+*Chest, uncommon*
+___
+- **Cost:** 8,000
+
+You can holster one weapon then draw another weapon as a free action.
+
+
+
+
+#### Tactical Holsters
+*Legs, uncommon*
+___
+- **Cost:** 8,000
+
+You can holster one weapon then draw another weapon as a free action.
+
+
+
+
 #### Teflon Coating
 *Chest, uncommon*
 ___
@@ -528,122 +638,12 @@ ___
 
 
 
-#### Enviro-Systems
-*Chest, common*
-___
-- **Cost:** 6,000
-
-As a free action, you gain Water Breathing and the ability to breathe indefinitely in zero-oxygen environments for the next 24 hours. If you are not wearing a helmet, the suit creates a hard light helmet that equalizes pressure around your head.
-
-
-
-
-#### Echo Cancel
-*Legs, common*
-___
-- **Cost:** 4,000
-
-Your footsteps make no noise and you have advantage on Dexterity (Stealth) checks that rely on remaining silent.
-
-
-
-
-#### Night Sight
-*Head, uncommon*
-___
-- **Cost:** 10,000
-
-You gain darkvision 30m.
-
-
-
-
-#### Reactive Kinetic Compensator
-*Chest, uncommon*
-___
-- **Cost:** 20,000
-
-Any critical hit against you becomes a normal hit.
-
-
-
-
 #### Zoom Enhance
 *Head, uncommon*
 ___
 - **Cost:** 15,000
 
 You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within a range of 2m.
-
-
-
-
-#### Aerial Performance Optimizer
-*Chest, rare*
-___
-- **Cost:** 40,000
-
-Requires a Jump Jet or Jetpack mod also be installed. When you are hovering (via Jump Jets) or flying (via Jetpack), you have a +2 bonus to all attack and damage rolls.
-
-
-
-
-#### Battlefield Assist Module
-*Chest, spectre*
-___
-- **Cost:** 38,000
-
-At the start of your turn, if you have less than one-quarter of your hit points remaining, you can use a bonus action to cast Defense Matrix (Custom Current). It lasts 1 minute and does not require concentration. You may use this feature once per long rest.
-
-
-
-
-#### EC Counter
-*Arms, rare*
-___
-- **Cost:** 22,000
-
-Whenever you are hit with a melee attack, the attacking creature takes 2d4 lightning damage and must succeed on a DC 10 Constitution saving throw or becomes stunned until the start of your next turn. This effect can only happen once per round (every 6 seconds).
-
-
-
-
-#### Equilibrium Regulator
-*Head, uncommon*
-___
-- **Cost:** 30,000
-
-When you take the Dash action on your turn, you can use a bonus action to make one weapon attack.
-
-
-
-
-#### Medi-gel Regulator
-*Chest, spectre*
-___
-- **Cost:** 60,000
-
-Gain 1 additional hit point for each level you have gained.
-
-
-
-
-#### Tactical Holsters
-*Chest, uncommon*
-___
-- **Cost:** 8,000
-
-You can holster one weapon then draw another weapon as a free action.
-
-
-
-
-#### Tactical Holsters
-*Legs, uncommon*
-___
-- **Cost:** 8,000
-
-You can holster one weapon then draw another weapon as a free action.
 
 
 
