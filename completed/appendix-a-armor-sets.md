@@ -1487,4 +1487,5 @@ ___
 20 shields (regen 10).  +2 AC.
 
 
-
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
