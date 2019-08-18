@@ -34,7 +34,9 @@ const order = [
     'chapter-8',
     'chapter-9',
     'chapter-10',
-    'chapter-11'
+    'chapter-11',
+    'chapter-12',
+    'chapter-13'
 ]
 
 
