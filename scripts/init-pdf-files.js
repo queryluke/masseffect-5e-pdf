@@ -482,7 +482,7 @@ if (limit === 'armorsets') {
     text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
     if (s.feature) {
       text += '\n'
-      text += `${s.feature.split('--').join(' ')}.\n`
+      text += `${s.feature.split('--').join(' ')}\n`
     }
     if (s.setBonus) {
       const bonuses = s.setBonus.split('--').map((b) => {

@@ -3,7 +3,7 @@
 ___
 - **Cost:** 62,050
 
-+2 AC.  +5 Shields and +5 Shield Regen.
++2 AC.  +5 Shields and +5 Shield Regen
 
 
 
@@ -13,7 +13,7 @@ ___
 ___
 - **Cost:** 17,300
 
-+5 shields.
++5 shields
 
 ___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
 
@@ -26,7 +26,7 @@ ___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add
 ___
 - **Cost:** 53,000
 
-15 shields (regen 15).
+15 shields (regen 15)
 
 ___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
 
@@ -39,7 +39,7 @@ ___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add
 ___
 - **Cost:** 19,000
 
-+5 shields.
++5 shields
 
 ___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
 
@@ -52,7 +52,7 @@ ___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add
 ___
 - **Cost:** 17,300
 
-+5 shields.
++5 shields
 
 ___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
 
@@ -65,7 +65,7 @@ ___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add
 ___
 - **Cost:** 29,750
 
-As an action, gain 1d4 worth of spell slots or tech points. You can’t use this property again until you finish a long rest..
+As an action, gain 1d4 worth of spell slots or tech points. You can’t use this property again until you finish a long rest.
 
 
 
@@ -75,7 +75,7 @@ As an action, gain 1d4 worth of spell slots or tech points. You can’t use this
 ___
 - **Cost:** 42,500
 
-While wearing this armor, your cantrips are considered to be 1 step higher in their progression. For example, a 1st level player casts a cantrip as if they were at the 5th level. 5th -> 11th. 11th -> 17th. There is no additional effect at the 17th level..
+While wearing this armor, your cantrips are considered to be 1 step higher in their progression. For example, a 1st level player casts a cantrip as if they were at the 5th level. 5th -> 11th. 11th -> 17th. There is no additional effect at the 17th level.
 
 
 
@@ -85,7 +85,7 @@ While wearing this armor, your cantrips are considered to be 1 step higher in th
 ___
 - **Cost:** 52,700
 
-As an action, you can activate a tactical cloak, becoming invisible. The cloak lasts 1 minute or until you make an attack, cast a spell, use a grenade or mine, or fire a heavy weapon. You may use this feature once per short rest..
+As an action, you can activate a tactical cloak, becoming invisible. The cloak lasts 1 minute or until you make an attack, cast a spell, use a grenade or mine, or fire a heavy weapon. You may use this feature once per short rest.
 
 
 
@@ -95,7 +95,7 @@ As an action, you can activate a tactical cloak, becoming invisible. The cloak l
 ___
 - **Cost:** 21,100
 
-Add 1 point of Slashing damage to all melee damage rolls. Advantage on Intimidation skill checks..
+Add 1 point of Slashing damage to all melee damage rolls. Advantage on Intimidation skill checks.
 
 
 
@@ -105,7 +105,7 @@ Add 1 point of Slashing damage to all melee damage rolls. Advantage on Intimidat
 ___
 - **Cost:** 42,250
 
-You regain 1d4 worth of spell slots or tech points when you take a short rest..
+You regain 1d4 worth of spell slots or tech points when you take a short rest.
 
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
@@ -118,7 +118,7 @@ ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack y
 ___
 - **Cost:** 70,300
 
-20 shields (regen 10)..
+20 shields (regen 10).
 
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
@@ -131,7 +131,7 @@ ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack y
 ___
 - **Cost:** 32,050
 
-+1 bonus to spell attack rolls and spell saving throw DCs..
++1 bonus to spell attack rolls and spell saving throw DCs.
 
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
@@ -144,7 +144,7 @@ ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack y
 ___
 - **Cost:** 32,050
 
-+1 bonus to spell attack rolls and spell saving throw DCs..
++1 bonus to spell attack rolls and spell saving throw DCs.
 
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
@@ -157,7 +157,7 @@ ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack y
 ___
 - **Cost:** 73,950
 
-You can regain 2d4 tech points every short rest..
+You can regain 2d4 tech points every short rest.
 
 
 
@@ -167,7 +167,7 @@ You can regain 2d4 tech points every short rest..
 ___
 - **Cost:** 34,000
 
-+1 AC. Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount..
++1 AC. Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
 
 
@@ -177,7 +177,7 @@ ___
 ___
 - **Cost:** 12,175
 
-Increase thermal clip capacity by 8..
+Increase thermal clip capacity by 8.
 
 ___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
 
@@ -190,7 +190,7 @@ ___Set Bonus (4 of 4).___ Shield Regen 20
 ___
 - **Cost:** 16,425
 
-Increase your grenade capacity by 4..
+Increase your grenade capacity by 4.
 
 ___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
 
@@ -203,7 +203,7 @@ ___Set Bonus (4 of 4).___ Shield Regen 20
 ___
 - **Cost:** 28,750
 
-+1 AC.
++1 AC
 
 ___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
 
@@ -216,7 +216,7 @@ ___Set Bonus (4 of 4).___ Shield Regen 20
 ___
 - **Cost:** 58,500
 
-20 shields..
+20 shields.
 
 ___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
 
@@ -229,7 +229,7 @@ ___Set Bonus (4 of 4).___ Shield Regen 20
 ___
 - **Cost:** 127,375
 
-30 Shields.  +1 AC.  Increase thermal clip capacity by 8..
+30 Shields.  +1 AC.  Increase thermal clip capacity by 8.
 
 ___Set Bonus (2 of 2).___ +2 AC
 
@@ -240,7 +240,7 @@ ___Set Bonus (2 of 2).___ +2 AC
 ___
 - **Cost:** 48,750
 
-Shield Regen 15.  +1 AC..
+Shield Regen 15.  +1 AC.
 
 ___Set Bonus (2 of 2).___ +2 AC
 
@@ -251,7 +251,7 @@ ___Set Bonus (2 of 2).___ +2 AC
 ___
 - **Cost:** 21,950
 
-Walking speed increased by 6m..
+Walking speed increased by 6m.
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -266,7 +266,7 @@ ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 ___
 - **Cost:** 64,875
 
-10 shields (regen 10).  Increase your thermal clip capacity by 4..
+10 shields (regen 10).  Increase your thermal clip capacity by 4.
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -281,7 +281,7 @@ ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 ___
 - **Cost:** 43,200
 
-Equipped weapons have increased heat equal to twice the weapon's base heat..
+Equipped weapons have increased heat equal to twice the weapon's base heat.
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -296,7 +296,7 @@ ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 ___
 - **Cost:** 21,950
 
-+1 bonus to melee weapon attack and damage rolls..
++1 bonus to melee weapon attack and damage rolls.
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -311,7 +311,7 @@ ___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
 ___
 - **Cost:** 20,250
 
-+1 bonus to melee weapon attack and damage rolls.
++1 bonus to melee weapon attack and damage rolls
 
 ___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
@@ -324,7 +324,7 @@ ___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
 ___
 - **Cost:** 31,300
 
-10 shields (regen 10)..
+10 shields (regen 10).
 
 ___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
@@ -337,7 +337,7 @@ ___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
 ___
 - **Cost:** 21,950
 
-+1 bonus to spell attack and damage rolls.
++1 bonus to spell attack and damage rolls
 
 ___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
@@ -350,7 +350,7 @@ ___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
 ___
 - **Cost:** 13,450
 
-Increase thermal clip capacity by 4.  Increase grenade capacity by 2.
+Increase thermal clip capacity by 4.  Increase grenade capacity by 2
 
 ___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
@@ -363,7 +363,7 @@ ___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
 ___
 - **Cost:** 28,050
 
-15 shields (regen 5)..
+15 shields (regen 5).
 
 ___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
 
@@ -374,7 +374,7 @@ ___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the s
 ___
 - **Cost:** 38,250
 
-When you roll a 1 or a 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1..
+When you roll a 1 or a 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
 ___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
 
@@ -385,7 +385,7 @@ ___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the s
 ___
 - **Cost:** 44,750
 
-+1 AC.  Increase walking speed by 4m..
++1 AC.  Increase walking speed by 4m.
 
 ___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, you immediately become stabilized.
 
@@ -396,7 +396,7 @@ ___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, 
 ___
 - **Cost:** 27,325
 
-+1 AC.  Darkvision: 20m.
++1 AC.  Darkvision: 20m
 
 ___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, you immediately become stabilized.
 
@@ -407,7 +407,7 @@ ___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, 
 ___
 - **Cost:** 54,450
 
-Requires STR 18.  10 shields (regen 5)..
+Requires STR 18.  10 shields (regen 5).
 
 ___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
 
@@ -422,7 +422,7 @@ ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 ___
 - **Cost:** 54,450
 
-Requires STR 18.  +1 AC..
+Requires STR 18.  +1 AC.
 
 ___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
 
@@ -437,7 +437,7 @@ ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 ___
 - **Cost:** 61,250
 
-Requires STR 18.  +1 AC..
+Requires STR 18.  +1 AC.
 
 ___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
 
@@ -452,7 +452,7 @@ ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 ___
 - **Cost:** 55,300
 
-Requires STR 18.  +1 AC..
+Requires STR 18.  +1 AC.
 
 ___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
 
@@ -467,7 +467,7 @@ ___Set Bonus (4 of 4).___ Resistance to lightning damage.
 ___
 - **Cost:** 183,600
 
-Required STR is 14 instead of 16. You are considered proficient with this armor even if you lack proficiency with heavy armor..
+Required STR is 14 instead of 16. You are considered proficient with this armor even if you lack proficiency with heavy armor.
 
 
 
@@ -477,7 +477,7 @@ Required STR is 14 instead of 16. You are considered proficient with this armor 
 ___
 - **Cost:** 31,450
 
-+1 AC.  +1 on melee attack and damage rolls.
++1 AC.  +1 on melee attack and damage rolls
 
 
 
@@ -487,7 +487,7 @@ ___
 ___
 - **Cost:** 56,100
 
-Resistance to cold and fire damage..
+Resistance to cold and fire damage.
 
 ___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in unfriendly environments for up to 48 hours.
 
@@ -498,7 +498,7 @@ ___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in un
 ___
 - **Cost:** 9,350
 
-Darkvision 10m. Infrared Vision 10m. You can toggle between the 2 vision types as a free action..
+Darkvision 10m. Infrared Vision 10m. You can toggle between the 2 vision types as a free action.
 
 ___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in unfriendly environments for up to 48 hours.
 
@@ -509,7 +509,7 @@ ___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in un
 ___
 - **Cost:** 14,450
 
-You roll one additional weapon damage die when determining the extra damage for a critical hit with a ranged weapon attack..
+You roll one additional weapon damage die when determining the extra damage for a critical hit with a ranged weapon attack.
 
 
 
@@ -519,7 +519,7 @@ You roll one additional weapon damage die when determining the extra damage for 
 ___
 - **Cost:** 39,950
 
-Once per long rest, if you fall below 0 hit points you immediately become stabilized..
+Once per long rest, if you fall below 0 hit points you immediately become stabilized.
 
 
 
@@ -529,7 +529,7 @@ Once per long rest, if you fall below 0 hit points you immediately become stabil
 ___
 - **Cost:** 45,900
 
-Advantage on Strength checks and saving throws..
+Advantage on Strength checks and saving throws.
 
 
 
@@ -539,7 +539,7 @@ Advantage on Strength checks and saving throws..
 ___
 - **Cost:** 11,900
 
-Advantage on Athletics checks made to swim or climb..
+Advantage on Athletics checks made to swim or climb.
 
 
 
@@ -549,7 +549,7 @@ Advantage on Athletics checks made to swim or climb..
 ___
 - **Cost:** 27,200
 
-+1 AC.
++1 AC
 
 
 
@@ -559,7 +559,7 @@ ___
 ___
 - **Cost:** 42,500
 
-10 shields (regen 5). +1 AC.
+10 shields (regen 5). +1 AC
 
 
 
@@ -569,7 +569,7 @@ ___
 ___
 - **Cost:** 40,800
 
-When you are forced to make a saving throw from a heavy weapon attack that required targeting, you may use your reaction to reduce the damage done to you to 0. You may use this feature once per long rest..
+When you are forced to make a saving throw from a heavy weapon attack that required targeting, you may use your reaction to reduce the damage done to you to 0. You may use this feature once per long rest.
 
 
 
@@ -579,7 +579,7 @@ When you are forced to make a saving throw from a heavy weapon attack that requi
 ___
 - **Cost:** 15,300
 
-When wearing this armor, treat your Strength ability score as if it were 19 for the purposes of carrying equipment (unless your score is higher, then no effect occurs)..
+When wearing this armor, treat your Strength ability score as if it were 19 for the purposes of carrying equipment (unless your score is higher, then no effect occurs).
 
 
 
@@ -589,7 +589,7 @@ When wearing this armor, treat your Strength ability score as if it were 19 for 
 ___
 - **Cost:** 99,200
 
-+2 to all damage rolls.
++2 to all damage rolls
 
 ___Set Bonus (2 of 2).___ +3 AC
 
@@ -600,7 +600,7 @@ ___Set Bonus (2 of 2).___ +3 AC
 ___
 - **Cost:** 67,750
 
-+1 to all damage rolls.
++1 to all damage rolls
 
 ___Set Bonus (2 of 2).___ +3 AC
 
@@ -611,7 +611,7 @@ ___Set Bonus (2 of 2).___ +3 AC
 ___
 - **Cost:** 30,600
 
-+1 AC.
++1 AC
 
 
 
@@ -621,7 +621,7 @@ ___
 ___
 - **Cost:** 69,700
 
-10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with heavy armor..
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with heavy armor.
 
 ___Set Bonus (2 of 4).___ +1 AC.
 
@@ -636,7 +636,7 @@ ___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, y
 ___
 - **Cost:** 54,400
 
-You are considered proficient with this armor even if you lack proficiency with heavy armor..
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
 
 ___Set Bonus (2 of 4).___ +1 AC.
 
@@ -651,7 +651,7 @@ ___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, y
 ___
 - **Cost:** 54,400
 
-You are considered proficient with this armor even if you lack proficiency with heavy armor..
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
 
 ___Set Bonus (2 of 4).___ +1 AC.
 
@@ -666,7 +666,7 @@ ___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, y
 ___
 - **Cost:** 12,750
 
-You are considered proficient with this armor even if you lack proficiency with heavy armor..
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
 
 ___Set Bonus (2 of 4).___ +1 AC.
 
@@ -681,7 +681,7 @@ ___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, y
 ___
 - **Cost:** 31,600
 
-+1 bonus to spell attack rolls and spell saving throw DCs..
++1 bonus to spell attack rolls and spell saving throw DCs.
 
 ___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expend a charge of medi-gel.
 
@@ -692,7 +692,7 @@ ___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expen
 ___
 - **Cost:** 22,250
 
-+1 bonus to spell attack rolls and spell saving throw DCs..
++1 bonus to spell attack rolls and spell saving throw DCs.
 
 ___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expend a charge of medi-gel.
 
@@ -703,7 +703,7 @@ ___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expen
 ___
 - **Cost:** 41,500
 
-10 Shields (regen 5). +1 AC..
+10 Shields (regen 5). +1 AC.
 
 ___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
 
@@ -716,7 +716,7 @@ ___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negativ
 ___
 - **Cost:** 11,750
 
-Increase medi-gel capacity by 2..
+Increase medi-gel capacity by 2.
 
 ___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
 
@@ -729,7 +729,7 @@ ___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negativ
 ___
 - **Cost:** 29,175
 
-Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn. .
+Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn. 
 
 ___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
 
@@ -742,7 +742,7 @@ ___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negativ
 ___
 - **Cost:** 16,850
 
-Infrared Vision 20m. Darkvision 20m. You can toggle between the 2 vision types as a free action.  Noxious air becomes breathable..
+Infrared Vision 20m. Darkvision 20m. You can toggle between the 2 vision types as a free action.  Noxious air becomes breathable.
 
 ___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
 
@@ -755,7 +755,7 @@ ___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negativ
 ___
 - **Cost:** 46,750
 
-+2 AC.
++2 AC
 
 
 
@@ -765,7 +765,7 @@ ___
 ___
 - **Cost:** 47,825
 
-Any critical hit against you becomes a normal hit..
+Any critical hit against you becomes a normal hit.
 
 ___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
 
@@ -780,7 +780,7 @@ ___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. T
 ___
 - **Cost:** 30,400
 
-Increase walking speed by 4m..
+Increase walking speed by 4m.
 
 ___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
 
@@ -795,7 +795,7 @@ ___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. T
 ___
 - **Cost:** 50,375
 
-+1 bonus to melee weapon attack and damage rolls..
++1 bonus to melee weapon attack and damage rolls.
 
 ___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
 
@@ -810,7 +810,7 @@ ___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. T
 ___
 - **Cost:** 34,225
 
-+1 bonus to melee weapon attack and damage rolls..
++1 bonus to melee weapon attack and damage rolls.
 
 ___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
 
@@ -825,7 +825,7 @@ ___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. T
 ___
 - **Cost:** 36,000
 
-As a bonus action, you choose a creature you can see within 30m. For the next minute, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. You can use this feature 3 times per long rest..
+As a bonus action, you choose a creature you can see within 30m. For the next minute, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. You can use this feature 3 times per long rest.
 
 
 
@@ -835,7 +835,7 @@ As a bonus action, you choose a creature you can see within 30m. For the next mi
 ___
 - **Cost:** 37,500
 
-10 shields (regen 5).  +1 AC.
+10 shields (regen 5).  +1 AC
 
 
 
@@ -845,7 +845,7 @@ ___
 ___
 - **Cost:** 18,700
 
-As a bonus action, the wearer can activate the effect of the greaves to stick to the surface they are walking on, provided it's made of metal. This can aid them in walking up walls, upside down, etc. If the surface is metal, the user is immune to being lifted, otherwise, they have advantage on saving throws against being lifted. The effect lasts for 1 minute and can only be used once per short rest..
+As a bonus action, the wearer can activate the effect of the greaves to stick to the surface they are walking on, provided it's made of metal. This can aid them in walking up walls, upside down, etc. If the surface is metal, the user is immune to being lifted, otherwise, they have advantage on saving throws against being lifted. The effect lasts for 1 minute and can only be used once per short rest.
 
 
 
@@ -855,7 +855,7 @@ As a bonus action, the wearer can activate the effect of the greaves to stick to
 ___
 - **Cost:** 39,950
 
-+1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4..
++1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
 
 
 
@@ -865,7 +865,7 @@ ___
 ___
 - **Cost:** 27,200
 
-Whenever you hit a target with a melee weapon attack, you may use your reaction to activate your armor's switchblades, dealing an additional 1d6 slashing damage to the target. If you use your reaction this way, you may then use your bonus action to attempt to grapple the target. You have advantage on the Strength (Athletics) check..
+Whenever you hit a target with a melee weapon attack, you may use your reaction to activate your armor's switchblades, dealing an additional 1d6 slashing damage to the target. If you use your reaction this way, you may then use your bonus action to attempt to grapple the target. You have advantage on the Strength (Athletics) check.
 
 
 
@@ -875,7 +875,7 @@ Whenever you hit a target with a melee weapon attack, you may use your reaction 
 ___
 - **Cost:** 5,050
 
-Increase thermal clip capacity by 4..
+Increase thermal clip capacity by 4.
 
 ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
 
@@ -888,7 +888,7 @@ ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack r
 ___
 - **Cost:** 11,850
 
-Increase grenade capacity by 2..
+Increase grenade capacity by 2.
 
 ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
 
@@ -901,7 +901,7 @@ ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack r
 ___
 - **Cost:** 11,000
 
-Darkvision 40m..
+Darkvision 40m.
 
 ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
 
@@ -914,7 +914,7 @@ ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack r
 ___
 - **Cost:** 5,050
 
-Increase thermal clip capacity by 4..
+Increase thermal clip capacity by 4.
 
 ___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
 
@@ -927,7 +927,7 @@ ___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack r
 ___
 - **Cost:** 18,700
 
-10 shields (regen 5).
+10 shields (regen 5)
 
 
 
@@ -937,7 +937,7 @@ ___
 ___
 - **Cost:** 21,250
 
-When you roll a 1 damage die for an attack you make with a biotic spell, you can reroll the die and must use the new roll, even if the new roll is a 1..
+When you roll a 1 damage die for an attack you make with a biotic spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
 
 
@@ -947,7 +947,7 @@ When you roll a 1 damage die for an attack you make with a biotic spell, you can
 ___
 - **Cost:** 90,875
 
-20 shields (regen 10).  +1 AC.  Increase thermal clip capacity by 8.  Increase medi-gel capacity by 2..
+20 shields (regen 10).  +1 AC.  Increase thermal clip capacity by 8.  Increase medi-gel capacity by 2.
 
 ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
 
@@ -958,7 +958,7 @@ ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
 ___
 - **Cost:** 25,000
 
-+1 AC..
++1 AC.
 
 ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
 
@@ -969,7 +969,7 @@ ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
 ___
 - **Cost:** 40,250
 
-10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor..
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
 
 ___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
 
@@ -982,7 +982,7 @@ ___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have 
 ___
 - **Cost:** 25,800
 
-You are considered proficient with this armor even if you lack proficiency with medium armor..
+You are considered proficient with this armor even if you lack proficiency with medium armor.
 
 ___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
 
@@ -995,7 +995,7 @@ ___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have 
 ___
 - **Cost:** 34,300
 
-5 Shields.  You are considered proficient with this armor even if you lack proficiency with medium armor..
+5 Shields.  You are considered proficient with this armor even if you lack proficiency with medium armor.
 
 ___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
 
@@ -1008,7 +1008,7 @@ ___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have 
 ___
 - **Cost:** 23,250
 
-You have advantage on initiative rolls. You are considered proficient with this armor even if you lack proficiency with medium armor..
+You have advantage on initiative rolls. You are considered proficient with this armor even if you lack proficiency with medium armor.
 
 ___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
 
@@ -1021,7 +1021,7 @@ ___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have 
 ___
 - **Cost:** 39,100
 
-10 shields (regen 5). +1 AC.
+10 shields (regen 5). +1 AC
 
 
 
@@ -1031,7 +1031,7 @@ ___
 ___
 - **Cost:** 36,000
 
-15 shields (regen 5)..
+15 shields (regen 5).
 
 ___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistance to poison damage.
 
@@ -1042,7 +1042,7 @@ ___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistanc
 ___
 - **Cost:** 12,200
 
-Darkvision 20m..
+Darkvision 20m.
 
 ___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistance to poison damage.
 
@@ -1053,7 +1053,7 @@ ___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistanc
 ___
 - **Cost:** 56,000
 
-+2 AC.
++2 AC
 
 ___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
 
@@ -1066,7 +1066,7 @@ ___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren'
 ___
 - **Cost:** 24,550
 
-When you roll a 1 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1..
+When you roll a 1 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
 ___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
 
@@ -1079,7 +1079,7 @@ ___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren'
 ___
 - **Cost:** 34,175
 
-Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn..
+Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn.
 
 ___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
 
@@ -1092,7 +1092,7 @@ ___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren'
 ___
 - **Cost:** 34,750
 
-+1 bonus to weapon attack rolls.
++1 bonus to weapon attack rolls
 
 ___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
 
@@ -1105,7 +1105,7 @@ ___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren'
 ___
 - **Cost:** 15,000
 
-10 shields (regen 5).  Improved models can be purchased. 10,000 for each 5 shield points, and 8,000 for 5 additional regen. Max is 30 shield points and 15 regen. These additional shields do not stack with your armor's shields..
+10 shields (regen 5).  Improved models can be purchased. 10,000 for each 5 shield points, and 8,000 for 5 additional regen. Max is 30 shield points and 15 regen. These additional shields do not stack with your armor's shields.
 
 
 
@@ -1115,7 +1115,7 @@ ___
 ___
 - **Cost:** 12,750
 
-As a reaction to having 0 barrier ticks, restore all of your barrier ticks. You may use this ability once per long rest..
+As a reaction to having 0 barrier ticks, restore all of your barrier ticks. You may use this ability once per long rest.
 
 
 
@@ -1125,7 +1125,7 @@ As a reaction to having 0 barrier ticks, restore all of your barrier ticks. You 
 ___
 - **Cost:** 31,450
 
-Increase thermal clip capacity by 4.   Any critical hit against you becomes a normal hit.
+Increase thermal clip capacity by 4.   Any critical hit against you becomes a normal hit
 
 
 
@@ -1135,7 +1135,7 @@ Increase thermal clip capacity by 4.   Any critical hit against you becomes a no
 ___
 - **Cost:** 29,750
 
-Whenever you lose hit points, you may use your reaction to expend one medi-gel (provided you have any medi-gel remaining)..
+Whenever you lose hit points, you may use your reaction to expend one medi-gel (provided you have any medi-gel remaining).
 
 ___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Charisma is considered to be a 19. This has no effect if your Charisma is higher than 19.
 
@@ -1146,7 +1146,7 @@ ___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Chari
 ___
 - **Cost:** 144,500
 
-30 shields (regen 5).  When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2..
+30 shields (regen 5).  When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
 
 ___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Charisma is considered to be a 19. This has no effect if your Charisma is higher than 19.
 
@@ -1157,7 +1157,7 @@ ___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Chari
 ___
 - **Cost:** 46,750
 
-+1 AC.  Infrared Vision 60m. Darkvision 60m. You can toggle between vision types as a free action..
++1 AC.  Infrared Vision 60m. Darkvision 60m. You can toggle between vision types as a free action.
 
 
 
@@ -1167,7 +1167,7 @@ ___
 ___
 - **Cost:** 106,550
 
-30 shields (regen 10).
+30 shields (regen 10)
 
 ___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
@@ -1180,7 +1180,7 @@ ___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Ea
 ___
 - **Cost:** 15,600
 
-Darkvision 20m. Infrared Vision 20m. You may toggle between vision types as a free action..
+Darkvision 20m. Infrared Vision 20m. You may toggle between vision types as a free action.
 
 ___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
@@ -1193,7 +1193,7 @@ ___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Ea
 ___
 - **Cost:** 22,400
 
-Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount..
+Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
 ___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
@@ -1206,7 +1206,7 @@ ___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Ea
 ___
 - **Cost:** 16,450
 
-Shield regen +5..
+Shield regen +5.
 
 ___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
@@ -1219,7 +1219,7 @@ ___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Ea
 ___
 - **Cost:** 20,400
 
-Once per short rest, you may take 2 reactions within a single turn..
+Once per short rest, you may take 2 reactions within a single turn.
 
 
 
@@ -1229,7 +1229,7 @@ Once per short rest, you may take 2 reactions within a single turn..
 ___
 - **Cost:** 18,000
 
-You are immune to dropping your weapon if hit by any effect that would otherwise disarm you..
+You are immune to dropping your weapon if hit by any effect that would otherwise disarm you.
 
 
 
@@ -1239,7 +1239,7 @@ You are immune to dropping your weapon if hit by any effect that would otherwise
 ___
 - **Cost:** 50,000
 
-+6 grenade capacity.  +8 Thermal clip capacity.  +4 medi-gel capacity.  You have 2 additional weapon slots (or increase your carry capacity by 20kg)..
++6 grenade capacity.  +8 Thermal clip capacity.  +4 medi-gel capacity.  You have 2 additional weapon slots (or increase your carry capacity by 20kg).
 
 ___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition and you have resistance to poison damage.
 
@@ -1250,7 +1250,7 @@ ___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition a
 ___
 - **Cost:** 48,625
 
-You have advantage on Intelligence (Investigation) and Intelligence (Science) rolls when analyzing objects..
+You have advantage on Intelligence (Investigation) and Intelligence (Science) rolls when analyzing objects.
 
 ___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition and you have resistance to poison damage.
 
@@ -1261,7 +1261,7 @@ ___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition a
 ___
 - **Cost:** 38,250
 
-+1 AC.  Any critical hit against you becomes a normal hit.
++1 AC.  Any critical hit against you becomes a normal hit
 
 
 
@@ -1271,7 +1271,7 @@ ___
 ___
 - **Cost:** 17,000
 
-Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount..
+Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
 
 
 
@@ -1281,7 +1281,7 @@ Once per short rest, as a reaction to taking damage, you may jumpstart your shie
 ___
 - **Cost:** 45,050
 
-Every long rest, you can designate a type of damage except bludgeoning, piercing, or slashing. You gain resistance to it until you take another long rest..
+Every long rest, you can designate a type of damage except bludgeoning, piercing, or slashing. You gain resistance to it until you take another long rest.
 
 
 
@@ -1291,7 +1291,7 @@ Every long rest, you can designate a type of damage except bludgeoning, piercing
 ___
 - **Cost:** 55,250
 
-Resistance to cold damage.  Immunity from the frozen condition..
+Resistance to cold damage.  Immunity from the frozen condition.
 
 
 
@@ -1301,7 +1301,7 @@ Resistance to cold damage.  Immunity from the frozen condition..
 ___
 - **Cost:** 38,675
 
-Advantage on Persuasion and Performance checks..
+Advantage on Persuasion and Performance checks.
 
 
 
@@ -1311,7 +1311,7 @@ Advantage on Persuasion and Performance checks..
 ___
 - **Cost:** 14,450
 
-While you wear these greaves, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Stealth checks that rely on moving silently..
+While you wear these greaves, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Stealth checks that rely on moving silently.
 
 
 
@@ -1345,7 +1345,7 @@ ___
 ___
 - **Cost:** 28,050
 
-Advantage on Acrobatics checks.  Speed +6m..
+Advantage on Acrobatics checks.  Speed +6m.
 
 
 
@@ -1355,7 +1355,7 @@ Advantage on Acrobatics checks.  Speed +6m..
 ___
 - **Cost:** 27,075
 
-10 shields (regen 5)..
+10 shields (regen 5).
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -1368,7 +1368,7 @@ ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have 
 ___
 - **Cost:** 21,975
 
-+1 bonus to melee attack and damage rolls.
++1 bonus to melee attack and damage rolls
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -1381,7 +1381,7 @@ ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have 
 ___
 - **Cost:** 14,325
 
-Speed +4m.
+Speed +4m
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -1394,7 +1394,7 @@ ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have 
 ___
 - **Cost:** 29,625
 
-+1 AC.
++1 AC
 
 ___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
 
@@ -1407,7 +1407,7 @@ ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have 
 ___
 - **Cost:** 46,750
 
-You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells..
+You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
 
 
 
@@ -1417,7 +1417,7 @@ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your sp
 ___
 - **Cost:** 116,875
 
-Resistance to slashing and bludgeoning damage.  +2 AC..
+Resistance to slashing and bludgeoning damage.  +2 AC.
 
 
 
@@ -1427,7 +1427,7 @@ Resistance to slashing and bludgeoning damage.  +2 AC..
 ___
 - **Cost:** 84,150
 
-20 shields (regen 10).  +2 AC.
+20 shields (regen 10).  +2 AC
 
 
 
@@ -1437,7 +1437,7 @@ ___
 ___
 - **Cost:** 87,550
 
-20 shields (regen 5).  +2 AC.
+20 shields (regen 5).  +2 AC
 
 
 
@@ -1447,7 +1447,7 @@ ___
 ___
 - **Cost:** 80,750
 
-20 shields (regen 10).  +2 AC..
+20 shields (regen 10).  +2 AC.
 
 
 
