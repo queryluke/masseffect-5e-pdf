@@ -129,14 +129,16 @@ You regain 1d4 worth of spell slots or tech points when you take a short rest.
 
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
-___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
-
 
 
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>APPENDIX A | ARMOR SETS</div>
 \page
+
+___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
 
 
 #### Blood Dragon Curiass
