@@ -37,7 +37,8 @@ const order = [
     'chapter-11',
     'chapter-12',
     'chapter-13',
-    'appendix-a-armor-sets'
+    'appendix-a-armor-sets',
+    'appendix-b-armor-mods'
 ]
 
 
