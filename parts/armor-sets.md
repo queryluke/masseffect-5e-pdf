@@ -90,6 +90,16 @@ As an action, you can activate a tactical cloak, becoming invisible. The cloak l
 
 
 
+#### BT Suit
+*Light body armor, rare*
+___
+- **Cost:** 73,950
+
+You can regain 2d4 tech points every short rest.
+
+
+
+
 #### Batarian Talon Gauntlets
 *Light arms, uncommon*
 ___
@@ -149,16 +159,6 @@ ___
 ___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
 
 ___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
-
-
-
-#### BT Suit
-*Light body armor, rare*
-___
-- **Cost:** 73,950
-
-You can regain 2d4 tech points every short rest.
-
 
 
 
@@ -554,22 +554,22 @@ ___
 
 
 
-#### Gladiator Armor
-*Heavy body armor, uncommon*
-___
-- **Cost:** 42,500
-
-10 shields (regen 5). +1 AC
-
-
-
-
 #### GUARDIAN Gauntlets
 *Medium arms, rare*
 ___
 - **Cost:** 40,800
 
 When you are forced to make a saving throw from a heavy weapon attack that required targeting, you may use your reaction to reduce the damage done to you to 0. You may use this feature once per long rest.
+
+
+
+
+#### Gladiator Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 42,500
+
+10 shields (regen 5). +1 AC
 
 
 
@@ -606,12 +606,12 @@ ___Set Bonus (2 of 2).___ +3 AC
 
 
 
-#### Survivor Armor
-*Medium body armor, uncommon*
+#### Hoplite Armor
+*Light body armor, uncommon*
 ___
-- **Cost:** 30,600
+- **Cost:** 80,750
 
-+1 AC
+20 shields (regen 10).  +2 AC.
 
 
 
@@ -850,16 +850,6 @@ As a bonus action, the wearer can activate the effect of the greaves to stick to
 
 
 
-#### Skirmish Armor
-*Medium body armor, uncommon*
-___
-- **Cost:** 39,950
-
-+1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
-
-
-
-
 #### Mantis Armor
 *Light body armor, uncommon*
 ___
@@ -942,6 +932,19 @@ When you roll a 1 damage die for an attack you make with a biotic spell, you can
 
 
 
+#### N7 Chestplate
+*Medium chest, rare*
+___
+- **Cost:** 40,250
+
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+
 #### N7 Defender Armorsuit
 *Heavy body armor, rare*
 ___
@@ -961,19 +964,6 @@ ___
 +1 AC.
 
 ___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
-
-
-
-#### N7 Chestplate
-*Medium chest, rare*
-___
-- **Cost:** 40,250
-
-10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
-
-___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
-
-___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
 
 
 
@@ -1306,6 +1296,16 @@ Advantage on Persuasion and Performance checks.
 
 
 
+#### Skirmish Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 39,950
+
++1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
+
+
+
+
 #### Stealth Greaves
 *Light legs, uncommon*
 ___
@@ -1346,6 +1346,16 @@ ___
 - **Cost:** 28,050
 
 Advantage on Acrobatics checks.  Speed +6m.
+
+
+
+
+#### Survivor Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 30,600
+
++1 AC
 
 
 
@@ -1402,22 +1412,22 @@ ___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have 
 
 
 
+#### Titan Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 87,550
+
+20 shields (regen 5).  +2 AC
+
+
+
+
 #### Umbra Visor
 *Light head, rare*
 ___
 - **Cost:** 46,750
 
 You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
-
-
-
-
-#### Warlord Armor
-*Heavy body armor, rare*
-___
-- **Cost:** 116,875
-
-Resistance to slashing and bludgeoning damage.  +2 AC.
 
 
 
@@ -1432,22 +1442,12 @@ ___
 
 
 
-#### Titan Armor
-*Heavy body armor, uncommon*
+#### Warlord Armor
+*Heavy body armor, rare*
 ___
-- **Cost:** 87,550
+- **Cost:** 116,875
 
-20 shields (regen 5).  +2 AC
-
-
-
-
-#### Hoplite Armor
-*Light body armor, uncommon*
-___
-- **Cost:** 80,750
-
-20 shields (regen 10).  +2 AC.
+Resistance to slashing and bludgeoning damage.  +2 AC.
 
 
 

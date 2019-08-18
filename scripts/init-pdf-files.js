@@ -470,7 +470,7 @@ if (limit === 'spells') {
 // armor sets
 
 if (limit === 'armorsets') {
-  const sets = require('./../../masseffect-5e/static/data/armor_sets')
+  const sets = _.sortBy(require('./../../masseffect-5e/static/data/armor_sets'), ['name'])
 
   let text = ''
 
