@@ -496,3 +496,22 @@ if (limit === 'armorsets') {
   }
   write('armor-sets', text)
 }
+
+// armor sets
+
+if (limit === 'armormods') {
+  const sets = require('./../../masseffect-5e/static/data/armor_mods')
+
+  let text = ''
+
+  for (const s of sets) {
+    text += `#### ${s.name}\n`
+    text += `*${s.type}, ${_.lowerCase(s.rarity)}*\n`
+    text += '___\n'
+    text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
+    text += '\n'
+    text += `${s.feature}\n`
+    text += '\n\n\n\n'
+  }
+  write('armor-mods', text)
+}
