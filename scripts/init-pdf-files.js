@@ -515,3 +515,38 @@ if (limit === 'armormods') {
   }
   write('armor-mods', text)
 }
+
+// weapons
+
+if (limit === 'weapons') {
+  const sets = _.groupBy(_.sortBy(require('./../../masseffect-5e/static/data/weapons'), ['name']), 'type')
+  let text = ''
+
+  _.forEach(sets, function(value, key) {
+    text += `### ${key}\n\n`
+
+    for (const s of value) {
+      text += `#### ${s.name}\n`
+      const ado = s.andromeda ? ', Andromeda-only' : ''
+      const props = s.properties ? `, ${s.properties.map(p => _.lowerCase(p)).join(', ')}`:''
+      text += `*${s.rarity} ${_.lowerCase(s.type)}${props}${ado}*\n`
+      text += '___\n'
+      text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
+      text += `- **Damage:** ${s.damage} ${s.dmgType}\n`
+      if (s.type !== 'Melee') {
+        const addRange = s.type === 'Heavy Weapon' ? '' : `/${_.parseInt(s.range) * 3}`
+        text += `- **Range:** ${s.range}${addRange}m\n`
+        text += `- **${s.type === 'Heavy Weapon' ? 'Charges' : 'Heat'}:** ${s.heat}\n`
+      }
+      text += `- **Weight:** ${s.weight}\n`
+      if (s.notes) {
+        text += '\n'
+        text += `${s.notes}\n`
+      }
+      text += '\n\n\n\n'
+    }
+  })
+
+
+  write('weapons', text)
+}
