@@ -6,47 +6,8 @@
 
 ## Adept
 
-Dust billows around the tank, firing a top-mounted plasma rifle at a group of asari operatives. One steps out beyond her cover and outstretches her hand. The tank slowly rises in the air, tilting forward and, after a brief pause, slams, nose-first, into the desert terrain.
+Adepts are biotic specialists, capable of disabling and killing enemies with raw biotic power. While they lack advanced combat training, they are the best at defeating enemies without firing a shot. They are outfitted with L5x implants that can spawn a micro-singularity, damaging enemies and pulling them into the air.
 
-A human adolescent scratches the back of his head, his implant only a few days old. Eye closed, he senses new energy in his body, a tingle that extends outward into the space around him. His stomach lurches and he opens his eyes to find himself floating a few feet off the floor.
-
-“I am a biotic god,” he thinks to himself and lets forth a devastating wave of necrotic energy, disrupting the natural rhythm of physics on a molecular level. The four batarians in front of him crumble to the floor.
-
-Adepts have an affinity for using biotics to manipulate the world around them. Novices can only manipulate the mass of an object. But as adepts become powerful they can learn to concentrate matter into powerful strikes and protective barriers or they can reduce the mass to an unstable point, causing ruptures at an atomic level. The most powerful adepts can even cause breaks in the fabric of space-time.
-
-
-### Biotics
-
-Biotics is the ability of some lifeforms to create mass effect fields using element zero (eezo) nodules embedded in body tissues. Biotic abilities are activated using a technique called "physical mnemonics", in which the biotic uses a physical gesture to cause neurons to fire in a certain sequence, sending an electrical charge through their eezo nodules and creating the desired effect. A biotic may enhance certain aspects of his or her biotic abilities through intensive training, biofeedback, or installing biotic implant upgrades called bio-amps.
-
-Biotic abilities are common in asari, humans, and volus. When humans first discovered the potential of biotic abilities, they immediately began experimenting and working towards the manufacture of biotic soldiers. Batarian, drell, hanar, krogan, prothean, turian, vorcha biotics are uncommon and usually regarded in high esteem by their races and provided every opportunity to develop their abilities. Elcor, salarian, and quarian biotics are incredibly rare and are too valuable to be wasted as soldiers or operatives. The agara and geth have had no known reports of biotic users.
-
-
-### Biotic Implants
-
-Asari are the only known naturally born biotics and their biotic abilities are based on their natural talents and ability to exert their will on the environment. All other lifeforms gain biotic abilities after being exposed to element zero, though this does not guarantee the development of biotic talents. Biotic talents generally manifest when the being hits adolescence. Most lifeforms require the installation of a biotic implant to focus the eezo nodules in their body. This training takes years and is extremely intensive, require constant focus and calm. Additionally, these implants can be dangerous and older models have been known to cause mental and physical health issues.
-
-<img 
-  src='https://vignette.wikia.nocookie.net/masseffect/images/c/c3/N7_Fury_Adept_MP.png/revision/latest?cb=20120717150910' 
-  style='width:285px' />
-  
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\page
-
-### Creating an Adept
-
-Creating an adept generally requires a backstory that involves how you became a biotic. Even though asari come to their biotic talents naturally, the skill required to become an adept takes years of practice. When did you first discover your biotic abilities? Who was your mentor or teacher? What made you choose this focused path, rather than wanting to master guns (vanguards) or tech (sentinels)?
-
-If you have a biotic implant, think about how long you’ve had the implant. It is causing any mental or physical issues? How old were you when you received your implant? Was is a specialized or experimental model? What government or scientific body approved the implant?
-
-
-#### Quick build
-
-You can make an adept quickly by following these suggestions. First, put your highest ability score in Wisdom. If you've
-chosen an asari as your race, put your highest ability score in Charisma, instead. Your next focus should be Dexterity
-or Constitution. Second, choose the Artisan background. Third, choose the _biotic punch_, _lift_, _phase disruptor_, and _throw_ cantrips, along with the following 1st level spells: _lance_ and _pull_.
 
 ## Class Features
 
@@ -73,6 +34,9 @@ You start with the following equipment, in addition to the equipment granted by 
 - M-3 Predator or M-4 Shuriken
 - Omni-Blade or Monomolecular Blade
 - Stock Light Armor
+
+```
+```
 
 ### Spellcasting
 
@@ -110,20 +74,11 @@ Additionally, when you learn a new spell, you may instead choose one of the spel
 version of it. You select one of the advancement options listed in the spell description. Whenever you cast the spell,
 you cast the advanced version of it. You can only learn one advancement for each spell.
 
-#### Spellcasting Ability
-
-Adepts have an L5x biotic implant which requires conscious control over their nervous system. As an Adept, you use your
-Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the
-saving throw DC for a biotic spell you cast and when making an attack roll with one.
-
-__Spell save DC__ = 8 + your proficiency bonus + your Wisdom modifier
-
-__Spell attack modifier__ = your proficiency bonus + your Wisdom modifier
-
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
 
 \page
+
 
 <div class='classTable wide'>
 ##### Adept
@@ -151,6 +106,21 @@ __Spell attack modifier__ = your proficiency bonus + your Wisdom modifier
 | 20th | +6 | Signature Biotics | 6 | 5 | 8 | 22 | 7 | 6 | 5 | 3 | 1 |
 </div>
 
+
+
+#### Spellcasting Ability
+
+Adepts have an L5x biotic implant which requires conscious control over their nervous system. As an Adept, you use your
+Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the
+saving throw DC for a biotic spell you cast and when making an attack roll with one.
+
+__Spell save DC__ = 8 + your proficiency bonus + your Wisdom modifier
+
+__Spell attack modifier__ = your proficiency bonus + your Wisdom modifier
+
+
+
+
 ### Barrier
 
 As an action or bonus action, you create a biotic barrier around you that reduces incoming damage and fuels certain 
@@ -169,9 +139,6 @@ you must finish a short rest before you can use it again. You may use barrier 2 
 5 at 12th, and 6 at 17th.
 
 
-```
-```
-
 ### Biotic Recovery
 
 You have learned to regain some of your biotic energy by meditating and calming your mind. Once per day when you finish
@@ -180,6 +147,11 @@ to or less than half your adept level (rounded up), and none of the slots can be
 
 For example, if you’re a 4th-level adept, you can recover up to two levels worth of spell slots. You can recover either
 a 2nd-level spell slot or two 1st-level spell slots.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\page
 
 
 ### Subclass
@@ -194,10 +166,6 @@ can increase two ability scores of your choice by 1. You can't increase an abili
 
 If you are using feats, instead of increasing your ability score(s), you may gain a Feat.
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\page
 
 ### Empowered Biotics
 
@@ -215,9 +183,9 @@ By spending 8 hours training, you can exchange one or both of the spells you cho
 
 <img 
   src='https://vignette.wikia.nocookie.net/masseffect/images/3/3e/ME3_Volus_Adept.png/revision/latest?cb=20121009214956' 
-  style='width:285px; position: absolute; top: 60px' />
+  style='width:285px; position: absolute; top: 260px' />
 
-<div style='margin-top:340px'></div>
+<div style='margin-top:320px'></div>
 
 
 
@@ -235,8 +203,6 @@ Adepts have three subclasses which revolve around your biotic specialty. Force e
 the maximum amount of damage through biotic powers. Blackstars are control experts and use powers like pull and singularity
 to hinder enemy forces. Disruptors focus on the necrotic powers of biotics and can maintain powerful spells at great length.
 
-```
-```
 
 ### Commando
 
@@ -279,17 +245,19 @@ affects other creatures that you can see, you can choose a number of them equal 
 automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half 
 damage on a successful save.
 
-#### Bend Luck
-
-You've mastered the art of using small mass effect fields to slightly alter the outcome of other creature's actions. It 
-might be a small burst under the muzzle of a gun to throw off the attacker's aim. Or negative field around a friendly 
-creature as leaps away from a grenade, moving it out of damage's way.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
 
 
 \page
+
+#### Bend Luck
+
+You've mastered the art of using small mass effect fields to slightly alter the outcome of other creature's actions. It 
+might be a small burst under the muzzle of a gun to throw off the attacker's aim. Or negative field around a friendly 
+creature as leaps away from a grenade, moving it out of damage's way.
+
 
 At 6th level, when another creature you can see makes an attack roll, an ability check, or a saving throw, you 
 can use your reaction to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll. 
@@ -338,6 +306,8 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 At 10th level, when you roll a 1 or 2 on a damage die for a spell that deals necrotic damage, you can reroll the die and must use the new roll.
 
+```
+```
 
 #### Biotic Concentration
 
@@ -349,7 +319,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 <img 
   src='https://vignette.wikia.nocookie.net/masseffect/images/d/d9/ME3_Krogan_Shaman.png/revision/latest?cb=20121009215403' 
-  style='position:absolute; top:-25px; right:30px; width:400px' />
+  style='position:absolute; right:30px; width:400px' />
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
