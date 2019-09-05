@@ -28,6 +28,7 @@ const order = [
     'infiltrator',
     'sentinel',
     'soldier',
+    'vanguard',
     'chapter-4',
     'chapter-5',
     'chapter-6',
