@@ -1,76 +1,11 @@
 
-<img 
-  src='https://github.com/queryluke/masseffect-5e-pdf/blob/master/images/tac-cloak.png?raw=true' 
-  style='position:absolute; top:0; left:0; width:816px' />
-
-<div style='margin-top:290px'></div>
+<img  src='https://n7.world/images/classes/infiltrator.png' 
+  style='width:325px;' />
 
 
 ## Infiltrator
 
-From this distance, the spec on the horizon looks like an and, but his scope shows a different picture: two Geth recon drones approaching his location. He zeros the crosshairs on a single red eye, adjusts for wind, and fires. Then pivots the rifle few centimeters to the left and fires another round. Looking up from the scope, two dots careen towards the ground.
-
-Like a shadow, she makes no noise as she moves. Only a few steps behind her prey, she must wait for the armed guards to leave. As the target approaches the office door, the guards move to flank the doorway and she glides between them into the room. Absorbed in his omni-tool, the target doesn’t even hear the sword unsheathe.
-
-She’s spent the past two years preparing for this moment, hopping from planet to planet, following the orders of the Blue Suns commander. Her team approaches on A-61 Gunships in the night. But she knows a long battle will only yield casualties on both sides. She has other plans. Walking through the armory, her omni-tool whirs as it taps into the firing mechanisms of every gun she moves past. They’ll never fire a shot.
-
-Infiltrators are masters of stealth and subterfuge. Deadly at any distance, an infiltrator takes pride in remaining unseen and ending combat before it even begins. 
-
-### Tactical Cloak
-The primary feature of an infiltrator is their tactical cloak. Using refractive lenses and mirror imaging, the tactical clock effectively renders the infiltrator invisible, letting them get in close or remain hidden from far away. It also allows them to access military compounds, executive offices, and other secure locations in which they can sabotage or extract valuable information.
-
-Because of their clandestine capabilities, infiltrators are generally recruited as spies, assassins, and thieves. As such, infiltrators also prefer to work alone. Too many missions are botched by the boldness of a soldier, the unreliable tech of engineers, or the chaotic nature of biotics. However, some infiltrators do find roles in larger squads, typically motivated by the call of a greater objective.
-
-<img  src='https://n7.world/images/classes/infiltrator.png'
-  style='width:325px; margin-top: 140px' />
-
-### Skill and Precision
-Infiltrators split their time equally between mastering weapons and skills. They see every skill as a new opportunity to gain an edge on the competition (be it an enemy combatant or rival thief). They spend hours honing their skills, reducing the risk of failure to almost zero. Some infiltrators focus on social skills like deception and persuasion. Others prefer knowledge of electronics and mechanical devices, allowing them to disarm traps and hack into computer networks. It’s also common that infiltrators focus on physical skills like stealth and acrobatics, so they find new avenues to ingress and egress.
-
-In combat, infiltrators prefer cunning over brute strength and never approach a fight head-on. An infiltrator would rather wait for the perfect moment and make a single strike. Infiltrators constantly seek advantageous position over enemies in combat and use information and knowledge to gain the upper hand in social situations.
-
-### Creating an Infiltrator
-As you create an infiltrator, consider your character’s relationship to the law. Do you have a criminal past - or present? Are you on the run from the law or a vengeful mercenary group? How do you justify your clandestine activities? Are you driven by greed or some other desire or ideal?
-
-Also, think about your relationships with other beings. Do you prefer to work alone? Have you been ordered or coerced to work with your current squad? What do you hope to gain from joining your current - and previous - squadmates?
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-
-\page
-
-
-<div class='classTable wide'>
-##### Infiltrator
-  | <span style='font-size:12px'>Level</span> | <span style='font-size:12px'>Proficiency Bonus</span> | <span style='font-size:12px'>Sneak Attack Damage</span> | <span style='font-size:12px'>Features</span> | <span style='font-size:12px'>Tactical Cloak Uses</span> | <span style='font-size:12px'>Combat Powers</span> | <span style='font-size:12px'>Tech Points</span> | <span style='font-size:12px'>Tech Point Limit</span> |
-| :---: | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1st | +2 | 1d6 | Tactical Cloak, Expertise, Sneak Attack | 2 | - | 2 | 1 |
-| 2nd | +2 | 1d6 | Cunning Action, Combat Power | 2 | 1 | 2 | 1 |
-| 3rd | +2 | 2d6 | Subclass Feature | 2 | 1 | 3 | 1 |
-| 4th | +2 | 2d6 | Ability Score Improvement | 2 | 1 | 4 | 1 |
-| 5th | +3 | 3d6 | Uncanny Dodge | 2 | 1 | 6 | 1 |
-| 6th | +3 | 3d6 | Expertise | 3 | 2 | 6 | 1 |
-| 7th | +3 | 4d6 | Evasion | 3 | 2 | 7 | 1 |
-| 8th | +3 | 4d6 | Ability Score Improvement | 3 | 2 | 7 | 1 |
-| 9th | +4 | 5d6 | Subclass Feature | 3 | 2 | 11 | 2 |
-| 10th | +4 | 5d6 | Ability Score Improvement | 3 | 2 | 11 | 2 |
-| 11th | +4 | 6d6 | Reliable Talent | 4 | 3 | 13 | 2 |
-| 12th | +4 | 6d6 | Ability Score Improvement | 4 | 3 | 13 | 2 |
-| 13th | +5 | 7d6 | Subclass Feature | 4 | 3 | 15 | 2 |
-| 14th | +5 | 7d6 | Blindsense | 4 | 3 | 15 | 2 |
-| 15th | +5 | 8d6 | Slippery Mind | 4 | 3 | 17 | 2 |
-| 16th | +5 | 8d6 | Ability Score Improvement | 4 | 4 | 17 | 2 |
-| 17th | +6 | 9d6 | Subclass Feature | 4 | 4 | 20 | 3 |
-| 18th | +6 | 9d6 | Elusive | 5 | 4 | 20 | 3 |
-| 19th | +6 | 10d6 | Ability Score Improvement | 5 | 4 | 23 | 3 |
-| 20th | +6 | 10d6 | Stroke of Luck | 5 | 4 | 25 | 3 |
-</div>
-
-
-
-#### Quick Build
-You can make an infiltrator quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to focus on hacking and tech spells. Choose Charisma instead if you plan to emphasize deception and social interactions. Second, choose the Faction Agent background.
+The Infiltrator is a tech-savvy warrior, able to win battles by quickly disabling and killing enemies. These soldiers focus on unlocking alternate routes, gaining access to good equipment, and obtaining an advantageous position over enemies in combat.
 
 ## Class Features
 
@@ -98,16 +33,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - Omni-Taser, Omni-Blade,  or Monomolecular Blade
 - Stock Light Armor
 
-
-<img 
-  src='https://github.com/queryluke/masseffect-5e-pdf/blob/master/images/mono-blade.png?raw=true' 
-  style='width:325px' />
-
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\page
 
 ### Spellcasting
 Your omni-tool is the source of your spellcasting capabilities. You also use a variety of gadgets and devices in the form of combat powers. See chapter 12 for the
@@ -150,6 +75,43 @@ __Spell save DC__ = 8 + your proficiency bonus + your Intelligence modifier
 
 __Spell attack modifier__ = your proficiency bonus + your Intelligence modifier
 
+<img 
+  src='https://vignette.wikia.nocookie.net/masseffect/images/a/a2/MEA_Infilitrator_Profile.png/revision/latest?cb=20180309174849' 
+  style='width:245px' />
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | CLASSES</div>
+
+
+\page
+
+
+<div class='classTable wide'>
+##### Infiltrator
+  | <span style='font-size:12px'>Level</span> | <span style='font-size:12px'>Proficiency Bonus</span> | <span style='font-size:12px'>Sneak Attack Damage</span> | <span style='font-size:12px'>Features</span> | <span style='font-size:12px'>Tactical Cloak Uses</span> | <span style='font-size:12px'>Combat Powers</span> | <span style='font-size:12px'>Tech Points</span> | <span style='font-size:12px'>Tech Point Limit</span> |
+| :---: | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
+| 1st | +2 | 1d6 | Tactical Cloak, Expertise, Sneak Attack | 2 | - | 2 | 1 |
+| 2nd | +2 | 1d6 | Cunning Action, Combat Power | 2 | 1 | 2 | 1 |
+| 3rd | +2 | 2d6 | Subclass Feature | 2 | 1 | 3 | 1 |
+| 4th | +2 | 2d6 | Ability Score Improvement | 2 | 1 | 4 | 1 |
+| 5th | +3 | 3d6 | Uncanny Dodge | 2 | 1 | 6 | 1 |
+| 6th | +3 | 3d6 | Expertise | 3 | 2 | 6 | 1 |
+| 7th | +3 | 4d6 | Evasion | 3 | 2 | 7 | 1 |
+| 8th | +3 | 4d6 | Ability Score Improvement | 3 | 2 | 7 | 1 |
+| 9th | +4 | 5d6 | Subclass Feature | 3 | 2 | 11 | 2 |
+| 10th | +4 | 5d6 | Ability Score Improvement | 3 | 2 | 11 | 2 |
+| 11th | +4 | 6d6 | Reliable Talent | 4 | 3 | 13 | 2 |
+| 12th | +4 | 6d6 | Ability Score Improvement | 4 | 3 | 13 | 2 |
+| 13th | +5 | 7d6 | Subclass Feature | 4 | 3 | 15 | 2 |
+| 14th | +5 | 7d6 | Blindsense | 4 | 3 | 15 | 2 |
+| 15th | +5 | 8d6 | Slippery Mind | 4 | 3 | 17 | 2 |
+| 16th | +5 | 8d6 | Ability Score Improvement | 4 | 4 | 17 | 2 |
+| 17th | +6 | 9d6 | Subclass Feature | 4 | 4 | 20 | 3 |
+| 18th | +6 | 9d6 | Elusive | 5 | 4 | 20 | 3 |
+| 19th | +6 | 10d6 | Ability Score Improvement | 5 | 4 | 23 | 3 |
+| 20th | +6 | 10d6 | Stroke of Luck | 5 | 4 | 25 | 3 |
+</div>
+
 ### Tactical Cloak
 
 As an action, you activate your tactical cloak, becoming <condition id="invisible"/>. Tactical cloak lasts 1 minute or
@@ -159,9 +121,6 @@ Once you have used tactical cloak the maximum number of times for your Infiltrat
 you must finish a short rest before you can use it again. You may use tactical 2 times at 1st level, 3 at 6th, 4 at 11th,
 and 5 at 18th.
 
-```
-```
-
 ### Expertise
 
 At 1st level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either 
@@ -169,9 +128,7 @@ of the chosen proficiencies.
 
 At 6th level, choose two more of your skill proficiencies to gain this benefit.
 
-<img 
-  src='https://vignette.wikia.nocookie.net/masseffect/images/a/a2/MEA_Infilitrator_Profile.png/revision/latest?cb=20180309174849' 
-  style='width:285px' />
+
 
 ### Sneak Attack
 
@@ -198,6 +155,7 @@ At 2nd level, you know one combat power of your choice from the infiltrator spel
 combat powers of your choice at higher levels, as shown in the Combat Powers column of the Infiltrator table.
 
 Instead of learning a new combat power, you may instead learn the advanced version of a combat power you already know.
+
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
