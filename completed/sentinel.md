@@ -1,37 +1,86 @@
-
-<img 
-  src='https://github.com/queryluke/masseffect-5e-pdf/blob/master/images/sentinel.png?raw=true' 
-  style='position:absolute; top:0; left:0; width:816px' />
-
-<div style='margin-top:450px'></div>
-
-
 ## Sentinel
 
-To the layman, her heads-up-display is nothing but gibberish and flashing lights. But she follows the contours topographic readout, tracing an optimal route. She checks her squad’s vitals and notes the rookie’s adrenaline is up. A red alert lets her know that the Cannibal that just ducked behind the fallen building is ramping up a frag grenade. Without thinking, she begins issuing orders.
-
-It’s been hours, but the husks keep on coming. That’s just fine to him. He checks the readout on his omni-tool indicating the damage to his armor. Needs a little boost. His omni-tool whirs and the micro-fabricator heats the air into glowing hot ball of plasma. Ready for the next wave.
-
-He looks over the bright-orange translucent glow of his omni-shield. Bullets erupt like fireworks, but he is fully protected. His team needs to gain ground. With a few quick movements, he runs a subroutine and transfers excess energy from his teammates kinetic barriers into their legguards. It’s now or never. Time to storm the front.
-
-Sentinels are able to combine tech and biotics to manipulate the environment, disable and track enemies, or defend the party. They are adept leaders and are almost always the last being to step off the battlefield.
+The Sentinel is able to combine tech and biotics to manipulate the environment, disable and track enemies, or defend the party. In addition to complete weapons training, Sentinels are equipped with an advanced shield that makes taking cover much less necessary and rushing their enemies much more productive. Because Sentinels have access to both biotic spells and tech powers and use Charisma as their spellcasting modifier.
 
 
-### Tech Armor
-In addition to complete weapons training, Sentinels are equipped with an advanced kinetic barrier that makes taking cover much less necessary and rushing their enemies much more productive. Colloquially called, “Tech Armor,” this advanced kinetic barrier is hardier and more resilient than traditional shields. 
+
+## Class Features
+
+As a sentinel, you gain the following class features
+
+#### Hit Points
+___
+- __Hit Dice__: 1d10 per sentinel level
+- __Hit Points at 1st Level__: 10 + your Constitution modifier
+- __Hit Points at Higher Levels__: 1d10 (or 6) + your Constitution modifier per sentinel level after 1st
+
+#### Proficiencies
+___
+- __Armor__: Light armor, medium armor, heavy armor
+- __Weapons__: Heavy Pistols and choose two from Assault Rifles, Melee, Shotguns,  and SMGs
+- __Tools__: None
+- __Saving Throws__: Charisma, Constitution
+- __Skills__: Choose three from Athletics, Engineering, Insight, Intimidation, Medicine, Persuasion, Science,  and Survival
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- M-3 Predator, M-4 Shuriken,  or M-8 Avenger
+- Omni-Blade, Omni-Hammer, Monomolecular Blade,  or Riot Shield
+- Stock Light Armor, Stock Medium Armor,  or Stock Heavy Armor
+
+### Spellcasting
+Your Lt5 is the source of your spellcasting capabilities. See chapter 12 for the
+general rules of spellcasting and chapter 13 for the list of spells.
+
+#### Cantrips
+You know two cantrips of your choice from the sentinel spell list. You learn additional sentinel cantrips of your choice
+at higher levels, as shown in the Cantrips column of the Sentinel table.
+
+#### Spell Slots
+The Sentinel table shows how many spell slots you have. The table also shows what the level of those slots is; all of
+your spell slots are the same level. To cast one of your sentinel spells of 1st level or higher, you must expend a spell
+slot. You regain all expended spell slots when you finish a short or long rest.
+
+For example, when you are 5th level, you have two 2nd-level spell slots. To cast the 1st-level spell lance, you must spend
+one of those slots, and you cast it as a 2nd-level spell.
+
+```
+```
 
 <img  src='https://n7.world/images/classes/sentinel.png'
-  style='width:325px; margin-top: 220px' />
+  style='width:225px; margin-top: -10px; margin-left: 50px' />
 
+#### Spells Known of 1st Level and Higher
+At 1st level, you know two 1st-level spells of your choice from the sentinel spell list.
 
-Tech armor also has an offensive component, and can be detonated in a wave of energy that can cripple nearby enemies. While a lot of sentinels are natural born leaders and focus on commanding their troops in battle, others focus on tooling their tech armor to be as efficient as possible. Others prefer to distribute what they’ve learned about armor physics to squad members. 
+The Spells Known column of the Sentinel table shows when you learn more sentinel spells of your choice of 1st level
+and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your
+level. When you reach 5th level, for example, you learn a new sentinel spell, which can be 1st or 2nd level.
 
+Additionally, when you learn a new spell, you may instead choose one of the spells you know and learn an advanced
+version of it. You select one of the advancement options listed in the spell description. Whenever you cast the spell,
+you cast the advanced version of it. You can only learn one advancement for each spell.
 
+#### Spellcasting Ability
 
-### L5t Implant
-Sentinels are unique in their ability to cast both Tech and Biotic spells. Their L5t implant integrates with the users omni-tool, allowing them to use the physical mnemonics of biotic spells with the raw versatility of omni-tool customization.
+Sentinels use a unique L5t biotic implant that integrates with the operative's omni-tool maximizes their innate talents.
+As a sentinel you choose your spellcasting modifier from Charisma, Intelligence, or Wisdom. 
 
-When sentinels being their training, they tap into a specific mental strength, and their omni-tool’s VI begins to adapt to the user’s commands. Sentinels who find themselves naturally leading their squads tend to use cunning, savvy, and wits to bend their implant to their will. Highly-intellectual individuals focus on understanding the logical connection between their implant and omni-tool and are able to analyze and improve the connection with constant experimentation. The calm of mind invoke patience, practice, and level-headedness to focus their talents into an intricate bond between machine and mass effect fields.
+- Choosing Charisma means that your operative has immense willpower and uses it to overcome the mental strain of casting 
+  biotic spells and interfacing with their omni-tool. They use their innate talent to maximize the potency of their spells.
+- Choosing Intelligence means that your operative takes advantage of their omni-tool, using it to assist in the casting
+  of biotic spells. Their keen intellect helps them choose strategic targets to maximize the potency of their spells.
+- Choosing Wisdom means that your operative has unmatched concentration and can use the physical mnemonics of their
+  biotic implant to cast tech spells with their omni-tool. Their patience and insight maximizes the potency of their spells.
+
+You use your selected ability whenever a spell refers to your spellcasting ability. In addition, you use your selected
+ability's modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
+
+__Spell save DC__ = 8 + your proficiency bonus + your selected ability modifier
+
+__Spell attack modifier__ = your proficiency bonus + your selected ability modifier
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
@@ -67,98 +116,7 @@ When sentinels being their training, they tap into a specific mental strength, a
 </div>
 
 
-### Creating a Sentinel
-When you create a sentinel, consider your character’s relationship to their squad (present and past). Are you a leader? Do you want to be a leader or are you afraid to take the reigns? Do you treat everyone equally or as individuals?
 
-Also, think about how you came into your biotic talents and why do failed to become a purely biotic caster such as a vanguard or adept. Did you fail some entry exam? Find a love for the technical nature of armor and/or omni-tools? Or are you more comfortable with scientific engineering and think biotics are useful but not suitable for combat?
-
-#### Quick Build
-For a quick sentinel build, follow these suggestions. First, Charisma should should be your highest ability score and you should select it as your spellcasting modifier (for you L5t implant). Make Dexterity your next-highest if you want to focus on ranged attacks. Choose Strength instead if you plan to emphasize melee weapons. Second, choose the Colonist Background. Third, choose the _lift_, and _throw_ cantrips, along with the following 1st level spells: _shockwave_ and _pull_.
-
-```
-```
-
-## Class Features
-
-As a sentinel, you gain the following class features
-
-#### Hit Points
-___
-- __Hit Dice__: 1d10 per sentinel level
-- __Hit Points at 1st Level__: 10 + your Constitution modifier
-- __Hit Points at Higher Levels__: 1d10 (or 6) + your Constitution modifier per sentinel level after 1st
-
-#### Proficiencies
-___
-- __Armor__: Light armor, medium armor, heavy armor
-- __Weapons__: Heavy Pistols and choose two from Assault Rifles, Melee, Shotguns,  and SMGs
-- __Tools__: None
-- __Saving Throws__: Charisma, Constitution
-- __Skills__: Choose three from Athletics, Engineering, Insight, Intimidation, Medicine, Persuasion, Science,  and Survival
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\page
-
-#### Equipment
-
-You start with the following equipment, in addition to the equipment granted by your background:
-
-- M-3 Predator, M-4 Shuriken,  or M-8 Avenger
-- Omni-Blade, Omni-Hammer, Monomolecular Blade,  or Riot Shield
-- Stock Light Armor, Stock Medium Armor,  or Stock Heavy Armor
-
-### Spellcasting
-Your Lt5 is the source of your spellcasting capabilities. See chapter 12 for the
-general rules of spellcasting and chapter 13 for the list of spells.
-
-#### Cantrips
-You know two cantrips of your choice from the sentinel spell list. You learn additional sentinel cantrips of your choice
-at higher levels, as shown in the Cantrips column of the Sentinel table.
-
-#### Spell Slots
-The Sentinel table shows how many spell slots you have. The table also shows what the level of those slots is; all of
-your spell slots are the same level. To cast one of your sentinel spells of 1st level or higher, you must expend a spell
-slot. You regain all expended spell slots when you finish a short or long rest.
-
-For example, when you are 5th level, you have two 2nd-level spell slots. To cast the 1st-level spell lance, you must spend
-one of those slots, and you cast it as a 2nd-level spell.
-
-#### Spells Known of 1st Level and Higher
-At 1st level, you know two 1st-level spells of your choice from the sentinel spell list.
-
-The Spells Known column of the Sentinel table shows when you learn more sentinel spells of your choice of 1st level
-and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your
-level. When you reach 5th level, for example, you learn a new sentinel spell, which can be 1st or 2nd level.
-
-Additionally, when you learn a new spell, you may instead choose one of the spells you know and learn an advanced
-version of it. You select one of the advancement options listed in the spell description. Whenever you cast the spell,
-you cast the advanced version of it. You can only learn one advancement for each spell.
-
-#### Spellcasting Ability
-
-Sentinels use a unique L5t biotic implant that integrates with the operative's omni-tool maximizes their innate talents.
-As a sentinel you choose your spellcasting modifier from Charisma, Intelligence, or Wisdom. 
-
-- Choosing Charisma means that your operative has immense willpower and uses it to overcome the mental strain of casting 
-  biotic spells and interfacing with their omni-tool. They use their innate talent to maximize the potency of their spells.
-- Choosing Intelligence means that your operative takes advantage of their omni-tool, using it to assist in the casting
-  of biotic spells. Their keen intellect helps them choose strategic targets to maximize the potency of their spells.
-- Choosing Wisdom means that your operative has unmatched concentration and can use the physical mnemonics of their
-  biotic implant to cast tech spells with their omni-tool. Their patience and insight maximizes the potency of their spells.
-
-You use your selected ability whenever a spell refers to your spellcasting ability. In addition, you use your selected
-ability's modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.
-
-__Spell save DC__ = 8 + your proficiency bonus + your selected ability modifier
-
-__Spell attack modifier__ = your proficiency bonus + your selected ability modifier
-
-
-<img 
-  src='https://vignette.wikia.nocookie.net/masseffect/images/d/d5/MEA_Sentinel_Profile.png/revision/latest?cb=20180308180516&format=original' 
-  style='width:300px' />
 
 ### Tech Armor
 
@@ -176,12 +134,8 @@ or half as much on a successful one.
 
 You can use Tech Armor twice between long rests.
 
-
-<div class='pageNumber auto'></div>
-<div class='footnote'>PART 1 | CLASSES</div>
-
-\page
-
+```
+```
 
 ### Barrier
 
@@ -199,6 +153,18 @@ You can also end barrier at any time as a free action. When Barrier ends, you lo
 Once you have used barrier the maximum number of times for your Adept, Sentinel, or Vanguard level (whichever is highest),
 you must finish a short rest before you can use it again. You may use barrier 2 times at 1st level, 3 at 3rd, 4 at 6th,
 5 at 12th, and 6 at 17th.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | CLASSES</div>
+
+\page
+
+
+
+<img 
+  src='https://vignette.wikia.nocookie.net/masseffect/images/d/d5/MEA_Sentinel_Profile.png/revision/latest?cb=20180308180516&format=original' 
+  style='width:300px' />
 
 
 ### Fighting Style
@@ -526,12 +492,6 @@ This damage detonates primed targets, but you are immune to any detonating effec
 
 __Cryo Shield__. Gain all the benefits of Omni-Shield. In addition, a target hit by a Cryo Shield attack takes 1d8 cold 
 damage and must succeed on a DC 13 Strength saving throw or become <condition id="frozen"/> until the end its next turn.
-
-
-
-
-
-
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>PART 1 | CLASSES</div>
