@@ -3,7 +3,7 @@ const fs = require('fs')
 const order = [
     'title_page',
     'table_of_contents',
-    'preface',
+    'license',
     'introduction',
     'chapter-1',
     'chapter-2',
