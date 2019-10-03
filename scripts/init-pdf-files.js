@@ -78,7 +78,7 @@ function simplePart(collection, section, subSection) {
 }
 
 function write(file, text) {
-  fs.writeFileSync(`./parts/${file}.md`, text)
+  fs.writeFileSync(`./scripts/parts/${file}.md`, text)
 }
 
 const rules = mdFiles('rules')
@@ -497,7 +497,7 @@ if (limit === 'armorsets') {
   write('armor-sets', text)
 }
 
-// armor sets
+// armor mods
 
 if (limit === 'armormods') {
   const sets = _.sortBy(require('./../../masseffect-5e/static/data/armor_mods'), ['name'])
@@ -549,4 +549,23 @@ if (limit === 'weapons') {
 
 
   write('weapons', text)
+}
+
+// weapon mods
+
+if (limit === 'weaponmods') {
+  const sets = _.sortBy(require('./../../masseffect-5e/static/data/weapon_mods'), ['name'])
+
+  let text = ''
+
+  for (const s of sets) {
+    text += `#### ${s.name}\n`
+    text += `*${s.type}, ${_.lowerCase(s.rarity)}*\n`
+    text += '___\n'
+    text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
+    text += '\n'
+    text += `${s.feature}\n`
+    text += '\n\n\n\n'
+  }
+  write('weapon-mods', text)
 }
