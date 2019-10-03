@@ -598,3 +598,28 @@ if (limit === 'grenades') {
 
   write('grenades', text)
 }
+
+// grenades
+
+if (limit === 'programs') {
+  const items = mdFiles('programs')
+
+  let text = ''
+
+  for (const i of items) {
+
+    const reqs = i.installation ? ', requires installation' : ''
+
+    text += `#### ${i.name}\n`
+    text += `*${_.startCase(i.rarity)} program${reqs}*\n`
+    text += '\n'
+    const body = i.body.replace(/<condition id="(.*?)"\/?>/g, function(m,p1) {
+      return `*${p1}*`
+    })
+    text += body
+    text += '\n'
+    text += '\n\n\n\n'
+  }
+
+  write('programs', text)
+}
