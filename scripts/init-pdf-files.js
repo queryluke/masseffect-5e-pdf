@@ -577,3 +577,24 @@ if (limit === 'weaponmods') {
   }
   write('weapon-mods', text)
 }
+
+// grenades
+
+if (limit === 'grenades') {
+  const grenades = mdFiles('grenades')
+
+  let text = ''
+
+  for (const g of grenades) {
+    text += `#### ${g.name}\n`
+    text += '\n'
+    const body = g.body.replace(/__At higher marks__:?\.?/i,'___At Higher Marks.___').replace(/<condition id="(.*?)"\/?>/g, function(m,p1) {
+      return `*${p1}*`
+    })
+    text += body
+    text += '\n'
+    text += '\n\n\n\n'
+  }
+
+  write('grenades', text)
+}
