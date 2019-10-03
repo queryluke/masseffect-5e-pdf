@@ -16521,7 +16521,7 @@ Resistance to slashing and bludgeoning damage.  +2 AC.
 
 
 # Appendix B: Armor Mods
-Armor mods allow you to upgrade your equipment, providing powerful bonuses. All mods have their own costs. Operatives who are proficient with Tinker's tools can craft mods but most can be purchased from your local equipment shop. Once you've acquired your mod, you can install it yourself (if you're proficient with Armorsmith's, Tailor's, or Weaponsmith's tools) or you can have an equipment shop install it for you.
+Armor mods allow you to upgrade your equipment, providing powerful bonuses. All mods have their own costs. Operatives who are proficient with Tinker's tools can craft mods but most can be purchased from your local equipment shop. Once you've acquired your mod, you can install it yourself (if you're proficient with Armorsmith's or Tailor's tools) or you can have an equipment shop install it for you.
 
 Read the _Mods_ section of Chapter 5 for more information.
 
