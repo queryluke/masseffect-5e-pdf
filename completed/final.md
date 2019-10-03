@@ -214,10 +214,10 @@ An Unofficial D&D 5th Edition homebrew for Mass Effect
   	<li><span>[Appendix A: Armor Sets](#p175)</span><span>175</span></li>
   	<li><span>[Appendix B: Armor Mods](#p185)</span><span>185</span></li>
   	<li><span>[Appendix C: Weapons](#p189)</span><span>189</span></li>
-  	<li><span>[Appendix D: Weapon Mods](#p175)</span><span>175</span></li>
-  	<li><span>[Appendix E: Grenades & Mines](#p175)</span><span>175</span></li>
-  	<li><span>[Appendix F: Omni-tool Programs](#p175)</span><span>175</span></li>
-  	<li><span>[Appendix G: Conditions](#p175)</span><span>175</span></li>
+  	<li><span>[Appendix D: Weapon Mods](#p201)</span><span>201</span></li>
+  	<li><span>[Appendix E: Grenades & Mines](#p205)</span><span>205</span></li>
+  	<li><span>[Appendix F: Omni-tool Programs](#p207)</span><span>207</span></li>
+  	<li><span>[Appendix G: Conditions](#p210)</span><span>210</span></li>
   	<li><span>[Appendix H: Bestiary](#p175)</span><span>175</span></li>
   </ul>
   
@@ -18819,3 +18819,5666 @@ ___
 <div class='pageNumber auto'></div>
 <div class='footnote'>APPENDIX C | WEAPONS</div>
 
+
+
+
+
+\page
+
+# Appendix D: Weapon Mods
+Weapon mods allow you to upgrade your melee and ranged weapons, providing powerful bonuses. All mods have their own costs. Operatives who are proficient with Tinker's tools can craft mods but most can be purchased from your local equipment shop. Once you've acquired your mod, you can install it yourself (if you're proficient with Weaponsmith's tools) or you can have an equipment shop install it for you.
+
+Read the _Mods_ section of Chapter 5 for more information.
+
+## Weapon Mod List
+The Weapon Mods are presented in alphabetical order.
+
+#### Beam Emitter
+*Spectre ammo mod, available for all ranged weapons*
+___
+- **Cost:** 52,000
+
++2 on ranged attack rolls made with this weapon. It loses the Burst Fire and Double Tap properties and its damage type becomes radiant. After successfully hitting a target with a ranged attack with this weapon, you may use your bonus action to begin targeting. Until the targeting condition ends, you deal weapon damage to the target at each of the following combat phases: the end of your turn, the beginning of the target's turn, the end of the target's turn, and the beginning of your turn. Each time you deal damage, remove 1 heat. In addition to standard targeting rules, this targeting condition can end when this weapon's heat becomes 0, when the targeted creature gains three-quarter or full cover, the target uses an action and succeeds on an opposed Dexterity check (you may add your proficiency bonus if you are proficient with this weapon type), or you use a bonus action on your turn to end the condition.
+
+
+
+
+#### Bio-Converter
+*Spectre magazine mod, available for all ranged weapons*
+___
+- **Cost:** 33,000
+
+When this weapon's heat becomes 0, it immediately gains X heat and you take Xd4 fire damage where X is the maximum heat of the weapon. This damage bypasses shields and barriers and cannot be reduced in any way.
+
+
+
+
+#### Burst Fire System
+*Uncommon ammo mod, available for all ranged weapons*
+___
+- **Cost:** 13,000
+
+The weapon gains 6 heat and the Burst Fire attribute, but you have a -2 penalty with attack rolls and you reduce any damage done by 1 die type (d4s become a d2).
+
+
+```
+```
+
+#### Combat Sensor
+*Uncommon body mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+While this weapon is equipped, you have advantage on initiative rolls. In addition, you and any of your companions within 10m of you can't be surprised, except when incapacitated. The sensor awakens you and your companions within range if any of you are sleeping naturally when combat begins.
+
+
+
+
+#### Concentration Mod
+*Rare body mod, available for sniper rifles*
+___
+- **Cost:** 12,000
+
+If you reduce your speed to 0 for the turn, ranged attack rolls with this weapon score critical hits on rolls of 19 & 20.
+
+
+
+
+#### Counterweight
+*Uncommon grip mod, available for melee weapons*
+___
+- **Cost:** 5,000
+
++1 on melee attack rolls made with this weapon.
+
+
+
+
+#### Cranial Trauma System
+*Uncommon barrel mod, available for heavy pistols*
+___
+- **Cost:** 8,000
+
+Roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack made with this weapon.
+
+
+
+
+#### Cryo Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+You may use a bonus action to toggle the following effect on or off: damage type becomes cold. Successful ranged weapon attacks cause the target to become primed (cold) and reduce its movement speed by half until the end of its next turn.
+
+
+
+
+#### Disruptor Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+You may use a bonus action to toggle the following effect on or off: damage type becomes lightning, Successful ranged attacks can detonate primed targets or cause the target to become primed (lightning) until the end of its next turn.
+
+
+
+
+#### Electrical Conduits
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 15,000
+
+The weapon loses the Burst Fire and Double Tap properties and gains the Arc property. If its range is farther than 10m/20m, its range becomes 10m/20m.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX D | WEAPON MODS</div>
+\page
+
+#### Energy Channel
+*Spectre strike mod, available for melee weapons*
+___
+- **Cost:** 32,000
+
+When you hit with a melee attack with this weapon, you may deal 5 additional lightning damage and remove 5 shield points. You cannot use this if you have 0 shield points.
+
+
+
+
+#### Explosive Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 15,000
+
+You may use a bonus action to toggle the following effect on or off: Successful ranged attacks deal an additional 1d8 thunder damage, but each attack drains 2 heat.
+
+
+
+
+#### Extended Barrel I
+*Uncommon barrel mod, available for assault rifles, heavy pistols, smgs, sniper rifles*
+___
+- **Cost:** 5,000
+
++1 on damage rolls made with this weapon.
+
+
+
+
+#### Extended Barrel II
+*Rare barrel mod, available for assault rifles, heavy pistols, smgs, sniper rifles*
+___
+- **Cost:** 12,500
+
++2 on damage rolls made with this weapon.
+
+
+
+
+#### Extended Barrel III
+*Spectre barrel mod, available for assault rifles, heavy pistols, smgs, sniper rifles*
+___
+- **Cost:** 25,000
+
++3 on damage rolls made with this weapon.
+
+
+
+
+#### Extended Grip
+*Uncommon grip mod, available for melee weapons*
+___
+- **Cost:** 8,000
+
+The weapon loses the Finesse and Light properties. If the weapon has the Versatile property, remove it and add the Two-handed and Reach properties. Otherwise, add the Versatile property and increase the damage dice by one die type for a Versatile attack.
+
+
+
+
+#### Extended Magazine
+*Rare magazine mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+The weapon gains additional heat equal to its base heat.
+
+
+
+
+#### Grenade Launcher
+*Spectre ammo mod, available for all ranged weapons*
+___
+- **Cost:** 48,000
+
+The weapon loses the Burst Fire and Double Tap property. Its damage type becomes thunder. When you attack with this weapon choose a target location within the weapon's normal range. Each creature within 4m of the target must make a DC 13 Dexterity saving throw. On a failed save, a target takes thunder damage equal to twice the weapon's damage, or half as much on a successful one. Each attack costs 2 heat.
+
+
+
+
+#### Gyroscope
+*Rare grip mod, available for melee weapons*
+___
+- **Cost:** 10,000
+
+The weapon gains the Thrown property. If it already has the Thrown property, it gains +1 to hit with a ranged weapon attack.
+
+
+
+
+#### Heat Sink
+*Spectre magazine mod, available for all ranged weapons*
+___
+- **Cost:** 40,000
+
+The weapon gains additional heat equal to double its base heat.
+
+
+
+
+#### High-Caliber Barrel I
+*Uncommon barrel mod, available for all ranged weapons*
+___
+- **Cost:** 12,000
+
++1 on damage rolls made with this weapon. Ignores half cover.
+
+
+
+
+#### High-Caliber Barrel II
+*Rare barrel mod, available for all ranged weapons*
+___
+- **Cost:** 19,500
+
++2 on damage rolls made with this weapon. Ignores half cover.
+
+
+
+
+#### High-Caliber Barrel III
+*Spectre barrel mod, available for all ranged weapons*
+___
+- **Cost:** 32,000
+
++3 on damage rolls made with this weapon. Ignores half cover.
+
+
+
+
+#### High-Velocity Barrel I
+*Uncommon barrel mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+When you roll a 1 on a damage die for an attack you make with this weapon, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+
+#### High-Velocity Barrel II
+*Rare barrel mod, available for all ranged weapons*
+___
+- **Cost:** 50,000
+
+When you roll a 1 or 2 on a damage die for an attack you make with this weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+
+
+
+
+#### Honed Strike
+*Uncommon strike mod, available for melee weapons*
+___
+- **Cost:** 5,000
+
++1 on damage rolls made with this weapon.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX D | WEAPON MODS</div>
+\page
+
+#### Incendiary Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+You may use a bonus action to toggle the following effect on or off: damage type becomes fire. Successful ranged attacks deal an additional 1d4 fire damage and the target becomes primed (fire) until the end of its next turn.
+
+
+
+
+#### Long Barrel
+*Uncommon barrel mod, available for heavy pistols, smgs, shotguns*
+___
+- **Cost:** 8,000
+
+The weapon loses the Hip Fire property. Double the weapon's normal and long range.
+
+
+
+
+#### Magazine Upgrade
+*Uncommon magazine mod, available for all ranged weapons*
+___
+- **Cost:** 8,000
+
+The weapon gains additional heat equal to half its base heat (rounded down). 
+
+
+
+
+#### Omni-Blade Attachment
+*Uncommon barrel mod, available for assault rifles*
+___
+- **Cost:** 10,000
+
+In addition to its other properties, this weapon is also considered a melee weapon. It has the finesse property and successful melee attacks deal 1d8 piercing damage.
+
+
+
+
+#### Phasic Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 15,000
+
+You may use a bonus action to toggle the following effect on or off: -2 on ranged weapon damage rolls, but all damage done bypasses shields.
+
+
+
+
+#### Piercing Ammo
+*Rare ammo mod, available for assault rifles, heavy pistols, sniper rifles*
+___
+- **Cost:** 20,000
+
+Damage done by this weapon cannot be reduced by piercing damage resistance.
+
+
+
+
+#### Plasma Charge System
+*Spectre ammo mod, available for all ranged weapons*
+___
+- **Cost:** 69,000
+
+The weapon loses the Burst Fire and Double Tap property. Its damage type becomes radiant. Hit or miss, each creature within 2m or the target takes 2d10 radiant damage. Use a bonus action to charge the weapon before firing, consuming 2 heat. If charged, increase the hit or miss radiant damage to 4d10.
+
+```
+```
+
+
+#### Poisoned Alloys
+*Rare strike mod, available for melee weapons*
+___
+- **Cost:** 15,000
+
+Requires a melee weapon that deals slashing or puncture damage. When you hit with a melee attack with this weapon, the target must make a DC 13 Constiution saving throw or become poisoned for 1 hour.
+
+
+
+
+#### Power Magnifier
+*Uncommon body mod, available for heavy pistols, smgs*
+___
+- **Cost:** 12,000
+
++1 on spell damage rolls while holding this weapon.
+
+
+
+
+#### Precision Scope
+*Uncommon body mod, available for assault rifles, heavy pistols, smgs*
+___
+- **Cost:** 10,000
+
+Double the weapon's normal and long range. +1 on ranged attack rolls made with this weapon.
+
+
+
+
+#### Probability Modulator
+*Spectre strike mod, available for melee weapons*
+___
+- **Cost:** 42,000
+
+Attacks made with this weapon score a critical hit on a roll of 19 or 20.
+
+
+
+
+#### Quick Release Magazine
+*Uncommon magazine mod, available for assault rifles, heavy pistols, smgs, sniper rifles*
+___
+- **Cost:** 15,000
+
+You may reload this weapon as a bonus action.
+
+
+
+
+#### Rebalanced Field Coils
+*Rare magazine mod, available for all ranged weapons*
+___
+- **Cost:** 18,000
+
++1 on damage rolls made with this weapon if its current heat is less than half its maximum heat
+
+
+
+
+#### Seeking Plasma System
+*Spectre ammo mod, available for all ranged weapons*
+___
+- **Cost:** 75,000
+
+The weapon loses the Burst Fire property. Its damage type becomes fire. Reduce any damage done by 1 die type (d4s become a d2). Each attack costs 2 heat. Weapon attacks made with this weapon cannot miss as long as you can see the target.
+
+
+
+
+#### Shotgun Choke
+*Rare barrel mod, available for shotguns*
+___
+- **Cost:** 12,500
+
+The weapon loses the Hip Fire property. Double the weapon's normal and long range. +1 to weapon damage rolls made with this weapon.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX D | WEAPON MODS</div>
+\page
+
+#### Shredder Ammo
+*Rare ammo mod, available for shotguns*
+___
+- **Cost:** 20,000
+
+You may use a bonus action to toggle the following effect on or off: damage type becomes slashing. Damage done by this weapon cannot be reduced by slashing damage resistance.
+
+
+
+
+#### Single Fire System
+*Uncommon ammo mod, available for all ranged weapons*
+___
+- **Cost:** 15,000
+
+The weapon loses the Burst Fire and Double Tap properties. +2 bonus to weapon attack rolls. Increase any damage done by 1 die type, d12s become a +2 bonus to damage.
+
+
+
+
+#### Stability Damper I
+*Uncommon body mod, available for assault rifles, smgs, shotguns, sniper rifles*
+___
+- **Cost:** 5,000
+
++1 on ranged attack rolls made with this weapon.
+
+
+
+
+#### Stability Damper II
+*Rare body mod, available for assault rifles, smgs, shotguns, sniper rifles*
+___
+- **Cost:** 12,500
+
++2 on ranged attack rolls made with this weapon.
+
+
+
+
+#### Stability Damper III
+*Spectre body mod, available for assault rifles, smgs, shotguns, sniper rifles*
+___
+- **Cost:** 25,000
+
++3 on ranged attack rolls made with this weapon.
+
+
+
+
+#### Sticky Grenade Launcher
+*Spectre ammo mod, available for all ranged weapons*
+___
+- **Cost:** 65,000
+
+The weapon loses the Burst Fire property. Its damage type becomes thunder. On a hit, the target takes an additional 3d6 thunder damage and becomes prone. On a miss, the grenade lands 4m beyond the target. At the end of your turn, each creature within 2m of the grenade must succeed on a DC 10 Dexterity saving throw or take 3d6 thunder damage.
+
+
+
+
+#### Stunner
+*Rare barrel mod, available for heavy pistols, smgs*
+___
+- **Cost:** 25,000
+
+In addition to its other properties, this weapon is also considered a melee weapon. Successful melee attacks deal 1d6 bludgeoning + 1d4 piercing damage and if the target is maintaining a concentration spell it automatically fails its saving throw to maintain the spell.
+
+
+```
+```
+
+
+#### Thermal Scope
+*Uncommon body mod, available for assault rifles, sniper rifles*
+___
+- **Cost:** 20,000
+
+Looking through the scope gives the wielder Infrared Vision. When making a ranged weapon attack, you may choose whether or not to use Infrared Vision.
+
+
+
+
+#### Ultralight Materials
+*Uncommon body mod, available for all ranged weapons*
+___
+- **Cost:** 8,000
+
+Reduces the weapon's weight by one half. If the weapon has the Heavy property, remove it. If the weapon does not have the heavy property it gains the Light property.
+
+
+
+
+#### Ultralight Materials II
+*Rare body mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+Reduces the weapon's weight by one half. If the weapon has the Heavy property, remove it. If the weapon does not have the heavy property it gains the Light property. If the weapon has the two-handed property, remove it.
+
+
+
+
+#### Vintage Heat Sink
+*Uncommon magazine mod, available for all ranged weapons*
+___
+- **Cost:** 13,000
+
+This weapons heat becomes a die, based on its current heat. 1-4: d4, 5-6: d6, 7-8: d8, 9-10: d10, 11+: d12. Whenever you make a ranged attack with the weapon, spin down the die 1 face. If you make a Burst Fire attack, spin down the die 2 faces instead. Every round that you don't fire the weapon, spin the die up 1 face. This represents the weapon internally cooling off. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat.
+
+
+
+
+#### Warp Ammo
+*Rare ammo mod, available for all ranged weapons*
+___
+- **Cost:** 20,000
+
+You may use a bonus action to toggle the following effect on or off: damage type becomes necrotic damage. Successful ranged attacks detonate primed targets and a target with an active barrier will have 2 barrier ticks removed and cannot benefit from the barriers damage reduction for this attack.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX D | WEAPON MODS</div>
+
+\page
+
+# Appendix E: Grenades & Mines
+Grenades and mines provide various types of explosive mechanics to use in the heat of combat.
+
+Read the _Grenades & Mines_ section of Chapter 5 for more information.
+
+## Grenades & Mines List
+The Grenades & Mines are presented in alphabetical order.
+
+#### Arc Grenade
+
+Target an area within 10m. Each creature within 4m of the target must make a DC 13 Dexterity saving throw.
+A creature takes 3d6 lightning damage on a failed save, or half as much damage on a successful one.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d6 for each mark above the first.
+
+
+
+
+
+#### Cain Trip Mine
+
+Launch a Cain Trip Mine to a point you can see within 20m. The mine affixes to a solid surface and projects
+a beam 6m tripwire. When a creature or object passes through the tripwire, the mine explodes. Any creature within a 2m
+sphere must make a DC 13 Dexterity saving throw. A creature takes 2d12 thunder damage on a failed save or half as much
+damage on a successful one.
+
+Creatures need to pass a DC 10 Wisdom (Perception) check to notice the mine.
+
+To disarm the mine, a creature must pass a DC 13 Intelligence (Electronics) check. Failing the hacking check causes
+the mine to explode. The creature that made the hacking check has disadvantage on its saving throw.
+
+A successful ranged attack on the mine (AC 10) will cause it to explode. Each creature within 2m of the mine takes 2d12 thunder damage.
+
+___At Higher Marks.___ When you use this mine at Mark II or higher, the damage increases by 1d12 for each mark above the first.
+
+
+
+
+
+#### Cluster Grenade
+
+Target an area within 10m. Each creature within 6m of the target must make a DC 16 Dexterity saving throw.
+A creature takes 2d6 thunder damage on a failed save, or half as much damage on a successful one.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d6 for each mark above the first.
+
+
+```
+```
+
+
+#### Flashbang Grenade
+
+Target an area within 10m. Each creature within 4m of the target must make a DC 13 Constitution saving throw.
+On a failed save, a creature is *blinded* until the end of your next turn.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the DC of the Constitution saving throw increases
+by 1 for each mark above the first.
+
+
+
+
+
+#### Frag Grenade
+
+Target an area within 10m. Each creature within 4m of the target must make a DC 13 Dexterity saving throw.
+On a failed save, a creature takes 3d12 piercing damage or half as much damage on a successful one.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d12 for each mark above the first.
+
+
+
+
+
+#### Homing Grenade
+
+Target a creature you can see within 10m. The target creature takes 1d6 thunder damage. Each other creature
+within 2m of the target must make a DC 10 Dexterity saving throw. On a failed save, a creature takes 1d6 thunder damage
+or half as much on a successful one.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d6 for each mark above the first.
+
+
+
+
+
+#### Inferno Grenade
+
+Target an area within 10m. Each creature within 4m of the target must make a DC 13 Dexterity saving throw.
+On a failed save, a creature takes 3d4 fire or half as much on a successful one. The 4m area continues to burn for 1 minute.
+A creature must also make the saving throw when it enters the burning space for the first time on a turn or ends its turn there.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d4 for each mark above the first.
+
+
+
+
+
+#### Lift Grenade
+
+Target an area within 10m. Each creature within 4m of the target must make a DC 13 Strength saving throw.
+On a failed save, a creature is *lifted* until the end of your next turn.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the DC of the Strength saving throw increases
+by 1 for each mark above the first.
+
+
+
+
+
+#### Multi-frag Grenade
+
+Target 3 areas within 10m. Each creature within 4m of each target must make a DC 13 Dexterity saving throw.
+On a failed save, a creature takes 1d4 piercing damage or half as much on a successful one.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, you may target one additional area for each mark above the first.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX E | GRENADES & MINES</div>
+\page
+
+
+#### Proximity Mine
+
+Place a proximity mine within 2m. The first creature, besides yourself, that comes within 2m of the mine
+takes 1d8 thunder damage.
+
+Creatures need to pass a DC 10 Wisdom (Perception) check to notice the mine.
+
+To disarm the mine, a creature must pass a DC 13 Intelligence (Electronics) check. Failing the check causes
+the mine to explode. The creature that made the hacking check has disadvantage on its saving throw.
+
+A successful ranged attack on the mine (AC 10) will cause it to explode. Each creature within 2m of the mine takes 1d8 thunder damage.
+
+___At Higher Marks.___ When you use this mine at Mark II or higher, the damage increases by 1d8 for each mark above the first.
+
+
+
+
+
+#### Recon Mine
+
+Launch a recon mine to a location of your choice within 10m. It first sticks to the target location then
+scans enemies within a 10m cone, relaying tactical weak points about the enemy's armor and location. After your turn ends,
+any hostile that walks through the scanning cone loses 1 AC. Each creature can only be affected by this debuff once.
+
+You may spend another action to detonate the mine. Each creature within 2m must make a DC 13 Dexterity saving throw.
+On a failed save, a creature takes 2d4 thunder damage, or half as much damage on a successful one.
+
+Creatures need to pass a DC 10 Wisdom (Perception) check to notice the mine.
+
+To disarm the mine, a creature must pass a DC 13 Intelligence (Electronics) check. Failing the hacking check causes
+the mine to explode. The creature that made the hacking check has disadvantage on its saving throw.
+
+A successful ranged attack on the mine (AC 10) will cause it to explode. Each creature within 2m of the mine takes 2d4 thunder damage.
+
+___At Higher Marks.___ When you use this mine at Mark II or higher, the range increases by 2m for each mark above the first
+
+
+
+
+
+#### Smoke Grenade
+
+Target an area within 10m. A cloud of thick smoke erupts out in a 4m radius from the target location. The
+cloud's area is heavily obscured. The cloud persists for 30 seconds. A moderate wind (11 to 20 miles per hour) can
+disperse the smoke after 1 round, and a strong wind (21 or more miles per hour) can do so immediately.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the radius increases by 2m for each mark above the first.
+
+
+```
+```
+
+
+#### Sticky Grenade
+
+Target an area within 10m. At the beginning of your next turn, creatures within 4m of the target must make
+a DC 13 Dexterity saving throw. On a failed save, a creature takes 3d6 thunder damage or half as much damage on a
+successful one.
+
+With a sticky grenade, you may choose to make a melee weapon attack on a target creature within 2m instead or a ranged
+weapon attack on a target creature within 10m instead. Add your Dexterity modifier to the attack. Do not add your
+proficiency bonus to the attack unless you have the Grenadier feat. On a hit, the grenade hits and sticks to the target,
+and when it explodes, the target automatically fails its saving throw. On a miss, the grenade lands in the creature's square.
+
+___At Higher Marks.___ When you use this grenade at Mark II or higher, the damage increases by 1d6 for each mark above the first.
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX E | GRENADES & MINES</div>
+
+
+\page
+
+
+# Appendix F: Omni-tool Programs
+Most omni-tools come with a standard set of functionality, including scanning, remote interfacing, and some fabricator designs. However, there exist in the galaxy a number of advanced omni-tool programs that are not available for the general population's consumption. These programs tend to be of military design, experimental hacks or deprecated programs that have been scrubbed from the exonet.
+
+Read the _Omni-tool Programs_ section of Chapter 5 for more information.
+
+## Omni-tool Programs List
+The Omni-tool Programs are presented in alphabetical order.
+
+#### Active_Camo.exe
+*Uncommon program, requires installation*
+
+The user's omni-tool diverts energy to coat their armor in color-adaptive hard light, using
+data obtained from the suit's micro-sensors. While not making the wearer truly invisible, this adaptive camouflage helps
+the user blend into any environment. Wisdom (Perception) checks made to see you have disadvantage and you have
+advantage on Dexterity (Stealth) checks made to hide. You can use an action toggle this effect off or on as a free action.
+
+
+
+
+
+#### All_Terrain.exe
+*Uncommon program, requires installation*
+
+You can spend a free action to flash forge hard light enhancements for your armor, such as climbing spikes
+on your boots and gloves, and flexible fins on your boots. While running this program, climbing and swimming don't cost
+you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
+
+
+
+
+
+#### Cardio_Muscular_Optimizer.exe
+*Rare program, requires installation*
+
+A program that syncs up with the user's VI to run a full-body performance optimizer. Your Constitution score is 19 while
+you are running this program. It has no effect if your Constitution score is already 19 or higher.
+
+
+
+
+
+#### Cognition_Booster.exe
+*Rare program, requires installation*
+
+This program diverts positive energy from your omni-tool to the nerve clusters in your brain, accelerating your thought
+processes and critical thinking. Your Intelligence score becomes 19 while this program is active. If your Intelligence
+is equal to or higher than 19, this program has no effect.
+
+
+```
+```
+
+
+#### Deflector_Array.exe
+*Rare program, requires installation*
+
+Developed by technicians who wanted more protection while maintaining light armor, while this program is Active your
+omni-tool generates a form-fitting nano-cloud of hard light atoms around you, invisible to the naked eye. This increases
+the chances that an incoming bullet or attack will be turned aside by the nano-cloud, acting as an extra layer of protection.
+
+The user gains +2 to AC while not wearing Medium or Heavy Armor, or using a Riot Shield. (Anything bulkier than Light
+Armor throws off the cloud's bio-tracking, and renders it ineffective.)
+
+
+
+
+
+#### Distortion_Veil.exe
+*Rare program, requires installation*
+
+While this program is active, highly-synced, micro-holo projectors blur the user's visual image and electromagnetic
+presence on non-IFF'd sensors. This causes attack rolls against the user to have disadvantage. If the user takes damage,
+this property ceases to function until the start of their next turn (due to the projectors re-routing power and re-compensating).
+This property is suppressed while the user is incapacitated, restrained, or otherwise unable to move.
+
+
+
+
+
+#### Double_Time.exe
+*Rare program, requires installation*
+
+While this program is Active, you can use a bonus action to re-route a third of your omni-tool's processing power to
+your armor's mobility servos, dramatically increasing your speed. You double your walking speed, and any attack of
+opportunity made against you is made at disadvantage. This effect lasts 10 minutes, and can only be activated once per
+long rest.
+
+(this re-route wasn't intended by any armor manufacturer, the recovery time allows the omni-tool to scan and repair
+the abuse electronics within the armor.)
+
+
+
+
+
+#### EM_Trail_Scrambler.exe
+*Uncommon program, requires installation*
+
+As an action, activate an ionized laser that targets the environment behind you. This makes attempts to track the user
+via traditional or electromagnetic signal tracing harder, and Survival/Science checks made to do so are made at
+disadvantage. One installation of this program lasts for 1 hour.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX F | OMNI-TOOL PROGRAMS</div>
+\page
+
+
+#### Experimental_Barrier_Generator.exe
+*Rare program*
+
+Convert 10 omni-gel into 1d4+4 black beads that measure 2 centimeters in diameter but weigh nothing. These beads are held
+in place on the user's wrist by the omni-tool's hard light field.
+
+As an action, you can launch a bead at a target location within 30m. The bead explodes on impact and is destroyed. Each
+creature within a 6m radius of where the bead landed must make a Dexterity saving throw or take 5d4 Force damage.
+A sphere of transparent biotic energy then encloses that area for 1 minute. Any creature that fails its save and is
+completely within the area is trapped inside this sphere. Creatures that succeeded their saves or are partially within
+the area are pushed away from the center of the sphere until they are no longer inside it.
+
+Only breathable air can pass through the sphere's wall. No attack or other effect penetrate it.
+
+An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's
+walking speed.
+
+The sphere can be picked up, and its altered mass causes it to weigh only half a kilogram (~ 1lb). regardless of the
+weight of creatures inside.
+
+__Single-use__: Once you use this program, it deletes itself from your omni-tool.
+
+
+
+
+
+#### Expert_Hand.exe
+*Uncommon program, requires installation*
+
+Your omni-tool optimizes your gauntlets' mobility and sensitivity. Many operators and infiltrators prefer this program,
+as it makes their jobs much easier. While Active, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and
+Intelligence (Electronics) checks made to bypass locks.
+
+
+
+
+
+#### Flash_Hypno.exe
+*Uncommon program, requires installation*
+
+This program activates strobes in the user's visor/eyewear with 3 powerful charges. You can expend 1 charge as an
+action to cast the 'Charm Person' spell (save DC 13) on an organic creature within 10m of you, provided that you and the
+target can see each other. Your omni-tool regains all expended charges after a long rest, provided that the program is
+Active.
+
+
+```
+```
+
+
+
+#### Primal_Tap.exe
+*Varies program, requires installation*
+
+While this program is active, your omni-tool perfectly balances your adrenal, muscular, skeletal and cardio systems to
+optimize physical power. Depending on what Mark program you have active, your Strength score increases to a certain amount.
+This has no effect if your Strength score is already equal to or higher than that value. Many military groups equip
+their combat-ready infantry with a version or Mark I or II, but more up-to-date versions of the program are incredibly
+rare to find, the bleeding edge of military technology that only the best can afford.
+
+Version | STR Score | Rarity
+--- | --- | ---
+Mark I | 19 | Uncommon
+Mark II | 21 | Rare
+Mark III | 23 | Rare
+Mark IV | 26 | Spectre
+Mark V | 29 | Spectre
+
+
+
+
+
+#### Quantum_Displacer.exe
+*Rare program, requires installation*
+
+Your omni-tool is equipped with a highly experimental quantum device. You can spend a bonus action and 3 omni-gel to designate
+an open space within 60m, and instantly teleport there.
+
+You project one invisibly small molecule into that space, which is quantum entangled with a molecule in your armor.
+Sending an energy current through the device will re-unite the molecules instantly, effectively teleporting you to your
+designated location. The device is then offline until the end of your next long rest.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX F | OMNI-TOOL PROGRAMS</div>
+\page
+
+
+
+#### Show_Stopper.exe
+*Uncommon program*
+
+This suite of programs contains a subset of holographic displays. A full suite has 20 displays. A used program is usually
+missing 1d20 − 1 displays.
+
+The creator of this program, a human hacker, known as Gahri Gi'gax, wrote a randomization algorithm into its use. You can use
+an action to activate a display at random from the program, spawning a holographic image within 12m of you.
+
+The image of one or more creatures forms over the targeted area and remains until dispelled. The holographic creature
+appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While
+you are within 50m of the hologram and can see it, you can use an action to move it anywhere within 12m of the initial
+location. Any physical interaction with the hologram reveals it to be an illusion because objects pass through it.
+Someone who uses an action to visually inspect the creature identifies it as a hologram with a successful DC 15
+Intelligence (Investigation) check. The creature then appears translucent.
+
+The hologram lasts 1 hour or until you cancel the display. At which point, the display removes itself from the suite.
+Once you have used all of the displays, the program deletes itself from your omni-tool.
+
+1d20 | Illusion
+--- | ---
+1 | An asari dancer
+2 | 2 hanar
+3 | 3 belligerent Krogan
+4 | A batarian with 3 varren on leashes
+5 | A pod crab
+6 | 6 zombies
+7 | 7 dwarves
+8 | 8 pyjaks wearing fez hats
+9 | A drell assassin
+10 | A large fantasy dragon
+11 | A swarm of beetles
+12 | A wizard
+13 | An elcor
+14 | A yahg
+15 | 3 gas bags
+16 | A white tiger
+17 | A unicorn
+18 | An armored knight
+19 | Tyrannosaurus Rex
+20 | Gahri Gi'gax
+
+
+```
+```
+
+
+
+#### Spotter_Support_System.exe
+*Uncommon program, requires installation*
+
+While this program is Active, your omni-tool links up to your armor's gauntlets, scanners, and weapon systems. Roughly
+a third of its processing power is diverted into calculating micro-corrections when you fire at a target, generating
+minuscule magnetic fields to align your aim more correctly. You are considered proficient with Sniper Rifles while this
+program is Active, and gain a +2 to damage rolls with such weapons.
+
+
+
+
+
+#### Terra_Angelis.exe
+*Spectre program, requires installation*
+
+_Can only be used by humans_
+
+This is an experimental, Cerberus-funded VI was created in the pursuit of a perfect AI that will put the protection of
+humanity first and foremost. While it never achieved true AI status, this VI is highly advanced and single-mindedly
+devoted to protecting & enabling humanity.
+
+When you activate this program, designate one ranged weapon to install Terra Angelis onto. This weapon now has +3 to
+attack and damage rolls. The first time you attack with this weapon on each of your turns, you can choose to transfer
+some or all of the weapon's bonus to your AC, instead of using the bonus on any of your attacks for that turn
+(i.e., add +2 to AC and +1 to attack/damage rolls). The adjusted bonuses remain until the start of your next turn,
+although you must be wielding the weapon to gain the benefits.
+
+
+
+
+
+#### Thermic_Overvent.exe
+*Uncommon program*
+
+You can use an action to spend 1 omni-gel and overheat every heat-generating element within your omni-tool, overriding
+safety protocols and using the omni-gel as propellant. You create three fire rays from your outstretched hand, each
+with a range of 240m. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit,
+the target takes 2d6 fire damage. When you make the attacks, make them with a modifier of +5 to the attack roll. The
+omni-tool then needs time to compensate and repair itself, rendering this program inoperative until the end of a long rest.
+
+__Unstable__: When you acquire this program, it can be used 1d6 times before the code becomes too unstable to use.
+
+
+
+
+
+#### Threat_Assessment.exe
+*Rare program, requires installation*
+
+Your omni-tool powers a specialized VI whose purpose is to detect incoming threats and identify them for the user. This
+data appears as audio and visual warnings on the user's HUD and gives the user +1 to their AC and all Saving Throws.
+
+
+
+
+
+#### Trace_Signal_Jammer.exe
+*Uncommon program, requires installation*
+
+While this program is Activated, the user is hidden from long-range sensors. You cannot be targeted by any tracking
+device that functions by receiving a tracking device's signal, and targeting lasers cannot pinpoint your precise
+location, giving you advantage on any saving throws against Heavy Weapons that require Targeting to fire.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX F | OMNI-TOOL PROGRAMS</div>
+
+
+
+\page
+
+# Appendix G: Conditions
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, an enemies' attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+
+A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+
+If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+
+The following definitions specify what happens to a creature while it is subjected to a condition. In Mass Effect 5e there are five new conditions: Frozen, Indoctrinated, Lifted, Primed, and Targeting
+
+#### Blinded
+
+* A blinded creature can't see and automatically fails any ability check that requires sight.
+* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+
+
+
+
+
+#### Charmed
+
+* A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
+* The charmer has advantage on any ability check to interact socially with the creature.
+
+
+
+
+
+#### Deafened
+
+* A deafened creature can't hear and automatically fails any ability check that requires hearing.
+
+
+
+
+
+#### Exhaustion
+
+Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching
+temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a
+creature one or more levels of exhaustion, as specified in the effect's description.
+
+Level | Effect
+--- | ---
+1 | Disadvantage on ability checks
+2 | Speed halved
+3 | Disadvantage on attack rolls and saving throws
+4 | Hit point maximum halved
+5 | Speed reduced to 0
+6 | Death
+
+If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
+
+A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
+
+An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
+Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
+
+
+
+
+
+#### Frightened
+
+* A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+* The creature can't willingly move closer to the source of its fear.
+
+
+
+
+
+#### Frozen
+
+* A frozen creature is *incapacitated* and can't move or speak.
+* The creature is *primed" sub="cold*. Any detonating attack ends the lifted condition after resolving
+the detonation effect.
+* The creature automatically fails Dexterity saving throws. Attack rolls against the creature have advantage.
+
+
+
+
+
+#### Grappled
+
+* A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+* The condition ends if the grappler is *incapacitated*.
+* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect,
+such as when a creature is hurled away by the throw spell.
+
+
+
+
+
+#### Incapacitated
+
+* An incapacitated creature can't take actions or reactions.
+
+
+
+
+#### Indoctrinated
+
+If your campaign is set during any part of the Reaper invasion, it's likely you'll need some 
+<a href="http://masseffect.wikia.com/wiki/Indoctrination" target="_blank">indoctrination</a> effects.
+While we encourage you to riff on these ideas or make up your own, here is a baseline for using indoctrination in your
+campaign.
+
+Spending time in the presence of a creature or object that can cause indoctrination (namely, Reaper technology) can 
+lead to a special condition called indoctrination. Indoctrination is measured in six levels. For each 24 hour 
+period a creature spends within the presence of an indoctrinating source, the creature must make a DC 10 Wisdom saving throw. 
+On a failed save, the creature suffers one level of indoctrination. If an already indoctrinated creature spends another 
+24 hour period within the presence of Reaper technology, the DC of the saving throw increases as described below.
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX G | CONDITIONS</div>
+\page
+
+
+
+Level | Next Wisdom DC | Effect
+--- | --- | ---
+1 | 12 | You have difficulty sleeping and constantly have dreams of inky black and oily shadows. To gain the benefits of a long rest takes an additional 4 hours.
+2 | 14 | You begin showings signs of paranoia, having feelings of being watched. You have disadvantage on all your Charisma-based skill checks.
+3 | 16 | You have extreme paranoia. You have disadvantage on all of your Wisdom- and Intelligence-based skill checks.
+4 | 18 | You begin to hear voices that issue simple commands. If you do not immediately follow the command, you take 11 (2d10) psychic damage. This damage bypasses shields.
+5 | 20 | The voices in your head speak to you often and you begin to agree with what they're saying. You are considered charmed.
+6 | - | You become a Reaper thrall and lose all control of your character (You are effectively dead).
+
+
+##### Reducing Indoctrination Levels
+Every long rest that a creature spends outside of the range of an indoctrinating source, it can make a new 
+Wisdom saving throw (DC based on its current indoctrination level). On a success, reduce its indoctrination level by 1.
+
+Note: Synthetic creatures are immune to indoctrination.
+
+##### Reaper Tech
+
+Usually, indoctrination happens when another creature (such as a reaper, thorian, or leviathan) is actively trying to 
+indoctrinate one or many creatures. An exception to this is Reaper technology (i.e., reaper parts or devices salvaged from 
+battle or space). Reaper technology can passively indoctrinate creatures that are merely in the technology's presence. 
+Determining if a creature is within the presence of a piece of Reaper technology is based on the technology's size. 
+The larger the object, the farther the range.
+
+##### Distance of Indoctrination
+Size of tech | Range
+--- | ---
+Tiny | 10 meters
+Small | 25 meters
+Medium | 100 meters
+Large | 1 kilometer (~ 1/2 a mile)
+Huge | 10 kilometers (~ 6 miles)
+Gargantuan |  100 kilometers (~ 60 miles)
+
+
+
+
+
+#### Invisible
+
+* An invisible creature is impossible to see without the aid of gadgets or a special sense. For the purpose of hiding,
+the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
+* Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+
+
+
+
+
+#### Lifted
+
+* A lifted creature is *restrained*.
+* The creature is *primed" sub="force*. Any detonating attack ends the lifted condition after resolving the
+detonation effect.
+* Any lifted object has no mass and is dangled in the air by a temporary mass effect field. Thus, a lifted creature can be
+pushed, pulled, or otherwise manipulated for varying results.
+
+
+
+
+
+#### Paralyzed
+
+* A paralyzed creature is *incapacitated* and can't move or speak.
+* The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker is within 2 meters of the creature.
+
+
+
+
+
+#### Poisoned
+
+* A poisoned creature has disadvantage on attack rolls and ability checks.
+
+
+
+
+
+#### Primed
+
+* When a primed creature is hit with a spell or ability that __detonates__, the primed condition explodes, resulting
+in one of the following effect. After resolving the effect, the primed condition ends.
+
+
+Primed Type | Explosion
+--- | ---
+Force | The primed target takes 2d6 force damage, is knocked back 6m and becomes prone.
+Necrotic | The primed target takes 1d12 necrotic damage and must succeed on a DC 13 Constitution saving throw or becomes stunned until the end of its next turn.
+Fire | Each creature within a 4m radius, including the primed target, catch fire, taking 1d6 fire damage. Each creature continues to burn for 1 minute, taking 1d6 fire damage at the start of its turn. A creature that is on fire can use its action put out the fire.
+Cold | Each creature within a 4m radius, including the primed target, must pass a DC 15 Strength saving throw. On a failed save a creature is frozen until the end of its next turn.
+Lightning | Each creature within a 4m radius, including the primed target, takes 3d4 lightning damage.
+
+
+
+
+
+#### Prone
+
+* A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+* The creature has disadvantage on attack rolls.
+* An attack roll against the creature has advantage if the attacker is within 2 meters of the creature. Otherwise, the
+attack roll has disadvantage.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX G | CONDITIONS</div>
+\page
+
+
+
+#### Restrained
+
+* A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+* Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+* The creature has disadvantage on Dexterity saving throws.
+
+
+
+
+
+#### Stunned
+
+* A stunned creature is *incapacitated*, can't move, and can speak only falteringly.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+
+
+
+
+
+#### Targeting
+
+* A targeting creature's speed is reduced by half and it cannot take actions and or reactions, except to end this condition.
+* The creature automatically fails Dexterity saving throws. Attack rolls against the creature have advantage.
+* Targeting ends if one of the following occurs:
+  * The creature uses a bonus action or reaction to end the condition. The reaction is taken which the creature sees another creature make an attack or cast a spell.
+  * When the creature gains full or three-quarter cover
+  * When the creature is knocked prone, lifted, or incapacitated.
+
+
+
+
+
+#### Unconscious
+
+* An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
+* The creature drops whatever it's holding and falls prone.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker is within 2 meters of the creature.
+
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX G | CONDITIONS</div>
+
+
+ that acts as a wall at a point you choose within
+range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free
+floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 4m,
+or you can shape a flat surface made up of ten 2m by 2m panels. Each panel must be contiguous with another panel. In any
+form, the wall is 1 cm thick. It lasts for the duration. If the wall cuts through a creature's space when it appears, the
+creature is pushed to one side of the wall (your choice which side).
+
+Nothing can physically pass through the wall. It is immune to all damage.
+
+___
+- __Advancements__
+- *Lifting Wall.* If a creature comes within 2m of the wall, you can use your reaction to make a pocket of negatively charged space near the creature's location. It must pass a Strength saving throw or become lifted until the end of your next turn.
+- *Shifting Wall.* As a bonus action, you can either move the wall up to 6m in any direction, rotate the wall up to 180 degrees, or reshape the wall within the parameters listed above.
+
+
+
+
+#### Blade Armor
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action or Reaction, which you take when you are dealt damage
+- **Range:** self
+- **Duration:** 1 minute
+
+As a bonus action or as a reaction to taking damage, you reinforce your armor with razor-sharp blades that damage 
+nearby enemies. Until the spell ends, you AC increases by 2 but you are unable to Dodge and have disadvantage on Dexterity 
+saving throws. You can use a bonus action to deactivate blade armor.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+While blade armor is active, it is considered a melee weapon that deals 1d6 piercing damage. If a creature is grappled by
+you, you have advantage on attack rolls made with blade armor against the grappled creature. 
+
+You have advantage on your Strength (Athletics) to grapple and deal 1d6 piercing damage when you grapple the target. 
+A creature that is grappled by you while blade armor is active takes 1d6 piercing damage each time it attempts to 
+escape from the grapple.
+
+You must finish a long rest before you can use this ability again.
+
+Blade armor's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), 17th level (4d6).
+
+___
+- __Advancements__
+- *Poisoned Armor.* Creatures hit by your blade armor must succeed on a DC 14 Constitution saving throw or become poisoned for 1 hour.
+- *Retribution.* When a creature within 2m of you hits you with a melee attack while blade armor is active, you may use your reaction to make a melee weapon attack with blade armor against the creature.
+
+
+
+
+#### Catapult
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 20m
+- **Duration:** null
+
+Choose one object weighing 1 to 10 kilos (about 2 to 20 lbs.) within range that isn't being worn or carried. The object
+flies in a straight line up to 30m in a direction you choose before falling to the ground, stopping early if it impacts
+against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a
+failed save, the object strikes the creature and stops moving. When the object strikes something, the object and what it
+strikes each take 3d10 bludgeoning damage.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects
+that you can target with this spell increases by 5 kilos (10lbs), and the damage increases by 2d10, for each slot level
+above 1st.
+
+___
+- __Advancements__
+- *Salvo.* When you cast Salvo, you may target a number of objects equal to or less than your spellcasting ability modifier. The combined weight of the objects cannot exceed the maximum weight limit of the spell (10 kilos at 1st level, 12 kilos at 2nd level, etc).
+- *Counterstrike.* As a reaction, which you take when a creature within 30m you casts a spell or makes an attack. Fling the object toward the creature which fails its Dexterity saving throw. If the creature was casting a spell, it must succeed on a Constitution saving throw or he spell fails (DC 10 or half the Catapult damage, whichever is higher). If the creature was attacking, it has disadvantage on the attack roll.
+
+
+
+
+#### Charge
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 14m
+- **Duration:** Instant
+
+Choose a creature or object within range and use the target's mass to pull yourself to its location with incredible force 
+(this movement does not provoke opportunity attacks). The target must make a Dexterity saving throw.
+On a failed save the target takes 1d10 force damage and becomes *prone*. Charge ignores half cover.
+
+The damage increases by 1d10 when you reach the 5th level (2d10), 11th level (3d10) and 17th level (4d10).
+
+___
+- __Advancements__
+- *Barrier Regen.* After you cast Charge, if you have an active barrier, regain 2 barrier ticks and reset the duration of your barrier to 1 minute.
+- *Area Charge.* Each creature within 4m of the target must make the Dexterity saving throw.
+
+
+
+
+#### Concussive Shot
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Duration:** Instant
+
+Load a specialized thermal clip into the weapon you are currently holding. Until you reload, any successful ranged
+attacks deal an additional 1d8 bludgeoning damage and medium-sized or smaller creatures must pass a Strength saving
+throw (DC 8 + proficiency bonus + DEX modifier) or are knocked *prone*.
+
+The damage increases by 1d8 when you reach the 5th level (2d8), 11th level (3d8) and 17th level (4d8).
+
+You have 3 charges of Concussive Shot. You regain all of your charges when you finish a long rest.
+
+___
+- __Advancements__
+- *Stunning Shot.* A creature hit by concussive shot must make a Constitution saving throw instead of a Strength saving throw. On a failed save, the creature is stunned until the end of its next turn.
+- *Improved shot.* Increase the bonus damage of concussive shot to d12.
+
+
+
+
+#### Cryo Beam
+*2nd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** instant
+
+Blast a continuous stream of liquid hydrogen from your omni-tool in an 8m long by 2m wide line. Each creature in the beam
+must make a Strength saving throw. On a failed save, a creature takes 5d8 cold damage and then becomes *frozen*
+until the start of your next turn. On a successful save, a creature takes half as much damage and isn't frozen by this spell.
+Creatures with at least 1 shield point have advantage on this saving throw.
+
+A creature must also make the saving throw when it enters the beam's space for the first time on a turn or ends its turn there.
+
+At the start of your turn, you may spend your action and 1 additional tech point to continue casting the beam. Your
+movement speed is 2m while casting it in this manner. The spell ends if you become incapacitated.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d8
+and the length of the beam increases by 2m for each slot level above 3rd.
+
+___
+- __Advancements__
+- *Brittle Freeze.* Shields no longer provide advantage on the saving throw. On a successful save, a creature is primed cold until the end of your next turn.
+- *Frozen Ground.* Cryo beam leaves a patch of ice on the ground that lasts for 1 min. The ground is considered difficult terrain.
+
+
+
+
+#### Cryo Blast
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Fire a mass of supercooled, subatomic particles that explode in a 2m-radius sphere centered on a point within
+range. Each creature within the sphere has its movement reduced by 4m until the start of your next turn and must make a
+Strength saving throw. On a failed saved, a creature becomes *frozen* until the start of your next turn.
+A target with shield points has advantage on this saving throw.
+
+If the blast strikes a body of water or a liquid that is principally water (not including water-based creatures), it
+freezes the liquid to a depth of 15 centimeters over an area 10m. This ice lasts for 1 minute. Creatures that were
+swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength
+check against your spell save DC to break free.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the radius of the blast increases
+by 2m for each slot level above 1st.
+
+___
+- __Advancements__
+- *Ice Lance.* Transform the blast into a deadly lance. Make a ranged spell attack dealing 1d8 cold and 2d4 piercing damage. It deals an additional 1d8 and 2d4 for each slot level above the 1st.
+- *Frigid Air.* The blast creates a pocket of frigid air that lasts until the end of your next turn. Each creature that enters the frozen space for the first time on a turn or ends its turn there becomes primed cold until the end of its next turn and takes 2d6 cold damage.
+
+
+
+
+#### Damping
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+Target a create you can see within range and cause interference with their biotic implant and omni-tool, reducing their 
+ability to use them effectively. The creature must make a saving throw using its spellcasting ability or it suffers a penalty
+to its next biotic or tech spell. If the next spell it casts requires an attack roll, it has disadvantage on the attack.
+If the next spell forces one or more creatures to make a saving throw, those creatures have advantage on the saving throw.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional 
+creature for each slot level above 1st.
+
+___
+- __Advancements__
+- *Cooldown.* If creature that fails its saving throw casts a tech or biotic spell, it cannot cast another tech or biotic spell until the end of its next turn.
+- *Power Damping.* Creatures have disadvantage on the saving throw against this spell.
+
+
+
+
+#### Dark Channel
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Concentration, up to 1 minute
+
+Make a ranged spell attack on a creature you can see within range. On a hit, you plague the target with a persistent,
+damaging biotic field. The creature is *primed" sub="necrotic* and takes 1d6 necrotic damage and 1d6
+necrotic damage at the start of your turn while you maintain the spell. If the creature dies, dark channel transfers to
+the nearest hostile creature within 10m of the target.
+
+The damage increases by 1d6 when you reach the 5th level (2d6), 11th level (3d6) and 17th level (4d6).
+
+___
+- __Advancements__
+- *Cripple.* If the affected creature would make a saving throw or attack roll, as a reaction you may increase the severity of Dark Channel. The affected creature must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+- *Improved Damage.* Increase the damage die type to d10
+
+
+
+
+#### Dark Sphere
+*3rd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Concentration, up to 1 minute
+
+Launch a slow-moving, 4m wide sphere of dark energy in a straight line. It moves 4m at the end of each of your turns.
+A creature caught in the sphere's path becomes *primed" sub="necrotic* until the end of its next turn and 
+must make a Constitution saving throw. On a failed save, a creature takes necrotic damage equal to 6d8 +
+your spellcasting ability modifier, or half as much on a successful one.
+
+At the start of your turn, if the sphere has traveled 20m, it detonates and the spell ends. Each creature within
+a 6m radius must make a Constitution saving throw. On a failed save a creature takes necrotic damage equal to 6d8 +
+your spellcasting ability modifier or half as much damage on a successful one. This damage detonates any primed targets.
+
+You can use an action to detonate the sphere before it travels 20m. If you lose concentration while casting the spell,
+it does not detonate.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d8
+for each slot level above 3rd.
+
+___
+- __Advancements__
+- *Control.* Before the sphere moves, you may change its direction and speed. Its speed becomes 4m, 6m, or 8m.
+- *Amplify.* Add 1d8 to the detonation damage for each 4m the sphere travels.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+
+#### Decoy
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 10m
+- **Duration:** 1 minute
+
+Summon a holographic copy of yourself at a location within range. Until the spell ends, the decoy moves with you and
+mimics your actions. You can use your action to dismiss the decoy. Each time a creature targets you with an attack
+during the spell's duration, it must first make a Wisdom (Perception) check. On a failure, a creature attacks
+the decoy. On a success, the creature ignores the decoy, attacks you, and no longer needs to pass the Wisdom check to
+target you.
+
+___
+- __Advancements__
+- *Explosive.* As an action, you can detonate your Decoy. Each creature within 4m of the decoy must make a Dexterity saving throw. On a failed save, a creature takes 3d6 thunder damage or half as much on a successful one.
+- *Improved Decoy.* Your decoy becomes so life-like that creatures have disadvantage on the Wisdom (Perception) check.
+
+
+
+
+#### Defense Matrix
+*1st-level tech*
+___
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Duration:** Concentration, up to 10 minutes
+
+Reinforce your armor with special Foucault currents. You gain +2 to your AC while defense matrix is active.
+
+___
+- __Advancements__
+- *Shield.* Deploy the matrix as a stationary shield. Up to 2 creatures of medium size can stand behind the shield, gaining half-cover. It lasts 1 minute and no longer requires concentration.
+- *Custom Current.* When you cast defense matrix, choose one damage type. You have resistance to that type while defense matrix is active.
+
+
+
+
+#### Disrupt Biotics
+*2nd-level tech*
+___
+- **Casting Time:** Reaction, which you take when you see a creature casting a biotic spell
+- **Range:** 30m
+- **Duration:** null
+
+Attempt to interrupt a creature in the process of casting a biotic spell. If the creature is casting a spell of 2nd level
+or lower, its spell fails and has no effect. If it is casting a spell of 3rd level or higher, make an ability check
+using your spellcasting ability. The DC equals 10 + twice spell's level. On a success, the creature's spell fails and
+has no effect.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, the interrupted spell has no
+effect if its level is less than or equal to the level of the spell slot you used.
+
+___
+- __Advancements__
+- *Lockdown.* If you successfully disrupt the spell, you overload the target's biotic implant and it cannot cast biotic spells until the end of your next turn.
+- *Psychic Strain.* If successfully disrupt the spell, the target takes Xd10 psychic damage, where X is the level of the spell. Targets take 1d6 psychic damage for disrupted cantrips.
+
+
+
+
+#### Dominate
+*3rd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Concentration, up to 1 minute
+
+Target an organic creature within 30m. It must succeed on a Wisdom saving throw or it becomes Dominated (it is considered
+*charmed* and can't use spells or abilities). If you or creatures that are friendly to you are fighting it, it has advantage
+on the saving throw.
+
+On its turn, the dominated creature attacks the closest creature hostile to the spell caster, making a ranged weapon
+attack or melee attack if it does not have a weapon. If there are no hostile creatures within range, the dominated
+creature uses its turn to dash towards the closest hostile creature.
+
+Each time the dominated creature takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw
+succeeds, the spell ends.
+
+___At Higher Levels.___ When you cast this spell using a 4th-level spell slot, the duration is concentration, up to 10
+minutes. When you use a 5th-level spell slot, the duration is concentration, up to 1 hour.
+
+___
+- __Advancements__
+- *Total Control.* You take the dominated creature's action. You may use its spells and abilities.
+- *Damage.* While the creature is dominated, it takes 4d6 psychic damage at the end of its turn. This damage bypasses shields and does not proc an opportunity to end Dominate.
+
+
+
+
+#### Electric Slash
+*2nd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+Fabricate an electrified whip that lashes out in front of you in an 8m cone. Each creature must make a Constitution saving
+throw. On a failed save, a creature takes 6d6 lightning damage or half as much damage on a successful one.
+
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d6 for
+each spell slot above the 2nd.
+
+___
+- __Advancements__
+- *Shield Restore.* If you are wearing armor, gain shield points equal to half of your damage roll.
+- *Paralyze.* Creatures that fail the saving throw are paralyzed until the end of their next turn.
+
+
+
+
+#### Energy Drain
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+Cycle your omni-tool, sapping electromagnetic energy from a creature you can see within range. Make a ranged spell attack
+against the target. On a hit, the target takes 3d6 lightning damage, and you regain shield points equal to half the
+amount of lightning damage dealt.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases
+by 1d6 for each slot level above 1st.
+
+___
+- __Advancements__
+- *Linked Current.* On a successful hit, you can designate yourself or an ally within range of the ability to direct a positive current. Instead of gaining shield points, this current doubles a creature's waking speed for 1d4 rounds. Using this advanced tech skill more than once does not stack the speed boost.
+- *Improved Regen.* On a successful hit, you regain shield points equal to the amount of lightning damage dealt.
+
+
+
+
+#### First Aid
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Touch
+- **Duration:** Instant
+
+Inject a friendly, organic creature with nanobots that reduce pain and heal internal injuries. The creature gains hit points
+equal to 1d8 + your spellcasting ability modifier.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the healing increases
+by 2d8 for each slot level above 1st.
+
+___
+- __Advancements__
+- *Adaptive.* The healed creature gains resistance to the last damage type it suffered. This effect lasts for 1 minute.
+- *Improved Healing.* Increase the healing die type to d12
+
+
+
+
+#### Flak Cannon
+*Combat cantrip*
+___
+- **Casting Time:** Attack
+- **Range:** 10m
+- **Duration:** Instant
+
+As an Attack action, you load and fire krogan-designed shells that burst into shrapnel upon impact. Choose a target location
+within range. Each creature in a 4m-radius sphere centered on the point of impact of the shell must make a Dexterity 
+saving throw (DC 8 + proficiency bonus + DEX modifier). A target takes 2d6 piercing damage on a failed save, 
+or half as much damage on a successful one.
+
+You have 3 charges of Flak Cannon. You regain all of your charges on a long rest.
+
+This feature's damage increases by 2d6 when you reach 5th level (4d6), 11th level (6d6), 17th level (8d6)
+
+___
+- __Advancements__
+- *Shredder.* If a creature with 0 shield points takes damage from Flak Cannon, it becomes wounded. A wounded creature takes 1d4 damage from blood loss at the start of each of its turns. A wounded creature can make a DC 15 Constitution saving throw, ending the effect on a success. Alternatively, any creature (including the wounded creature), can make a DC 15 Wisdom (Medicine) check or use a charge of Medi-gel, ending the effect on a success.
+- *Stunner.* When you attack with Flak Cannon, you can choose to fire concussive blasts dealing no damage. Creatures within the sphere must instead make a Constitution saving throw. On a failed save, a creature becomes stunned until the start of your next turn.
+
+
+
+
+#### Flamethrower
+*3rd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+Overload your omni-tool's acetylene torch, spewing flames in front of you. Each creature within an 8m cone is
+*primed" sub="fire* until the start of your next turn and must make a Dexterity saving throw. A creature
+takes 6d10 fire damage on a failed save or half as much damage on a successful one.
+
+At the start of your turn, you may spend your action and 1 additional tech point to continue casting this power. Your
+movement speed is 2m while casting it in this manner. The spell ends if you become incapacitated.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d10
+for each slot level above 3rd.
+
+___
+- __Advancements__
+- *Concentrated Burn.* Increase the damage to d12 and the distance to 12m, but the area-of-effect is now a line instead of a cone.
+- *Exhaust.* The flames create a thick smoke in an 8m cube that must encompass the cone. The area is considered heavily obscured until the end of your next turn.
+
+
+
+
+#### Flare
+*4th-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Rapidly altering the mass of air particles creates radioactive projectiles that seek out the targets and explode. Choose
+up to 4 creatures that you can see within range. Each creature must make a Constitution saving throw. On a failed save,
+a creature is *blinded* until the end of your next turn and takes radiant damage equal to 6d12. On a
+successful save, a creature takes half damage but suffers no other negative effect.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 5th level, increase the damage by 2d12.
+
+___
+- __Advancements__
+- *Improved Blind.* Each creature is blinded no matter the result of its saving throw.
+- *Heat seeking flare.* Instead of choosing 4 targets, you may instead choose 1. If you do so, the target has disadvantage on the saving throw. Increase the damage by 4d12.
+
+
+
+
+#### Fly
+*2nd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Concentration, up to 10 minutes
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+Create a negative mass effect field around yourself allowing you to move freely through the air. During the duration of
+this spell, you gain a flying speed of 20m. When the spell ends if you are still aloft, you fall to the ground.
+
+___
+- __Advancements__
+- *Speed.* You may cast Fly as a bonus action. Increase the fly speed to 30m
+- *Extended Cast.* The duration of fly becomes 30 minutes.
+
+
+
+
+#### Fortification
+*Combat cantrip*
+___
+- **Casting Time:** Reaction, which you take when you are targeted by an attack you can see
+- **Range:** Self
+- **Duration:** Instant
+
+Reinforce your armor using protective Foucault currents. Gain +5 AC until the start of your next turn, including against
+the triggering attack.
+
+You must finish a short or long rest before you can use this ability again.
+___
+- __Advancements__
+- *Lasting Fortification.* Fortification lasts an additional turn.
+- *Venting Fortification.* When fortification ends, the currents are sent to your gauntlets. Your next melee weapon attack is made at advantage and deals an additional 2d10 bludgeoning damage.
+
+
+
+
+#### Gravity Field
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Concentration, up to 1 minute
+
+You create an field of unstable gravity in a 6-meter cube starting from a point within range.  For the duration, this 
+space becomes difficult terrain.  
+
+A creature in the area when you cast the spell must succeed on a Strength saving throw or be *restrained* 
+until the spell ends. A creature restrained by this spell can use its action to make a Strength check against your 
+spell save DC. On a success, it frees itself.  
+
+When the spell ends, the gravity field dissipates.
+
+___
+- __Advancements__
+- *Pulsing Field.* As a bonus action, for the duration of the spell, you can force a number of creatures equal to twice the spell level that are within the gravity field to make a Strength saving throw or be restrained until the spell ends.
+- *Warping Field.* A creature takes 1d6 necrotic damage per spell level when it enters the gravity field for the first time on a turn or ends its turn there.
+
+
+
+
+#### Guidance
+*1st-level tech*
+___
+- **Casting Time:** Bonus Action
+- **Range:** 30m
+- **Duration:** 10 minutes
+
+Tap into the VI of a willing creature. Once within the next 10 minutes, the target can roll a d6 and add the number
+rolled to one ability check, saving throw, or attack roll of its choice. It can roll the die before or after making the roll.
+
+You may only have guidance active on a single target.
+
+___
+- __Advancements__
+- *Multi-Tap.* Guidance can be active on up to 3 different targets.
+- *Improved Tap.* Increase the die type to d10
+
+
+
+
+#### Havoc Strike
+*Combat cantrip*
+___
+- **Casting Time:** Attack
+- **Range:** 8m
+- **Duration:** Instant
+
+Use a propulsion jet built into your leg armor to spring to a location within 8m and strike the ground with violent force.
+Each creature within a 2m radius of where you land must make a Dexterity saving throw (DC 8 + proficiency bonus + STR modifier).
+On a failed save, a creature takes 2d8 thunder damage or half as much on a successful one.
+
+You can use this feature twice between short or long rests.
+
+This feature's damage increases by 2d8 when you reach 5th level (4d8), 11th level (6d8), 17th level (8d8).
+
+___
+- __Advancements__
+- *Improved Distance.* You can jump up to 12m.
+- *Improved Radius.* Increase the radius of the impact to 4m
+
+
+
+
+#### Hawk Missile Launcher
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action
+- **Range:** 60m
+- **Duration:** Instant
+
+Activate your personal shoulder cannon: The Hawk Missile Launcher. This attack automatically hits a target within range
+dealing 3d6 thunder damage.
+
+You can use the Hawk Missile Launcher once per short rest.
+
+This feature's damage increases by 3d6 when you reach 5th level (6d6), 11th level (9d6), 17th level (12d6).
+
+___
+- __Advancements__
+- *Anti-Shield.* The missile detonates a small EMP, transforming the damage to lightning.
+- *Three-headed beast.* Your missile splits into three separate missiles, each dealing 1d6 damage (2d6 at 5th level, 3d6 at 11th level and 4d6 at 17th level). You can direct the missiles at the same target or at different ones.
+
+
+
+
+#### Heavy Charge
+*2nd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+Choose a creature or object within range and use the target's mass to pull yourself to its location 
+(this movement does not provoke opportunity attacks). Each creature within 4m of the target must make Dexterity saving 
+throw, taking 4d10 force damage on a failed save, or half as much on a successful one. 
+
+You may transport any number of creatures or objects with you to the target location. To 
+do so, each creature or object must be within 2m of you when you cast this spell and the total weight of all creatures and 
+objects cannot exceed twice your carrying capacity. 
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+A creature transported this way must be willing and of your
+size or smaller and the target location must have an unoccupied space for the creature to be transported to. A creature or 
+object brought with you automatically passes the Dexterity saving throw and takes no damage.  
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d10 
+for each slot level above 2nd.
+
+___
+- __Advancements__
+- *Stutter Step.* This spell's range is decreased to 12m, but you may cast this spell twice as part of the same action, choosing a different target for each cast. Each cast consumes spell slots as normal.
+- *Heavy Step.* You can transport Large or smaller creatures and objects as long as the total weight does not exceed four times your carrying capacity.
+
+
+
+
+#### Hex Shield
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Duration:** Instant
+
+Toss a portable shield generator onto the ground in front of you. It generates 2m tall and wide, hexagon-shaped shield
+with 5 AC and 50 shield points.
+
+As long as the Hex Shield has shield points, it provides full cover to creatures behind it.
+
+Hex shield regains all shield points when you finish a long rest.
+
+___
+- __Advancements__
+- *Hearty Shield.* Increase the shield's hit points to 100.
+- *Large Shield.* The Shield covers a 4m wide area.
+
+
+
+
+#### Incinerate
+*1st-level tech*
+___
+- **Casting Time:** Acton
+- **Range:** 40m
+- **Duration:** Instant
+
+Hurl a high-explosive, plasma round at a creature or object within range. Make a ranged spell attack against the target.
+On a hit, the target is *primed" sub="fire* until the end of your next turn and takes 2d10 fire damage.
+A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases
+by 2d10 for each slot level above 1st.
+
+___
+- __Advancements__
+- *Frozen Combo.* When you hit a creature or object with incinerate, if the target is primed cold, you deal a critical hit.
+- *Radial Blast.* On a miss, the target makes a Dexterity saving throw. On a failed save, the target takes half damage.
+
+
+
+
+#### Invasion
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 20m
+- **Duration:** Concentration, up to 1 minute
+
+Unleash a VI-controlled machine swarm at a creature or object within range. Two swarms then spread from that target 
+to as many as two other targets, each of which must be within 6m of the first target. A target can be a creature or an 
+object and can be targeted by only one of the swarms.
+
+A target must make a Constitution saving throw. On a failed save, the target takes 1d8 psychic and has disadvantage on 
+attack rolls until the spell ends. A creature affected by the swarm can use its action to make a Constitution check 
+against your spell save DC. On a success, it breaks free of the swarm.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 
+and the range the swarms can spread increases by 2m for each slot level above 1st.
+
+___
+- __Advancements__
+- *Exploding Swarm.* As a bonus action, you can target a creature affected by one of your swarms and detonate it. The target takes 3d8 thunder damage.
+- *Plague.* Three swarms spread from the initial target to as many as three other targets. When you cast this spell using a spell slot of 2nd level or higher, the number of swarms increases by 1 for each spell slot above the 1st.
+
+
+
+
+#### Lance
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Release a lance of energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target
+takes force damage equal to 3d8 + your spellcasting ability modifier.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d8
+for each slot level above the 1st.
+
+___
+- __Advancements__
+- *Anti-shield.* Lance deals an additional 2d4 lightning damage. This damage increases by 2d4 for each spell slot level above the first.
+- *Improved Damage.* Increase the damage die type to d12.
+
+
+
+
+#### Lash
+*2nd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 20m
+- **Duration:** Concentration, up to 1 minute
+
+Make a ranged spell attack on a target you can see within range. On a hit, the target takes 4d8 force damage and becomes
+*grappled*. While grappled the creature is *primed" sub="force*. To escape the grapple,
+the creature must succeed on a contested Strength (Athletics) check against your Constitution. This spell also ends if
+the creature is hit with a detonating attack or if you move more than 20m away from the target.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd or higher, the damage increases by 2d8 for each
+slot level above the 2nd.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+___
+- __Advancements__
+- *Improved Grapple.* The grappled creature has disadvantage when trying to escape.
+- *Improved Damage.* Increase the damage die type to d12.
+
+
+
+
+#### Lift
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Concentration, up to 10 minutes
+
+You can manipulate light objects with a series of mass effect fields. When you cast this cantrip, you can try to move an
+object that weighs up to 10 kgs (~20 pounds). If the object isn't being worn or carried, you automatically move it up to
+10 meters in any direction, but not beyond the range of this spell.
+
+If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested
+by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 10
+meters in any direction but not beyond the range of this spell.
+
+___
+- __Advancements__
+- *Magician.* You can exert fine motor control over the object, such as manipulating a simple tool or removing an object from a container.
+- *Improved Lift.* You can manipulate an object that weighs up to 25 kgs (~55 pounds).
+
+
+
+
+#### Nanite Cloud
+*1st-level tech*
+___
+- **Casting Time:** Reaction, which you take when you would take acid, cold, fire, lightning, or thunder damage.
+- **Range:** self
+- **Duration:** 1 round
+
+Deploy a cloud of fabricated nanites from your omni-tool that swarm and capture incoming energy from an attack, lessening 
+its effect on you and storing it for your next attack. Until the end of your next turn, you gain resistance to the 
+triggering damage type, including against the triggering attack.
+
+The next time you hit with a melee attack or single-target, tech spell, the target takes an extra 4d6 damage of the triggering
+damage type, and the spell ends.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6
+for each spell slot about the 1st.
+
+___
+- __Advancements__
+- *Nanite Grenade.* While active, use a bonus action to compress the nanites into a grenade. The grenade remains stable for 1 hour before becoming inert. The grenade has a 10m range, 4m blast radius, DC 14 Dexterity saving throw and deals 4d6 damage of the triggering damage type. The grenade deals and additional 2d6 damage for each spell level beyond 1st.
+- *Aegis.* You may cast this spell as a reaction when a creature within 2m of you takes acid, cold, fire, lightning, or thunder damage. Choose up to 3 creatures including yourself within 2m of you to gain resistance to the chosen damage type until the start of your next turn, including against the triggering attack.
+
+
+```
+```
+
+
+#### Neural Shock
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Flash an ion laser at an organic creature within range. The creature makes a Charisma saving throw. On a failed save,
+the creature has disadvantage on melee and ranged attack rolls and can't take reactions until the end of its
+next turn.
+
+___
+- __Advancements__
+- *Damage.* The target takes 2d6 psychic damage when hit by the ion laser. This damage increases by 2d6 for each slot level above the 1st.
+- *Paralyze.* If a creature fails the saving throw, it is paralyzed until the end of its next turn.
+
+
+
+
+#### Nightshade Blades
+*Combat cantrip*
+___
+- **Casting Time:** Attack
+- **Range:** 10m
+- **Duration:** Instant
+
+Your omni-tool is equipped with three microscopic, poison-tipped blades that are able to pierce through shields and armor.
+Make a ranged weapon attack on a creature you can see within range, expending one blade. You add your proficiency bonus
+to this roll. On a hit, the target takes 1d12 poison damage and must succeed on a Constitution saving throw (DC 8 + proficiency bonus)
+or becomes *poisoned* until it finishes a short rest. All damage caused by nightshade blades bypasses shields.
+
+You must be within melee range and use an action to recover a blade, at which point you can reapply your poison and reload
+it into your omni-tool during a short rest. If you fail to recover your blades, you can create 3 new ones for 1 hour of work
+during a long rest.
+
+This feature's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), 17th level (4d12).
+
+___
+- __Advancements__
+- *Paralyze.* A creature that fails the Constitution saving throw becomes paralyzed until the end of your next turn.
+- *Powerful Poison.* The creature has disadvantage on its Constitution saving throw.
+
+
+
+
+#### Nova
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+Transfer the energy of your barrier into a biotic explosion, consuming your remaining barrier ticks. Creatures within a
+2m sphere centered on you must make a Dexterity saving throw. On a failed save, a creature is knocked prone and takes
+force damage equal to Xd8, where X is the number of barrier ticks. On a successful save, a creature takes half as much
+damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (X + 1d8), 11th level (X + 2d8), 17th level (X + 3d8)
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+___
+- __Advancements__
+- *Improved Damage.* Increase the damage die to d12.
+- *Half blast.* When you cast nova, it consumes half of your remaining barrier ticks (rounded up) but deals damage as if you had used all of your remaining barrier ticks.
+
+
+
+
+#### Overload
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Instant
+
+Unleash an electrostatic discharge at a creature or object within range. Three bolts then leap from that target to as
+many as three other targets, each of which must be within 6m of the first target. A target can be a creature or an
+object and can be targeted by only one of the bolts.
+
+A target becomes *primed" sub="lightning* until the start of your next turn and must make a Dexterity
+saving throw. The target takes 3d6 lightning damage on a failed save, or half as much on a successful one.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases
+by 2d6 for each slot level above 1st.
+
+___
+- __Advancements__
+- *Extended Leap.* Overload can leap to as many as five other targets within 10m.
+- *Heavy Overload.* Increase the damage die type to d8.
+
+
+
+
+#### Phase Disruptor
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Instant
+
+You focus the energy of your barrier into a high-powered beam at a target creature or object within range. Remove 1
+barrier tick and make a ranged spell attack on that target. On a hit, the creature takes 3d4 force damage.
+
+You may use additional barrier ticks to create more than one beam at higher levels: two beams at 5th level, three beams
+at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones.
+Make a separate attack roll for each beam.
+
+___
+- __Advancements__
+- *Improved Damage.* Increase the damage die type to d6.
+- *Cripple.* A creature hit by Phase Disruptor has disadvantage on its next attack roll.
+
+
+
+
+#### Pheromone Spray
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 10m
+- **Duration:** 24 hours
+
+A spray of chemical pheromones lets you convince a beast that you mean it no harm. Choose an organic creature that you can see 
+within range. It must see you and be capable of smelling. If the creature's Intelligence is 4 or higher, the spell fails. 
+Otherwise, the beast must succeed on a Wisdom saving throw or be *charmed* by you for the ability's duration. 
+If you or one of your companions harms the creature, the effect ends.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional 
+creature for each slot level above 1st.
+
+___
+- __Advancements__
+- *Loyalty.* If you successfully use this ability on a creature for 30 days in a row, the creature develops a fierce, chemically-induced sense of loyalty to you and remains charmed by you indefinitely.
+- *Aggression.* You are able to modify the pheromone cocktail to send creatures into a frenzy. When you use this ability, you may choose to frenzy creatures instead of charming them. A creature that becomes frenzied must use its movement to move towards the nearest creature and attack them if able. A frenzied creature may repeat its save at the end of each of its turns.
+
+
+
+
+#### Poison Spray
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 2m
+- **Duration:** Instant
+
+Shoot an aerosol spray of noxious chemicals from your omni-tool at a creature within melee range. The creature must
+succeed on a Constitution saving throw or take 2d12 poison damage and becomes *poisoned* until the end
+of your next turn.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases
+by 2d12 for each slot level above 1st.
+
+___
+- __Advancements__
+- *Pepper spray.* Creatures that fail the Constitution saving throw are also blinded for 1 minute.
+- *Poison Cloud.* Create a 2m-radius cloud of poison that persists for 1 minute. Each creature that enters the sphere for the first time on a turn or ends its turn there must make the Constitution saving throw.
+
+
+
+
+#### Pull
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Concentration, up to 1 round
+
+Make a ranged spell attack on a Medium or smaller creature or object within range. On a success, you create a mass
+effect field around the target and it becomes *lifted* 2m in the air until the end of your next turn. 
+While you maintain this spell, as a bonus action, you can move the target up to 4m in any direction. If you move the 
+target further than 30m away from you, the spell ends and the target falls to the ground.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, increase the duration.
+1 minute at 2nd level, 10 minutes at 3rd level, and 1 hour at 4th level.
+
+___
+- __Advancements__
+- *Heavy Pull.* You may target a Large or smaller creature or object.
+- *Grip.* While maintaining this spell, you may use your bonus action to increase pressure around the target, dealing 2d6 bludgeoning damage.
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+#### Reave
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Hurl an orb of dark energy at one creature within range. Make a range spell attack against the target. On a hit, you
+deal 2d10 necrotic damage and the target becomes *primed" sub="necrotic* until the end of your next turn.
+The target also has disadvantage on their next attack, ability check, or saving throw. This disadvantage lasts one minute
+or until the target becomes incapacitated.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, increase the damage by 2d10
+for each level above the 1st.
+
+___
+- __Advancements__
+- *Area Reave.* The orb becomes unstable and explodes when it reaches the target. Hit or miss, the target and each creature within 2m of it must succeed on a Constitution saving throw or take 2d6 necrotic damage. This damage increases by 2d6 for each spell slot level above the first.
+- *Immediate Detonation.* When you hit a target with reave, it detonates the primed condition at the end of your turn.
+
+
+
+
+#### Sabotage
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Infinite
+
+Target a ranged weapon you can see within range and sabotage its internal systems. The next attack made with the target
+weapon has disadvantage.
+
+Casting sabotage does not break tactical cloak, and creatures are unaware of the casting of this spell.
+
+If the weapon is integrated into a synthetic creature, such as an atlas mech's mass accelerator cannon or a drone's particle rifle,
+this spell has no effect unless the creature fails an Intelligence saving throw. Whether or not the synthetic creature
+succeeds on this saving throw, it becomes aware that it has been targeted by a spell.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, you can target 2 additional
+weapons for each spell slot above the 1st.
+
+___
+- __Advancements__
+- *Primed.* After the weapon fires, it vents its heat and the attacking creature becomes primed (fire) until the start of its next turn.
+- *Backfire.* After the weapon fires, it deals 2d6 thunder damage to the attacking creature.
+
+
+
+
+#### Salvo
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 50m
+- **Duration:** Instant
+
+Create three glowing darts of plasma. Each dart hits a creature of your choice that you can see within range. A dart
+deals 1d4+1 radiant damage to its target. The darts all strike simultaneously and you can direct them to hit one
+creature or several.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the spell creates two
+more darts for each slot level above 1st.
+
+___
+- __Advancements__
+- *Exploding Salvo.* Each dart deals an additional 1d4 thunder damage.
+- *Blinding Salvo.* When you cast salvo, you may create phosphorous darts instead. The darts no longer deal damage and cannot detonate primed targets. Instead, each dart explodes in a bright flash of light. Each creature hit by a dart must succeed on a Constitution saving throw or becomes blinded until the end of your next turn.
+
+
+
+
+#### Sentry Turret
+*3rd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Touch
+- **Duration:** 1 minute
+
+Construct a sentry turret in an unoccupied space within 2m. You have complete control over the turret. Any hacking
+attempts on the turret are rolled against your Intelligence, not the turret's.
+
+The turret has its own turn in the initiative order, which occurs immediately following your turn.
+
+The turret lasts until its hit points become 0 or lower or until you use a bonus action to destroy it.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, the turret deals an additional
+1d6 piercing and 1d6 radiant damage with its mass accelerator machinegun and gains 10 additional hit points for
+each spell slot above the 3rd.
+
+___
+- __Advancements__
+- *Cryo Turret.* The turret's mass accelerator machinegun deals 7 (2d6) piercing and 7 (2d6) cold damage. Instead of flamethrower, the turret can innately cast cryo beam 5 times per day.
+- *Shields.* The turret has 30 shield points (regen 0).
+
+
+
+
+#### Shocking Grasp
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** Touch
+- **Duration:** Instant
+
+Send an electric shock from your omni-tool to a creature you try to touch. Make a melee spell attack against the target.
+You have advantage on the attack roll if the target is wearing armor. On a hit, the target becomes
+*primed" sub="lightning* until the end of your next turn and takes 1d6 lightning damage.
+Then the target must succeed on a Constitution saving throw or become stunned until the end of your next turn. A target
+with at least 1 shield point has advantage on this saving throw.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases
+by 2d6 for each slot level above 1st.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+___
+- __Advancements__
+- *Restoring Shock.* Gain shield points equal to half the damage dealt. This cannot increase your shield points beyond their maximum capacity.
+- *Improved Shock.* Increase the range to 4m and damage to d8.
+
+
+
+
+#### Shockwave
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+Create a cascading shockwave in a 2m wide by 10m long line originating from you. Each creature caught in the line must
+make a Dexterity saving throw. On a failed save, a creature takes 3d6 force damage and is knocked *prone*.
+On a successful save, a creature takes half as much damage.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d6 for
+each slot level above the 1st.
+
+___
+- __Advancements__
+- *Controlled Shockwave.* The shockwave travels 16m. You may change the direction of the line every 4m.
+- *Improved Damage.* Increase damage die type to d10
+
+
+
+
+#### Siege Pulse
+*Combat cantrip*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+Spend 5 shield points as you overload your shield capacitors causing a loud, kinetic wave to erupt in a 4m-radius 
+sphere centered on you. Each creature within the sphere becomes *deafened* and must
+make a Constitution saving throw (DC 8 + proficiency bonus). On a failed save, a creature takes
+2d8 psychic damage and is *stunned* until the end of your next turn. On a successful save, a creature 
+takes half as much damage. Synthetic creatures have advantage on this saving throw.
+
+The first time you use siege pulse, your armor suffers no adverse effect. If you use this spell again before you
+finish a short rest, roll a d20. On a 5 or lower you shields overload. You lose 
+all shield points, take 2d12 lightning damage, and cannot gain shield points unless you repair your armor. Each time you 
+use this feature again before finishing a short rest, you suffer a -5 penalty to the roll.
+
+This feature's psychic damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), 17th level (5d8).
+
+___
+- __Advancements__
+- *Improved Pulse.* Add your Constitution modifier to the DC of the saving throw as you increase the frequency of the pulse to a level you can barely withstand.
+- *Lingering Pulse.* Each creature that takes psychic damage from siege pulse has disadvantage on its melee or ranged attack rolls until the start of your next turn.
+
+
+
+
+#### Singularity
+*3rd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Concentration, up to 1 minute
+
+Create a negative mass effect field in a 4m sphere at a target location within range. Each creature or object within the
+sphere's radius must succeed on a Strength saving throw or becomes lifted. Only Medium or smaller creature and objects
+are affected. Any creature or object that enters the sphere for the first time or ends its turn there must succeed on a
+Strength (Athletics) check or they are drawn into the sphere and become lifted. Creatures with at least 1 shield point
+have advantage on the Strength saving throw or Strength (Athletics) check.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, increase the size of the sphere
+by 4m per spell slot above the 3rd.
+
+___
+- __Advancements__
+- *Heavy Singularity.* Creatures have disadvantage when making the Strength saving throw or Strength (Athletics) check.
+- *Damage.* Any creature within singularity's radius is primed (necrotic) and takes 1d8 necrotic damage at the end of each of your turns.
+
+
+
+
+#### Slam
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+Target a lifted creature or object and slam it to the ground dealing 2d8 bludgeoning damage and knocking it prone. The
+target is no longer lifted.
+
+The number of targets increases by 1 when you reach 5th level (2), 11th level (3) and 17th level (4).
+
+___
+- __Advancements__
+- *Stun.* If the target is a creature, it must pass a Constitution saving throw or becomes stunned until the end of your next turn.
+- *Reaction.* When a creature or object you can see becomes lifted, you may cast Slam on it as a reaction.
+
+
+
+
+#### Slow Fall
+*Biotic cantrip*
+___
+- **Casting Time:** Reaction, which you take when you or a creature within 10m of you falls
+- **Range:** 10m
+- **Duration:** Concentration, up to 1 minute
+
+When you or a creature within 10m of you falls, choose up to five falling creatures within range. Create a negative mass
+effect field around each creature, slowing the rate of descent to 20m per round. If the creature lands before the spell
+ends, it takes no Falling damage and can land on its feet, and the spell ends for that creature.
+
+___
+- __Advancements__
+- *Improved Duration.* Increase the duration to 5 minutes
+- *Navigate.* As you fall, you can direct your fall by 2m in any direction except up. You may do this once per round.
+
+
+
+
+#### Snap Freeze
+*3rd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+Launch a globe of supercooled helium. Make a ranged spell attack on a target within range, choosing a location on its 
+body. The location can be body, legs, or head.
+
+__Legs__. +2 bonus to hit. The target is *restrained* for the next minute. Any creature can use its 
+action to make a Strength check against your spell save DC to try and break the ice. On a success, the affected 
+creature is freed but suffers 6d4 bludgeoning damage.
+
+__Body__. On a hit, the target takes 6d8 cold damage.
+
+__Head (Large or smaller creature)__. -5 penalty to hit. The creature becomes *blinded* and 
+*deafened* for the next minute. Any creature can use an action to make a Strength check against your 
+spell save DC to try and break the ice. On a success, the affected creature is freed but suffers 6d12 bludgeoning damage.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, the damage increases
+by 2 dice for each slot level above 3rd.
+
+___
+- __Advancements__
+- *Solid Freeze.* The ice solid like a rock. Creatures have disadvantage on their Strength checks to break it.
+- *Brittle Freeze.* A critical success on the Strength check completely shatters the affected creature's appendage. If legs, it falls prone and loses half its remaining hit points. If head, it immediately dies.
+
+
+
+
+#### Stasis
+*2nd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Concentration, up to 1 minute
+
+Lock a target in a high-gravity mass effect field. Choose a creature you can see within range. The creature must make a
+Strength saving throw. On a failed save, the creature is paralyzed, primed (force), and has resistance to all damage for
+the duration of the spell. At the end of each of its turns, the target can make another Strength saving throw. On a success,
+the spell ends. A detonating attack immediately ends the spell.
+
+___
+- __Advancements__
+- *Shatter.* When stasis ends via a successful saving throw or detonating attack, the target takes 2d8 force damage for each round of combat it was in stasis.
+- *Deep Stasis.* The creature has disadvantage on its saving throws to escape Stasis.
+
+
+
+
+#### Stimulant Pack
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Duration:** 1 minute
+
+Inject yourself with a stimulant pack. For the next minute, whenever you make an attack roll or saving throw,
+you can roll a d4 and add the number rolled to the attack roll or saving throw.
+
+You must finish a long rest before you can use this feature again.
+
+___
+- __Advancements__
+- *Friendly.* You can inject a willing creature within melee range with the stimulant pack.
+- *High Tolerance.* You can use stimulant pack twice long rest.
+
+
+
+
+#### Storm
+*4th-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 20m
+- **Duration:** Concentration, up to 1 minute
+
+An 8m-radius sphere of rapid shifting mass effect fields springs into existence centered on a point you choose within
+range, creating a dangerous whirlwind of debris and energy. The sphere remains for the spell’s duration. Each creature
+in the sphere when it appears or that ends its turn there must succeed on a Strength saving throw. On a failed save, a
+creature takes 8d10 force damage or half as much on a successful one. The sphere’s space is difficult terrain.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 5th level, the damage increases for each of its effects by 2d10.
+
+___
+- __Advancements__
+- *Necrotic Bolts.* Until the spell ends, you can use a bonus action on each of your turns to cause a bolt of necrotic energy to leap from the center of the sphere toward one creature you choose within 20m of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d10 necrotic damage. Necrotic bolts can detonate primed targets.
+- *Growing Storm.* While the spell is maintained, the storm's radius grows by 2m at the start of your turn.
+
+
+
+
+#### Submission Net
+*2nd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** 1 minute
+
+Shoot a swarm of miniature pylons to a target location within 30m. Each creature within a 4m cylinder of the target
+location must make a Dexterity saving throw. Any creature that fails the saving throw is trapped in an electrified net,
+becoming *restrained* and cannot cast tech spells.
+
+Until the spell ends, the area is considered difficult terrain. A creature that enters the cylinder for the first time
+on its turn or ends its turn there must also make the Dexterity saving throw.
+
+A creature restrained by submission net may use its action to make a Strength (Athletics) check against your spell save
+DC to escape the net. On each attempt, the creature takes 1d6 lightning damage as it struggles against the net. On a
+success, the creature is no longer restrained.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, increase the size of the
+net by 2m for each spell slot about the 2nd.
+
+___
+- __Advancements__
+- *Electrified Net.* If you have a submission net deployed, you can use your bonus action to send electric currents through it. Each creature within the net takes 2d6 lightning damage.
+- *Anti-Tech.* If a creature you can see begins to cast a tech spell, you can use your reaction to cast submission net.
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+#### Tactical Scan
+*Combat cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** 1 minute
+
+Spend your action scanning a creature you can see, studying its movement and revealing weaknesses.
+Make a Wisdom (Insight) check, contested by the target's Charisma (Deception) check. On a success, you have advantage on
+attack rolls against the target and you score a critical hit on a roll of 19 or 20.
+
+This benefit lasts 1 minute or until you successfully use this feature against a different target.
+
+___
+- __Advancements__
+- *Area Scan.* Scan a 6m cube. Each creature within the cube must make the Charisma (Deception) check against your Wisdom (Insight). This feature only affects a single target, but you can choose one creature from the ones that failed the contested check.
+- *Telegraphed Attacks.* Your HUD alerts you when the creature is about to attack. It has disadvantage on ranged and melee attacks against you and you have advantage on any saving throws caused by spells and abilities of the creature.
+
+
+
+
+#### Target Painting
+*1st-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** 1 round
+
+Scan an 8m cube within range. Until the end of your next turn, any creature in the area when the spell is cast is
+highlighted on all friendly creatures HUDs if it fails a Dexterity saving throw.
+
+Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected
+creature or object can't benefit from being invisible.
+
+___
+- __Advancements__
+- *Heavy Weapon Sync.* Information about the painted targets sync with heavy weapon systems. Any creature that would make a saving throw to avoid heavy weapon damage has disadvantage on the saving throw.
+- *Lasting Scan.* Becomes a concentration spell with a duration of 1 minute.
+
+
+
+
+#### Tear
+*4th-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+A concentrated ray of warp energy erupts from your outstretched hand toward a target that you can see within range.
+The target can be a creature, an object, or a biotic creation, such as a biotic wall.
+
+A creature targeted by this spell must make a Dexterity saving throw. On a failed save, the target takes 
+10d6 + 40 necrotic damage. If this damage leaves it with 0 hit points, the target and everything
+it is wearing and carrying is ripped apart at the atomic level, reducing it to a mist of radiated atoms.
+
+This spell automatically disintegrates a Large or smaller unshielded object or a biotic creation. If the target is a 
+Huge or larger object or creation of force, this spell disintegrates a 4m cube portion of it.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 5th level or higher, the damage increases by 5d6 
+for each slot level above 4th.
+
+___
+- __Advancements__
+- *Anti-Biotics.* A creature with an active barrier that is hit by this spell must expend all remaining barrier ticks to reduce the damage. The total damage reduction from the remaining barrier ticks is reduced by half.
+- *Anti-Synthetic.* Non-organic creatures or objects take an extra 40 force damage. This spell disintegrates up to a 6m cube of synthetic materials.
+
+
+
+
+#### Throw
+*Biotic cantrip*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Instant
+
+Make a ranged spell attack on a target you can see within range. On a hit, the target takes force damage equal to 1d8
+force damage. If the target is Medium or smaller, it is pushed backward 10m.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), 17th level (4d8).
+
+___
+- __Advancements__
+- *Radial Blast.* On a hit, the damage is dealt to each creature within a 2m radius of the target.
+- *Improved Damage.* Increase the damage die type to d12
+
+
+
+
+#### Trophy System
+*Combat cantrip*
+___
+- **Casting Time:** Reaction, which you take when an explosive projectile is within 6m of you.
+- **Range:** 6m
+- **Duration:** Instant
+
+Your omni-tool's trophy system detects incoming explosives that fires a small ordinance charge to preemptively detonate 
+hostile explosives. As a reaction to an explosive projectile (grenade or rocket from a heavy weapon) that you can see 
+within 6 meters of you, you may preemptively detonate it. If the blast would cause you to make a Dexterity saving throw,
+you have advantage on the save.   
+
+You may use this ability only once per long rest.  
+
+___
+- __Advancements__
+- *Advanced Notice.* The triggering range is increased to 12 meters, and you may detonate the explosive at any point along its trajectory.
+- *Dual Trophy.* You may use your trophy system twice between long rests.
+
+
+
+
+#### Turbocharge
+*Combat cantrip*
+___
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Duration:** 1 Turn
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+\page
+
+Activate a subroutine that temporarily vents weapon heat through your armor to improve thermal clip efficiency and
+weapon damage. Until the end of your turn, the weapon you're currently holding gains Burst Fire, the heat cost for making
+a Burst Fire attack is reduced by 1 heat, and you may make a Burst Fire attack as an Attack action.
+
+You must finish a short or long rest before using Turbocharge again.
+
+___
+- __Advancements__
+- *Improved Damage.* +2 damage with the turbocharged weapon
+- *Improved Accuracy.* The DC of the Dexterity saving throw is increased to 18
+
+
+
+
+#### Unity
+*2nd-level tech*
+___
+- **Casting Time:** Action
+- **Range:** 30m
+- **Duration:** Instant
+
+Spawn a swarm of healing nanobots that heal allies. Up to six creatures of your choice that you can see within range
+regain hit points equal to 1d6 + your spellcasting ability modifier.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, the healing increases
+by 2d6 for each slot level above 2nd.
+
+___
+- __Advancements__
+- *Unrestricted (engineer only).* Engineers can spend any amount of tech points to cast this spell. They are not limited by their Tech Point Limit column.
+- *Shield restore.* When you cast this at 1st level, creatures also gain 1d4 shield points. This increases by 1d4 for each spell slot above the 2nd.
+
+
+
+
+#### Vortex
+*3rd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** Self
+- **Duration:** Instant
+
+You intertwine negative and positive mass effect fields to create a swirling vortex. Creatures within a 10m cone must
+make a Strength saving throw. On a failed save a creature takes 6d10 force damage, or half as much damage on a successful one.
+
+Creatures that fail the saving throw are thrown 1d6 + 2m away from you and become prone.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 4th level or higher, increase the damage by 2d10 for
+each slot level above the 3rd.
+
+___
+- __Advancements__
+- *Radial.* You may cast the vortex in a 6m radius sphere centered on you instead.
+- *Damage.* Increase the damage to d12
+
+
+
+
+#### Warp
+*2nd-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 40m
+- **Duration:** Instant
+
+Make a ranged spell attack on an organic creature you can see within range. On a hit, you generate a rapidly shifting mass
+effect field inside the target dealing necrotic damage equal to 3d10 + your spellcasting ability modifier. In addition,
+the target is *primed" sub="necrotic* until the end of your next turn. This damage bypasses shields.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d10 for
+each slot level above the 2nd.
+
+___
+- __Advancements__
+- *Internal Bleeding.* The shifting causes internal bleeding. At the start of each of your turns, the target suffers 1d6 damage from blood loss, bypassing its shields. This effect ends if the creature uses medi-gel or if it or another creature passes a DC 10 Wisdom (Medicine) check to stabilize the bleeding.
+- *Disorient.* A target hit by warp must pass a Constitution saving throw. On a failed save, the force of warp is so intense the target is stunned until the end of its next turn.
+
+
+
+
+#### Warp Cloud
+*1st-level biotic*
+___
+- **Casting Time:** Action
+- **Range:** 20m
+- **Duration:** Concentration, up to 1 minute
+
+You fill the air with a highly concentrated warp field 2 meters on each side at a point within range.  A creature takes
+4d4 necrotic damage when it enters the spell area for the first time on a turn or starts its turn there. A creature
+within the cloud is *primed" sub="necrotic*.
+
+___At Higher Levels.___ When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 4d4 
+for each slot level above 1st.
+
+___
+- __Advancements__
+- *Burst.* As a bonus action, you can end this spell and force each creature within 2 meters of the cloud to make a Dexterity saving throw. A creature takes 4d4 force damage on a failed save or half as much on a successful one. This damage increases by 4d4 force damage per spell level.
+- *Shift.* As a bonus action, you can move this cube of warp energy up to 4 meters in any direction you choose. It can pass through solid objects, but you can only control it's movement while you have line of sight.
+
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PART 1 | SPELLS</div>
+
+
+\page
+
+
+# Appendix A: Armor Sets
+Most armor you buy in the galaxy has been mass-produced, these are called armor sets. A set is not required to be multiple pieces of armor. Read the _Armor_ section of Chapter 5 for more details.
+
+Some armore pieces are identified as __Andromeda Only__, meaning these pieces would only be available if you set your campaign in the Andromeda Galaxy.
+
+## Armor Set List
+
+The Armor Sets are presented in alphabetical order.
+
+#### Andromeda Elite Helmet
+*Light head, rare*
+___
+- **Cost:** 62,050
+
++2 AC.  +5 Shields and +5 Shield Regen
+
+
+
+
+#### Angaran Arms
+*Medium arms, rare, Andromeda-only*
+___
+- **Cost:** 17,300
+
++5 shields
+
+___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
+
+___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add twice your proficiency bonus to the damage roll.
+
+
+
+#### Angaran Chestpiece
+*Medium chest, rare, Andromeda-only*
+___
+- **Cost:** 53,000
+
+15 shields (regen 15)
+
+___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
+
+___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add twice your proficiency bonus to the damage roll.
+
+
+
+#### Angaran Helmet
+*Medium head, rare, Andromeda-only*
+___
+- **Cost:** 19,000
+
++5 shields
+
+___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
+
+___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add twice your proficiency bonus to the damage roll.
+
+```
+```
+
+#### Angaran Legs
+*Medium legs, rare, Andromeda-only*
+___
+- **Cost:** 17,300
+
++5 shields
+
+___Set Bonus (2 of 4).___ If a target is primed fire, cold or lightning by one of your spells and the condition ends "at the start of your next turn", instead the condition ends at the end of your next turn.
+
+___Set Bonus (4 of 4).___ When one of your drones hits with a weapon attack, add twice your proficiency bonus to the damage roll.
+
+
+
+#### Archon Visor
+*Light head, uncommon*
+___
+- **Cost:** 29,750
+
+As an action, gain 1d4 worth of spell slots or tech points. You can’t use this property again until you finish a long rest.
+
+
+
+
+#### Asari Initiate Armor
+*Light body armor, spectre*
+___
+- **Cost:** 42,500
+
+While wearing this armor, your cantrips are considered to be 1 step higher in their progression. For example, a 1st level player casts a cantrip as if they were at the 5th level. 5th -> 11th. 11th -> 17th. There is no additional effect at the 17th level.
+
+
+
+
+#### Assassin Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 52,700
+
+As an action, you can activate a tactical cloak, becoming invisible. The cloak lasts 1 minute or until you make an attack, cast a spell, use a grenade or mine, or fire a heavy weapon. You may use this feature once per short rest.
+
+
+
+
+#### BT Suit
+*Light body armor, rare*
+___
+- **Cost:** 73,950
+
+You can regain 2d4 tech points every short rest.
+
+
+
+
+#### Batarian Talon Gauntlets
+*Light arms, uncommon*
+___
+- **Cost:** 21,100
+
+Add 1 point of Slashing damage to all melee damage rolls. Advantage on Intimidation skill checks.
+
+
+
+
+#### Blood Dragon Armet
+*Medium head, spectre*
+___
+- **Cost:** 42,250
+
+You regain 1d4 worth of spell slots or tech points when you take a short rest.
+
+___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+
+#### Blood Dragon Curiass
+*Medium chest, spectre*
+___
+- **Cost:** 70,300
+
+20 shields (regen 10).
+
+___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+#### Blood Dragon Greaves
+*Medium legs, spectre*
+___
+- **Cost:** 32,050
+
++1 bonus to spell attack rolls and spell saving throw DCs.
+
+___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+#### Blood Dragon Vambraces
+*Medium arms, spectre*
+___
+- **Cost:** 32,050
+
++1 bonus to spell attack rolls and spell saving throw DCs.
+
+___Set Bonus (2 of 4).___ When you roll a 1 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+___Set Bonus (4 of 4).___ When you roll a 1 or 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+#### Capacitor Helmet
+*Medium head, uncommon*
+___
+- **Cost:** 34,000
+
++1 AC. Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+
+#### Cerberus Ajax Gauntlets
+*Medium arms, uncommon*
+___
+- **Cost:** 12,175
+
+Increase thermal clip capacity by 8.
+
+___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
+
+___Set Bonus (4 of 4).___ Shield Regen 20
+
+
+
+#### Cerberus Ajax Greaves
+*Medium legs, uncommon*
+___
+- **Cost:** 16,425
+
+Increase your grenade capacity by 4.
+
+___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
+
+___Set Bonus (4 of 4).___ Shield Regen 20
+
+
+
+#### Cerberus Ajax Helmet
+*Medium head, uncommon*
+___
+- **Cost:** 28,750
+
++1 AC
+
+___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
+
+___Set Bonus (4 of 4).___ Shield Regen 20
+
+
+
+#### Cerberus Ajax Vest
+*Medium chest, uncommon*
+___
+- **Cost:** 58,500
+
+20 shields.
+
+___Set Bonus (2 of 4).___ Equipped weapons have increased heat equal to half its base heat (rounded down).
+
+___Set Bonus (4 of 4).___ Shield Regen 20
+
+
+
+#### Cerberus Assault Armor
+*Heavy body armor, rare*
+___
+- **Cost:** 127,375
+
+30 Shields.  +1 AC.  Increase thermal clip capacity by 8.
+
+___Set Bonus (2 of 2).___ +2 AC
+
+
+
+#### Cerberus Assault Helmet
+*Heavy head, rare*
+___
+- **Cost:** 48,750
+
+Shield Regen 15.  +1 AC.
+
+___Set Bonus (2 of 2).___ +2 AC
+
+
+
+#### Cerberus Nightmare Boots
+*Light legs, spectre*
+___
+- **Cost:** 21,950
+
+Walking speed increased by 6m.
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
+
+
+
+#### Cerberus Nightmare Chestpiece
+*Light chest, spectre*
+___
+- **Cost:** 64,875
+
+10 shields (regen 10).  Increase your thermal clip capacity by 4.
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Cerberus Nightmare Gloves
+*Light arms, spectre*
+___
+- **Cost:** 43,200
+
+Equipped weapons have increased heat equal to twice the weapon's base heat.
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
+
+
+
+#### Cerberus Nightmare Helmet
+*Light head, spectre*
+___
+- **Cost:** 21,950
+
++1 bonus to melee weapon attack and damage rolls.
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (3 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ +1 bonus to melee attack and damage rolls.
+
+
+
+#### Cerberus Shade Armguards
+*Medium arms, spectre*
+___
+- **Cost:** 20,250
+
++1 bonus to melee weapon attack and damage rolls
+
+___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
+
+
+
+#### Cerberus Shade Chestpiece
+*Medium chest, spectre*
+___
+- **Cost:** 31,300
+
+10 shields (regen 10).
+
+___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
+
+
+
+#### Cerberus Shade Helmet
+*Medium head, spectre*
+___
+- **Cost:** 21,950
+
++1 bonus to spell attack and damage rolls
+
+___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
+
+
+
+#### Cerberus Shade Legguards
+*Medium legs, spectre*
+___
+- **Cost:** 13,450
+
+Increase thermal clip capacity by 4.  Increase grenade capacity by 2
+
+___Set Bonus (2 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+___Set Bonus (4 of 4).___ +10 shields. +10 shield regen.
+
+
+
+#### Cerberus Spirit Armor
+*Light body armor, spectre*
+___
+- **Cost:** 28,050
+
+15 shields (regen 5).
+
+___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
+
+
+
+#### Cerberus Spirit Helmet
+*Light head, spectre*
+___
+- **Cost:** 38,250
+
+When you roll a 1 or a 2 on a damage die for an attack you make with a biotic or tech spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+___Set Bonus (2 of 2).___ You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
+
+
+
+#### Collector Carapace
+*Heavy body armor, rare*
+___
+- **Cost:** 44,750
+
++1 AC.  Increase walking speed by 4m.
+
+___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, you immediately become stabilized.
+
+
+
+#### Collector Headpiece
+*Heavy head, rare*
+___
+- **Cost:** 27,325
+
++1 AC.  Darkvision: 20m
+
+___Set Bonus (2 of 2).___ Once per long rest, when you fall below 0 hit points, you immediately become stabilized.
+
+
+
+#### Colossus Chestplate
+*Heavy chest, rare*
+___
+- **Cost:** 54,450
+
+Requires STR 18.  10 shields (regen 5).
+
+___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
+
+___Set Bonus (3 of 4).___ Resistance to fire and force damage.
+
+___Set Bonus (4 of 4).___ Resistance to lightning damage.
+
+
+
+#### Colossus Gauntlets
+*Heavy hands, rare*
+___
+- **Cost:** 54,450
+
+Requires STR 18.  +1 AC.
+
+___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
+
+___Set Bonus (3 of 4).___ Resistance to fire and force damage.
+
+___Set Bonus (4 of 4).___ Resistance to lightning damage.
+
+
+
+#### Colossus Greaves
+*Heavy legs, rare*
+___
+- **Cost:** 61,250
+
+Requires STR 18.  +1 AC.
+
+___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
+
+___Set Bonus (3 of 4).___ Resistance to fire and force damage.
+
+___Set Bonus (4 of 4).___ Resistance to lightning damage.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Colossus Helmet
+*Heavy head, rare*
+___
+- **Cost:** 55,300
+
+Requires STR 18.  +1 AC.
+
+___Set Bonus (2 of 2).___ Resistance to necrotic and cold damage.
+
+___Set Bonus (3 of 4).___ Resistance to fire and force damage.
+
+___Set Bonus (4 of 4).___ Resistance to lightning damage.
+
+
+
+#### Crisis Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 183,600
+
+Required STR is 14 instead of 16. You are considered proficient with this armor even if you lack proficiency with heavy armor.
+
+
+
+
+#### Death Mask
+*Heavy head, uncommon*
+___
+- **Cost:** 31,450
+
++1 AC.  +1 on melee attack and damage rolls
+
+
+
+
+#### Deep Space Explorer Armor
+*Medium body armor, spectre*
+___
+- **Cost:** 56,100
+
+Resistance to cold and fire damage.
+
+___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in unfriendly environments for up to 48 hours.
+
+
+
+#### Deep Space Explorer Helmet
+*Medium head, spectre*
+___
+- **Cost:** 9,350
+
+Darkvision 10m. Infrared Vision 10m. You can toggle between the 2 vision types as a free action.
+
+___Set Bonus (2 of 2).___ Extended air supply allows the wearer to breathe in unfriendly environments for up to 48 hours.
+
+
+
+#### Delumcore Overlay
+*Heavy head, uncommon*
+___
+- **Cost:** 14,450
+
+You roll one additional weapon damage die when determining the extra damage for a critical hit with a ranged weapon attack.
+
+
+
+
+#### Duelist Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 39,950
+
+Once per long rest, if you fall below 0 hit points you immediately become stabilized.
+
+
+
+
+#### Elanus Goliath Gauntlets
+*Heavy arms, uncommon*
+___
+- **Cost:** 45,900
+
+Advantage on Strength checks and saving throws.
+
+
+
+#### Enviro-Greaves
+*Light legs, uncommon*
+___
+- **Cost:** 11,900
+
+Advantage on Athletics checks made to swim or climb.
+
+
+
+
+#### Freedom Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 27,200
+
++1 AC
+
+
+
+
+#### GUARDIAN Gauntlets
+*Medium arms, rare*
+___
+- **Cost:** 40,800
+
+When you are forced to make a saving throw from a heavy weapon attack that required targeting, you may use your reaction to reduce the damage done to you to 0. You may use this feature once per long rest.
+
+
+
+
+#### Gladiator Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 42,500
+
+10 shields (regen 5). +1 AC
+
+
+
+
+#### Hahne-Kedar Tactical Armor
+*Heavy chest, uncommon*
+___
+- **Cost:** 15,300
+
+When wearing this armor, treat your Strength ability score as if it were 19 for the purposes of carrying equipment (unless your score is higher, then no effect occurs).
+
+
+
+
+#### Heleus Armor
+*Light body armor, spectre, Andromeda-only*
+___
+- **Cost:** 99,200
+
++2 to all damage rolls
+
+___Set Bonus (2 of 2).___ +3 AC
+
+
+
+#### Heleus Helmet
+*Light head, spectre, Andromeda-only*
+___
+- **Cost:** 67,750
+
++1 to all damage rolls
+
+___Set Bonus (2 of 2).___ +3 AC
+
+
+
+#### Hoplite Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 80,750
+
+20 shields (regen 10).  +2 AC.
+
+
+
+
+#### HyperGuardian Chestplate
+*Heavy chest, uncommon*
+___
+- **Cost:** 69,700
+
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with heavy armor.
+
+___Set Bonus (2 of 4).___ +1 AC.
+
+___Set Bonus (3 of 4).___ +10 Shields, +5 Shield Regen.
+
+___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### HyperGuardian Gauntlets
+*Heavy arms, uncommon*
+___
+- **Cost:** 54,400
+
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
+
+___Set Bonus (2 of 4).___ +1 AC.
+
+___Set Bonus (3 of 4).___ +10 Shields, +5 Shield Regen.
+
+___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+#### HyperGuardian Greaves
+*Heavy legs, uncommon*
+___
+- **Cost:** 54,400
+
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
+
+___Set Bonus (2 of 4).___ +1 AC.
+
+___Set Bonus (3 of 4).___ +10 Shields, +5 Shield Regen.
+
+___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+#### HyperGuardian Helmet
+*Heavy head, uncommon*
+___
+- **Cost:** 12,750
+
+You are considered proficient with this armor even if you lack proficiency with heavy armor.
+
+___Set Bonus (2 of 4).___ +1 AC.
+
+___Set Bonus (3 of 4).___ +10 Shields, +5 Shield Regen.
+
+___Set Bonus (4 of 4).___ Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+#### Inferno Armor
+*Medium body armor, rare*
+___
+- **Cost:** 31,600
+
++1 bonus to spell attack rolls and spell saving throw DCs.
+
+___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expend a charge of medi-gel.
+
+
+
+#### Inferno Helmet
+*Medium head, rare*
+___
+- **Cost:** 22,250
+
++1 bonus to spell attack rolls and spell saving throw DCs.
+
+___Set Bonus (2 of 2).___ When you lose hit points, as a reaction, you may expend a charge of medi-gel.
+
+
+
+#### Initiative Chestpiece
+*Medium chest, uncommon*
+___
+- **Cost:** 41,500
+
+10 Shields (regen 5). +1 AC.
+
+___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
+
+___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negative effects at the first two levels.
+
+
+```
+```
+
+#### Initiative Gauntlets
+*Medium arms, uncommon*
+___
+- **Cost:** 11,750
+
+Increase medi-gel capacity by 2.
+
+___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
+
+___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negative effects at the first two levels.
+
+
+
+#### Initiative Greaves
+*Medium legs, uncommon*
+___
+- **Cost:** 29,175
+
+Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn. 
+
+___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
+
+___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negative effects at the first two levels.
+
+
+
+#### Initiative Helmet
+*Medium head, uncommon*
+___
+- **Cost:** 16,850
+
+Infrared Vision 20m. Darkvision 20m. You can toggle between the 2 vision types as a free action.  Noxious air becomes breathable.
+
+___Set Bonus (2 of 4).___ You have 7 levels of exhaustion, you suffer no negative effects at the first level.
+
+___Set Bonus (4 of 4).___ You have 8 levels of exhaustion, you suffer no negative effects at the first two levels.
+
+
+
+#### Kestrel Helmet
+*Light head, rare*
+___
+- **Cost:** 46,750
+
++2 AC
+
+
+
+
+#### Kett Chestplate
+*Heavy chest, rare, Andromeda-only*
+___
+- **Cost:** 47,825
+
+Any critical hit against you becomes a normal hit.
+
+___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
+
+___Set Bonus (3 of 4).___ Your Strength score is 21 while you wear this armor. There is no effect on you if your Strength is 21 or higher without it.
+
+___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. There is no effect on you if your Strength is 23 or higher without it.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Kett Greaves
+*Heavy legs, rare, Andromeda-only*
+___
+- **Cost:** 30,400
+
+Increase walking speed by 4m.
+
+___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
+
+___Set Bonus (3 of 4).___ Your Strength score is 21 while you wear this armor. There is no effect on you if your Strength is 21 or higher without it.
+
+___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. There is no effect on you if your Strength is 23 or higher without it.
+
+
+
+#### Kett Helmet
+*Heavy head, rare, Andromeda-only*
+___
+- **Cost:** 50,375
+
++1 bonus to melee weapon attack and damage rolls.
+
+___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
+
+___Set Bonus (3 of 4).___ Your Strength score is 21 while you wear this armor. There is no effect on you if your Strength is 21 or higher without it.
+
+___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. There is no effect on you if your Strength is 23 or higher without it.
+
+
+
+#### Kett Vambraces
+*Heavy arms, rare, Andromeda-only*
+___
+- **Cost:** 34,225
+
++1 bonus to melee weapon attack and damage rolls.
+
+___Set Bonus (2 of 4).___ Your Strength score is 19 while you wear this armor. There is no effect on you if your Strength is 19 or higher without it.
+
+___Set Bonus (3 of 4).___ Your Strength score is 21 while you wear this armor. There is no effect on you if your Strength is 21 or higher without it.
+
+___Set Bonus (4 of 4).___ Your Strength score is 23 while you wear this armor. There is no effect on you if your Strength is 23 or higher without it.
+
+
+
+#### Kuwashii Visor
+*Light head, uncommon*
+___
+- **Cost:** 36,000
+
+As a bonus action, you choose a creature you can see within 30m. For the next minute, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. You can use this feature 3 times per long rest.
+
+
+
+
+#### Liberator Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 37,500
+
+10 shields (regen 5).  +1 AC
+
+```
+```
+
+#### Lockdown Greaves
+*Heavy legs, uncommon*
+___
+- **Cost:** 18,700
+
+As a bonus action, the wearer can activate the effect of the greaves to stick to the surface they are walking on, provided it's made of metal. This can aid them in walking up walls, upside down, etc. If the surface is metal, the user is immune to being lifted, otherwise, they have advantage on saving throws against being lifted. The effect lasts for 1 minute and can only be used once per short rest.
+
+
+
+
+#### Mantis Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 27,200
+
+Whenever you hit a target with a melee weapon attack, you may use your reaction to activate your armor's switchblades, dealing an additional 1d6 slashing damage to the target. If you use your reaction this way, you may then use your bonus action to attempt to grapple the target. You have advantage on the Strength (Athletics) check.
+
+
+
+
+#### Maverick Boots
+*Light legs, uncommon, Andromeda-only*
+___
+- **Cost:** 5,050
+
+Increase thermal clip capacity by 4.
+
+___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
+
+___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
+
+
+
+#### Maverick Vest
+*Light chest, uncommon, Andromeda-only*
+___
+- **Cost:** 11,850
+
+Increase grenade capacity by 2.
+
+___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
+
+___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
+
+
+
+#### Maverick Visor
+*Light head, uncommon, Andromeda-only*
+___
+- **Cost:** 11,000
+
+Darkvision 40m.
+
+___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
+
+___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Maverick Wraps
+*Light arms, uncommon, Andromeda-only*
+___
+- **Cost:** 5,050
+
+Increase thermal clip capacity by 4.
+
+___Set Bonus (2 of 4).___ Roll one additional weapon damage die when determining the extra damage for a critical hit with a weapon attack.
+
+___Set Bonus (4 of 4).___ Whenever you roll an 18 or higher on a weapon attack roll, consider it a critical hit.
+
+
+
+#### Mercenary Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 18,700
+
+10 shields (regen 5)
+
+
+
+
+#### Mnemonic Visor
+*Light head, uncommon*
+___
+- **Cost:** 21,250
+
+When you roll a 1 damage die for an attack you make with a biotic spell, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+
+
+
+#### N7 Chestplate
+*Medium chest, rare*
+___
+- **Cost:** 40,250
+
+10 shields (regen 5).  You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+
+#### N7 Defender Armorsuit
+*Heavy body armor, rare*
+___
+- **Cost:** 90,875
+
+20 shields (regen 10).  +1 AC.  Increase thermal clip capacity by 8.  Increase medi-gel capacity by 2.
+
+___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
+
+
+
+#### N7 Defender Helmet
+*Heavy head, rare*
+___
+- **Cost:** 25,000
+
++1 AC.
+
+___Set Bonus (2 of 2).___ +1 bonus to weapon attack and damage rolls
+
+
+
+#### N7 Gauntlets
+*Medium arms, rare*
+___
+- **Cost:** 25,800
+
+You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+```
+```
+
+#### N7 Greaves
+*Medium legs, rare*
+___
+- **Cost:** 34,300
+
+5 Shields.  You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+
+#### N7 Helmet
+*Medium head, rare*
+___
+- **Cost:** 23,250
+
+You have advantage on initiative rolls. You are considered proficient with this armor even if you lack proficiency with medium armor.
+
+___Set Bonus (3 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+___Set Bonus (4 of 4).___ Increase your hit points by 1 for each level you have gained.
+
+
+
+#### Onyx Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 39,100
+
+10 shields (regen 5). +1 AC
+
+
+
+
+#### Partisan Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 36,000
+
+15 shields (regen 5).
+
+___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistance to poison damage.
+
+
+
+#### Partisan Helmet
+*Medium head, uncommon*
+___
+- **Cost:** 12,200
+
+Darkvision 20m.
+
+___Set Bonus (2 of 2).___ You are immune to becoming poisoned and have resistance to poison damage.
+
+
+
+#### Pathfinder Chestpiece
+*Medium chest, rare*
+___
+- **Cost:** 56,000
+
++2 AC
+
+___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
+
+___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren't incapacitated.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Pathfinder Gauntlets
+*Medium arms, rare*
+___
+- **Cost:** 24,550
+
+When you roll a 1 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
+
+___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren't incapacitated.
+
+
+
+#### Pathfinder Greaves
+*Medium legs, rare*
+___
+- **Cost:** 34,175
+
+Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn.
+
+___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
+
+___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren't incapacitated.
+
+
+
+#### Pathfinder Helmet
+*Medium head, rare*
+___
+- **Cost:** 34,750
+
++1 bonus to weapon attack rolls
+
+___Set Bonus (3 of 4).___ Any critical hit against you becomes a normal hit.
+
+___Set Bonus (4 of 4).___ You gain a +5 bonus to initiative as long as you aren't incapacitated.
+
+
+
+#### Personal Shield Generator
+*- none, common*
+___
+- **Cost:** 15,000
+
+10 shields (regen 5).  Improved models can be purchased. 10,000 for each 5 shield points, and 8,000 for 5 additional regen. Max is 30 shield points and 15 regen. These additional shields do not stack with your armor's shields.
+
+
+
+
+#### Power Reservoir Legguards
+*Medium legs, uncommon*
+___
+- **Cost:** 12,750
+
+As a reaction to having 0 barrier ticks, restore all of your barrier ticks. You may use this ability once per long rest.
+
+
+
+
+#### Predator Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 31,450
+
+Increase thermal clip capacity by 4.   Any critical hit against you becomes a normal hit
+
+
+```
+```
+
+#### Reckoner-Knight Armet
+*Heavy head, spectre*
+___
+- **Cost:** 29,750
+
+Whenever you lose hit points, you may use your reaction to expend one medi-gel (provided you have any medi-gel remaining).
+
+___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Charisma is considered to be a 19. This has no effect if your Charisma is higher than 19.
+
+
+
+#### Reckoner-Knight Armorsuit
+*Heavy body armor, spectre*
+___
+- **Cost:** 144,500
+
+30 shields (regen 5).  When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+
+___Set Bonus (2 of 2).___ When you make a Charisma-based skill check, your Charisma is considered to be a 19. This has no effect if your Charisma is higher than 19.
+
+
+
+#### Recon Hood
+*Light head, uncommon*
+___
+- **Cost:** 46,750
+
++1 AC.  Infrared Vision 60m. Darkvision 60m. You can toggle between vision types as a free action.
+
+
+
+
+#### Remnant Battery
+*Medium chest, rare, Andromeda-only*
+___
+- **Cost:** 106,550
+
+30 shields (regen 10)
+
+___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Each time you do, roll a d20. On a roll of 8 or less, your shields malfunction: you lose all shield points and they cannot be regained until you finish a long rest.
+
+
+
+#### Remnant Helmet
+*Medium head, rare, Andromeda-only*
+___
+- **Cost:** 15,600
+
+Darkvision 20m. Infrared Vision 20m. You may toggle between vision types as a free action.
+
+___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Each time you do, roll a d20. On a roll of 8 or less, your shields malfunction: you lose all shield points and they cannot be regained until you finish a long rest.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Remnant Tasset
+*Medium legs, rare, Andromeda-only*
+___
+- **Cost:** 22,400
+
+Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Each time you do, roll a d20. On a roll of 8 or less, your shields malfunction: you lose all shield points and they cannot be regained until you finish a long rest.
+
+
+
+#### Remnant Vambraces
+*Medium arms, rare, Andromeda-only*
+___
+- **Cost:** 16,450
+
+Shield regen +5.
+
+___Set Bonus (3 of 4).___ When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+___Set Bonus (4 of 4).___ You may jumpstart your shields any number of times. Each time you do, roll a d20. On a roll of 8 or less, your shields malfunction: you lose all shield points and they cannot be regained until you finish a long rest.
+
+
+
+#### Rosenkov Reflex Armor
+*Heavy chest, rare*
+___
+- **Cost:** 20,400
+
+Once per short rest, you may take 2 reactions within a single turn.
+
+
+
+
+#### Rosenkov Snaring Gauntlets
+*Heavy arms, uncommon*
+___
+- **Cost:** 18,000
+
+You are immune to dropping your weapon if hit by any effect that would otherwise disarm you.
+
+
+
+
+#### Scavenger Armor
+*Light body armor, rare*
+___
+- **Cost:** 50,000
+
++6 grenade capacity.  +8 Thermal clip capacity.  +4 medi-gel capacity.  You have 2 additional weapon slots (or increase your carry capacity by 20kg).
+
+___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition and you have resistance to poison damage.
+
+
+
+#### Scavenger Helmet
+*Light head, rare*
+___
+- **Cost:** 48,625
+
+You have advantage on Intelligence (Investigation) and Intelligence (Science) rolls when analyzing objects.
+
+___Set Bonus (2 of 2).___ You are immune to disease and the poisoned condition and you have resistance to poison damage.
+
+
+
+#### Securitel Helmet
+*Medium head, uncommon*
+___
+- **Cost:** 38,250
+
++1 AC.  Any critical hit against you becomes a normal hit
+
+
+
+
+#### Sentry Interface
+*Medium head, uncommon*
+___
+- **Cost:** 17,000
+
+Once per short rest, as a reaction to taking damage, you may jumpstart your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+
+#### Serrice Adaptor Gauntlets
+*Medium arms, uncommon*
+___
+- **Cost:** 45,050
+
+Every long rest, you can designate a type of damage except bludgeoning, piercing, or slashing. You gain resistance to it until you take another long rest.
+
+
+
+
+#### Serrice Rimebane Armor
+*Medium chest, rare*
+___
+- **Cost:** 55,250
+
+Resistance to cold damage.  Immunity from the frozen condition.
+
+
+
+
+#### Sirta Parade Armor
+*Light body armor, uncommon*
+___
+- **Cost:** 38,675
+
+Advantage on Persuasion and Performance checks.
+
+
+
+
+#### Skirmish Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 39,950
+
++1 AC.  Increase your speed by 4m.  Increase your grenade capacity by 4.
+
+
+
+
+#### Stealth Greaves
+*Light legs, uncommon*
+___
+- **Cost:** 14,450
+
+While you wear these greaves, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Stealth checks that rely on moving silently.
+
+
+
+
+#### Stock Heavy Armor
+*Heavy body armor, common*
+___
+- **Cost:** 21,250
+
+
+
+
+#### Stock Light Armor
+*Light body armor, common*
+___
+- **Cost:** 14,450
+
+
+
+
+#### Stock Medium Armor
+*Medium body armor, common*
+___
+- **Cost:** 17,850
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+\page
+
+#### Strider Legguards
+*Medium legs, uncommon*
+___
+- **Cost:** 28,050
+
+Advantage on Acrobatics checks.  Speed +6m.
+
+
+
+
+#### Survivor Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 30,600
+
++1 AC
+
+
+
+
+#### Terminus Assault Chestpiece
+*Heavy chest, uncommon*
+___
+- **Cost:** 27,075
+
+10 shields (regen 5).
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have advantage on stealth checks against thermal sensors and creatures or devices using infrared vision.
+
+
+
+#### Terminus Assault Gauntlets
+*Heavy arms, uncommon*
+___
+- **Cost:** 21,975
+
++1 bonus to melee attack and damage rolls
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have advantage on stealth checks against thermal sensors and creatures or devices using infrared vision.
+
+
+
+#### Terminus Assault Greaves
+*Heavy legs, uncommon*
+___
+- **Cost:** 14,325
+
+Speed +4m
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have advantage on stealth checks against thermal sensors and creatures or devices using infrared vision.
+
+
+
+#### Terminus Assault Helmet
+*Heavy head, uncommon*
+___
+- **Cost:** 29,625
+
++1 AC
+
+___Set Bonus (2 of 4).___ +1 bonus to melee attack and damage rolls.
+
+___Set Bonus (4 of 4).___ You have resistance to cold and fire damage. You have advantage on stealth checks against thermal sensors and creatures or devices using infrared vision.
+
+```
+```
+
+#### Titan Armor
+*Heavy body armor, uncommon*
+___
+- **Cost:** 87,550
+
+20 shields (regen 5).  +2 AC
+
+
+
+
+#### Umbra Visor
+*Light head, rare*
+___
+- **Cost:** 46,750
+
+You gain a +2 bonus to spell attack rolls and to the saving throw DCs of your spells.
+
+
+
+
+#### Ursa Armor
+*Medium body armor, uncommon*
+___
+- **Cost:** 84,150
+
+20 shields (regen 10).  +2 AC
+
+
+
+
+#### Warlord Armor
+*Heavy body armor, rare*
+___
+- **Cost:** 116,875
+
+Resistance to slashing and bludgeoning damage.  +2 AC.
+
+
+
+
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX A | ARMOR SETS</div>
+
+\page
+
+
+# Appendix B: Armor Mods
+Armor mods allow you to upgrade your equipment, providing powerful bonuses. All mods have their own costs. Operatives who are proficient with Tinker's tools can craft mods but most can be purchased from your local equipment shop. Once you've acquired your mod, you can install it yourself (if you're proficient with Armorsmith's or Tailor's tools) or you can have an equipment shop install it for you.
+
+Read the _Mods_ section of Chapter 5 for more information.
+
+## Amror Mod List
+The Armor Mods are presented in alphabetical order.
+
+#### Ablative Coating
+*Chest, spectre*
+___
+- **Cost:** 50,000
+
+Resistance to piercing damage.
+
+
+
+
+#### Adrenaline Regulator
+*Chest, rare*
+___
+- **Cost:** 40,000
+
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. 
+
+
+
+
+#### Aerial Performance Optimizer
+*Chest, rare*
+___
+- **Cost:** 40,000
+
+Requires a Jump Jet or Jetpack mod also be installed. When you are hovering (via Jump Jets) or flying (via Jetpack), you have a +2 bonus to all attack and damage rolls.
+
+
+
+
+#### Amplifier Plates
+*Arms, rare*
+___
+- **Cost:** 12,000
+
++1 bonus to spell damage rolls
+
+
+
+
+#### Archon AI
+*Head, spectre*
+___
+- **Cost:** 30,000
+
+You regain 1d4 worth of spell slots or tech points when you take a short rest.
+
+
+
+
+#### Asymmetric Defense Layer
+*Chest, rare*
+___
+- **Cost:** 50,000
+
++2 AC
+
+
+```
+```
+
+#### Autogel
+*Arms, uncommon*
+___
+- **Cost:** 8,000
+
+When you lose hit points, as a reaction, you may expend a charge of medi-gel.
+
+
+
+
+#### Autogel
+*Legs, uncommon*
+___
+- **Cost:** 8,000
+
+When you lose hit points, as a reaction, you may expend a charge of medi-gel.
+
+
+
+
+#### Auxiliary Shield Emitters
+*Arms, uncommon*
+___
+- **Cost:** 8,000
+
+Increase your shield regen by 5.
+
+
+
+
+#### Auxiliary Shield Emitters
+*Chest, uncommon*
+___
+- **Cost:** 8,000
+
+Increase your shield regen by 5.
+
+
+
+
+#### Auxiliary Shield Emitters
+*Legs, uncommon*
+___
+- **Cost:** 8,000
+
+Increase your shield regen by 5.
+
+
+
+
+#### Back Holster
+*Chest, common*
+___
+- **Cost:** 6,000
+
+Gain 2 additional weapon slots. If using the Variant: Encumbrance rule, increase your Carry Weight by 10.
+
+
+
+
+#### Barrier
+*Chest, rare*
+___
+- **Cost:** 24,000
+
+The armor contains a mass effect barrier with 3 barrier ticks. You cannot use these additional barrier ticks for biotic spells, they are only for damage reduction. The barrier ticks recharge after a short rest.
+
+
+
+
+#### Battle Telemetry
+*Arms, spectre*
+___
+- **Cost:** 30,000
+
+You regain 1d4 worth of spell slots or tech points when you take a short rest.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX B | ARMOR MODS</div>
+\page
+
+
+
+
+#### Battle Telemetry
+*Chest, spectre*
+___
+- **Cost:** 30,000
+
+You regain 1d4 worth of spell slots or tech points when you take a short rest.
+
+
+
+
+#### Battlefield Assist Module
+*Chest, spectre*
+___
+- **Cost:** 38,000
+
+At the start of your turn, if you have less than one-quarter of your hit points remaining, you can use a bonus action to cast Defense Matrix (Custom Current). It lasts 1 minute and does not require concentration. You may use this feature once per long rest.
+
+
+
+
+#### Bladed Wristguards
+*Arms, uncommon*
+___
+- **Cost:** 5,000
+
+When you are hit with a melee attack, deal 1d6 piercing damage back at the attacker.
+
+
+
+
+#### Ceramic Weave
+*Chest, uncommon*
+___
+- **Cost:** 20,000
+
++1 AC
+
+
+
+
+#### Chest Holster - Grenades
+*Chest, uncommon*
+___
+- **Cost:** 6,000
+
+Increase your grenade capacity by 4
+
+
+
+
+#### Chest Holster - Thermal Clips
+*Chest, uncommon*
+___
+- **Cost:** 2,000
+
+Increase your thermal clip capacity by 8
+
+
+
+
+#### Cleats
+*Legs, uncommon*
+___
+- **Cost:** 15,000
+
+Resistance to lightning.
+
+
+
+
+#### EC Counter
+*Arms, rare*
+___
+- **Cost:** 22,000
+
+Whenever you are hit with a melee attack, the attacking creature takes 2d4 lightning damage and must succeed on a DC 10 Constitution saving throw or becomes stunned until the start of your next turn. This effect can only happen once per round (every 6 seconds).
+
+
+
+
+#### ER Jetpack
+*Chest, rare*
+___
+- **Cost:** 150,000
+
+As a bonus action, activate the jetpack to gain flying 6m for 10 minutes. This device cannot be used again until you finish a long rest.
+
+
+
+
+#### Echo Cancel
+*Legs, common*
+___
+- **Cost:** 4,000
+
+Your footsteps make no noise and you have advantage on Dexterity (Stealth) checks that rely on remaining silent.
+
+
+
+
+#### Energized Plating
+*Chest, spectre*
+___
+- **Cost:** 90,000
+
++3 AC
+
+
+
+
+#### Enviro-Systems
+*Chest, common*
+___
+- **Cost:** 6,000
+
+As a free action, you gain Water Breathing and the ability to breathe indefinitely in zero-oxygen environments for the next 24 hours. If you are not wearing a helmet, the suit creates a hard light helmet that equalizes pressure around your head.
+
+
+
+
+#### Environmental Regulators
+*Chest, rare*
+___
+- **Cost:** 62,500
+
+Resistance to fire and cold damage.
+
+
+
+
+#### Equilibrium Regulator
+*Head, uncommon*
+___
+- **Cost:** 30,000
+
+When you take the Dash action on your turn, you can use a bonus action to make one weapon attack.
+
+
+
+
+#### Focus Modulator
+*Head, uncommon*
+___
+- **Cost:** 40,000
+
+As a bonus action, you choose a creature you can see within 30m. For the next minute, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. You can use this feature 3 times per long rest.
+
+
+
+
+#### Hardened Weave
+*Chest, spectre*
+___
+- **Cost:** 250,000
+
+Resistance to cold, fire, force, lightning, and necrotic damage types.
+
+
+
+
+#### Hip Caddy - Grenades
+*Legs, common*
+___
+- **Cost:** 3,000
+
+Increase your grenade capacity by 2
+
+
+
+
+#### Hip Caddy - Thermal Clips
+*Legs, common*
+___
+- **Cost:** 1,000
+
+Increase your thermal clip capacity by 4.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX B | ARMOR MODS</div>
+\page
+
+
+
+#### Hip Holster
+*Legs, common*
+___
+- **Cost:** 3,000
+
+Gain 1 additional weapon slot. If using the Variant: Encumbrance rule, increase your Carry Weight by 5.
+
+
+
+
+#### Jetpack
+*Chest, rare*
+___
+- **Cost:** 60,000
+
+As a bonus action, activate the jetpack to gain flying 6m for 1 minute. This device cannot be used again until you finish a short rest.
+
+
+
+
+#### Jump Jets
+*Legs, uncommon*
+___
+- **Cost:** 22,500
+
+Your jump distance is tripled. If you jump straight up, you can hover at the apex of your jump until the start of your next turn, at which point, you fall slowly back to the ground, taking half of your movement speed for this turn. 
+
+
+
+
+#### Life Support Webbing
+*Legs, uncommon*
+___
+- **Cost:** 15,000
+
+Increases your maximum exhaustion by 1 level. At the first level, you suffer no negative effects.
+
+
+
+
+#### Mag Latches
+*Legs, rare*
+___
+- **Cost:** 50,000
+
+If you are standing on a metal surface, you are immune to being lifted. Otherwise, if you would make a saving throw against being lifted, you have advantage.
+
+
+
+
+#### Medi-gel Regulator
+*Chest, spectre*
+___
+- **Cost:** 60,000
+
+Gain 1 additional hit point for each level you have gained.
+
+
+
+
+#### Microservos
+*Legs, uncommon*
+___
+- **Cost:** 12,000
+
++1 bonus to melee attack and damage rolls
+
+
+
+
+#### Microservos
+*Arms, rare*
+___
+- **Cost:** 30,000
+
++2 bonus to melee attack and damage rolls
+
+
+
+
+#### Night Sight
+*Head, uncommon*
+___
+- **Cost:** 10,000
+
+You gain darkvision 30m.
+
+```
+```
+
+#### Offhand Ammo Pack
+*Arms, common*
+___
+- **Cost:** 500
+
+Increase your thermal clip capacity by 2
+
+
+
+
+#### Ordinance Packs
+*Legs, uncommon*
+___
+- **Cost:** 10,000
+
+Your heavy weapons have 2 additional charges.
+
+
+
+
+#### Personal Disruptor Torpedoes
+*Arms, spectre*
+___
+- **Cost:** 25,000
+
+Choose a target location within 30m. Creatures within a 4m sphere of the target must make a Dexterity saving throw. On a failed save, a creature takes 3d12 force damage, or have as much damage on a successful one. You must finish a short rest, allowing the weapon to recharge before using it again.
+
+
+
+
+#### QR Jetpack
+*Chest, spectre*
+___
+- **Cost:** 120,000
+
+As a bonus action, activate the jetpack to gain flying 6m for 1 minute. You may use this 3 times per short rest.
+
+
+
+
+#### Reactive Kinetic Compensator
+*Chest, uncommon*
+___
+- **Cost:** 20,000
+
+Any critical hit against you becomes a normal hit.
+
+
+
+
+#### Recharge Capacitor
+*Chest, rare*
+___
+- **Cost:** 15,000
+
+Once per short rest, as a reaction to taking damage, you may jump-start your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+
+#### Recharge Capacitor
+*Head, rare*
+___
+- **Cost:** 15,000
+
+Once per short rest, as a reaction to taking damage, you may jump-start your shield regen and immediately gain shield points equal to your regen amount.
+
+
+
+
+#### Revive AI
+*Chest, rare*
+___
+- **Cost:** 35,000
+
+Once per long rest, if you fall below 0 hit points you immediately become stabilized.
+
+
+
+
+#### Savant Biotic Amp
+*Head, rare*
+___
+- **Cost:** 40,000
+
+When you roll a 1 or 2 on a damage die for an attack you make with a biotic spell, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. 
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX B | ARMOR MODS</div>
+\page
+
+
+
+#### Sentry System
+*Head, uncommon*
+___
+- **Cost:** 10,000
+
+Increase your shield points by 5.
+
+
+
+
+#### Shield Battery
+*Chest, uncommon*
+___
+- **Cost:** 10,000
+
+Increase your shield points by 5.
+
+
+
+
+#### Shield Capacity
+*Arms, uncommon*
+___
+- **Cost:** 10,000
+
+Increase your shield points by 5.
+
+
+
+
+#### Shield Interface
+*Chest, spectre*
+___
+- **Cost:** 50,000
+
+Increase your shield points by 15.
+
+
+
+
+#### Shield Modulator
+*Chest, rare*
+___
+- **Cost:** 25,000
+
+Increase your shield points by 10.
+
+
+
+
+#### Shock absorbers
+*Legs, uncommon*
+___
+- **Cost:** 15,000
+
+Resistance to thunder.
+
+
+
+
+#### Stimulator Conduits
+*Legs, common*
+___
+- **Cost:** 6,000
+
+Increase your speed by 6m.
+
+
+
+
+#### Tactical Holsters
+*Chest, uncommon*
+___
+- **Cost:** 8,000
+
+You can holster one weapon then draw another weapon as a free action.
+
+
+
+
+#### Tactical Holsters
+*Legs, uncommon*
+___
+- **Cost:** 8,000
+
+You can holster one weapon then draw another weapon as a free action.
+
+
+
+
+#### Teflon Coating
+*Chest, uncommon*
+___
+- **Cost:** 15,000
+
+Resistance to radiant damage.
+
+```
+```
+
+#### Thermal Armor
+*Chest, uncommon*
+___
+- **Cost:** 35,000
+
+You are immune to being frozen.
+
+
+
+
+#### Toxic Resistance
+*Chest, uncommon*
+___
+- **Cost:** 37,500
+
+Resistance to acid and poison damage. You have advantage on Constitution saving throws that would cause you to be poisoned.
+
+
+
+
+#### Umbra AI
+*Head, rare*
+___
+- **Cost:** 40,000
+
+When you roll a 1 or 2 on a damage die for an attack you make with a tech power, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. 
+
+
+
+
+#### Voice Modulator
+*Head, common*
+___
+- **Cost:** 12,000
+
++2 to Persuasion and Intimidation checks
+
+
+
+
+#### Zoom Enhance
+*Head, uncommon*
+___
+- **Cost:** 15,000
+
+You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within a range of 2m.
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX B | ARMOR MODS</div>
+
+
+
+\page
+
+
+# Appendix C: Weapons
+This appendix has the full list of available weapons, their price and weight, the damage they deal when they hit, and any special properties they possess.
+
+Some armore pieces are identified as __Andromeda Only__, meaning these pieces would only be available if you set your campaign in the Andromeda Galaxy.
+
+
+## Weapon List
+The Weapons are presented in alphabetical order, grouped by weapon type.
+
+### Assault Rifles
+
+#### Adas Anti-Synthetic Rifle 
+*Uncommon assault rifle, arc, special, two handed*
+___
+- **Cost:** 17,000
+- **Damage:** 2d6 lightning
+- **Range:** 10/30m
+- **Heat:** 3
+- **Weight:** 5
+
+Deals an additional 1d6 lightning damage to synthetic targets.
+
+
+#### Cerberus Harrier 
+*Uncommon assault rifle, burst fire, recoil, two handed*
+___
+- **Cost:** 17,000
+- **Damage:** 2d6 piercing
+- **Range:** 60/180m
+- **Heat:** 6
+- **Weight:** 5
+
+
+
+
+#### Chakram Launcher
+*Uncommon assault rifle, recoil, two handed*
+___
+- **Cost:** 14,500
+- **Damage:** 1d8 piercing
+- **Range:** 80/240m
+- **Heat:** 4
+- **Weight:** 2
+
+Use a bonus action to charge the weapon before firing, consuming 2 heat. On a hit, it deals an additional 1d8 piercing and 2d4 thunder damage.
+
+
+
+
+#### Collector Assault Rifle
+*Spectre assault rifle, burst fire, special, two handed*
+___
+- **Cost:** 60,000
+- **Damage:** 4d4 piercing
+- **Range:** 20/60m
+- **Heat:** 8
+- **Weight:** 6
+
+The Collector Assault Rifle does not use thermal clips. Instead, use a d8 to track the "heat". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 1 face. This represents the weapon internally cooling off. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat.
+
+
+
+
+#### Cyclone
+*Uncommon assault rifle, two handed, heavy, burst fire*
+___
+- **Cost:** 17,000
+- **Damage:** 2d6 piercing
+- **Range:** 20/60m
+- **Heat:** 20
+- **Weight:** 8
+
+
+
+
+#### Geth Pulse Rifle
+*Rare assault rifle, burst fire, two handed*
+___
+- **Cost:** 37,000
+- **Damage:** 2d6 radiant
+- **Range:** 40/120m
+- **Heat:** 9
+- **Weight:** 4
+
+
+
+
+#### L-89 Halberd
+*Rare assault rifle, double tap, two handed*
+___
+- **Cost:** 37,000
+- **Damage:** 2d6 piercing
+- **Range:** 60/180m
+- **Heat:** 15
+- **Weight:** 3
+
+
+
+
+#### M-15 Vindicator
+*Uncommon assault rifle, burst fire, two handed*
+___
+- **Cost:** 15,500
+- **Damage:** 1d10 piercing
+- **Range:** 50/150m
+- **Heat:** 12
+- **Weight:** 2
+
+
+
+
+#### M-37 Falcon
+*Uncommon assault rifle, double tap, two handed*
+___
+- **Cost:** 14,500
+- **Damage:** 1d8 thunder
+- **Range:** 10/30m
+- **Heat:** 8
+- **Weight:** 5
+
+Instead of making a ranged weapon attack, the target makes a Dexterity saving throw (DC 8 + DEX modifier). Do not add your DEX modifier to a Double Tap attack. If you are proficient with Assault Rifles, add your proficiency bonus to the DC. On a failed save, the target takes 1d8 thunder damage, or half as much on a successful one.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX C | WEAPONS</div>
+\page
+
+
+
+#### M-55 Argus
+*Uncommon assault rifle, burst fire, recoil, two handed*
+___
+- **Cost:** 16,500
+- **Damage:** 1d12 piercing
+- **Range:** 20/60m
+- **Heat:** 9
+- **Weight:** 5
+
+
+
+
+#### M-7 Lancer
+*Rare assault rifle, burst fire, two handed*
+___
+- **Cost:** 37,000
+- **Damage:** 2d6 piercing
+- **Range:** 20/60m
+- **Heat:** 8
+- **Weight:** 2
+
+Somewhat of a relic and hard to come by, the M-7 does not use thermal clips. Instead, use a d8 to track the \"heat\". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 2 faces. This represents the weapon internally cooling off. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat. If you make a Burst Fire attack, spin down the die by 2.
+
+
+
+
+#### M-76 Revenant
+*Uncommon assault rifle, burst fire, two handed*
+___
+- **Cost:** 17,500
+- **Damage:** 3d4 piercing
+- **Range:** 10/30m
+- **Heat:** 6
+- **Weight:** 4
+
+
+
+
+#### M-8 Avenger
+*Common assault rifle, burst fire, two handed*
+___
+- **Cost:** 7,500
+- **Damage:** 1d8 piercing
+- **Range:** 20/60m
+- **Heat:** 9
+- **Weight:** 3
+
+
+
+
+#### M-96 Mattock
+*Uncommon assault rifle, double tap, two handed*
+___
+- **Cost:** 14,500
+- **Damage:** 1d8 piercing
+- **Range:** 40/120m
+- **Heat:** 15
+- **Weight:** 3
+
+
+
+
+#### M-99 Saber
+*Spectre assault rifle, double tap, special, two handed*
+___
+- **Cost:** 60,500
+- **Damage:** 3d6 piercing
+- **Range:** 50/150m
+- **Heat:** 8
+- **Weight:** 5
+
+Custom made for its owner. When you purchase this weapon, you may choose one of the following: Increase damage of this weapon to d8,  reloading this weapon is a bonus action, or +2 on ranged attack rolls made with the weapon.
+
+```
+```
+
+#### N7 Typhoon
+*Rare assault rifle, burst fire, heavy, recoil, two handed*
+___
+- **Cost:** 39,000
+- **Damage:** 2d8 piercing
+- **Range:** 20/60m
+- **Heat:** 6
+- **Weight:** 9
+
+AC +1 when holding this weapon.
+
+
+
+
+#### N7 Valkyrie
+*Rare assault rifle, two handed*
+___
+- **Cost:** 39,000
+- **Damage:** 2d8 piercing
+- **Range:** 30/90m
+- **Heat:** 4
+- **Weight:** 5
+
+
+
+
+#### P.A.W.
+*Spectre assault rifle, two handed, special, Andromeda-only*
+___
+- **Cost:** 59,000
+- **Damage:** 2d8 force
+- **Range:** 20/60m
+- **Heat:** 6
+- **Weight:** 5
+
+The P.A.W. does not use thermal clips. Instead, use a d6 to track the "heat". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 1 face. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat.
+
+After successfully hitting a target with a ranged attack with this weapon, you may use your bonus action to begin targeting. Until the targeting condition ends, you deal weapon damage to the target at each of the following combat phases: the end of your turn, the beginning of the target's turn, the end of the target's turn, and the beginning of your turn. Each time you deal damage, spin down your heat dice. In addition to standard targeting rules, this targeting condition can end when this weapon's heat becomes 0, when the targeted creature gains three-quarter or full cover, the target uses an action and succeeds on an opposed Dexterity check (you may add your proficiency bonus if you are proficient with this weapon type), or you use a bonus action on your turn to end the condition.
+
+
+
+
+#### Particle Rifle
+*Spectre assault rifle, burst fire, special, two handed*
+___
+- **Cost:** 61,000
+- **Damage:** 2d10 radiant
+- **Range:** 10/30m
+- **Heat:** 6
+- **Weight:** 6
+
+The Particle Rifle does not use thermal clips. Instead, use a d6 to track the "heat". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 1 face. This represents the weapon internally cooling off. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat. If you make a Burst Fire attack, spin down the die by 2.
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX C | WEAPONS</div>
+\page
+
+
+#### Pathfinder Pioneer
+*Rare assault rifle, burst fire, two handed*
+___
+- **Cost:** 37,000
+- **Damage:** 2d6 piercing
+- **Range:** 40/120m
+- **Heat:** 8
+- **Weight:** 2
+
+Whenever you make an attack roll with this weapon and miss, you gain a stacking +1 bonus to subsequent attack rolls. Whenever you make an attack roll with this weapon and hit, your +1 bonus resets to 0.
+
+
+
+
+#### Phaeston
+*Common assault rifle, burst fire, two handed*
+___
+- **Cost:** 8,000
+- **Damage:** 2d4 piercing
+- **Range:** 20/60m
+- **Heat:** 12
+- **Weight:** 3
+
+
+
+
+#### Sandstorm
+*Rare assault rifle, double tap, two handed, Andromeda-only*
+___
+- **Cost:** 37,500
+- **Damage:** 3d4 piercing
+- **Range:** 80/240m
+- **Heat:** 8
+- **Weight:** 6
+
+
+
+
+#### Soned
+*Spectre assault rifle, two handed, heavy, Andromeda-only*
+___
+- **Cost:** 60,000
+- **Damage:** 4d4 fire
+- **Range:** 10/30m
+- **Heat:** 12
+- **Weight:** 8
+
+
+
+
+#### Sovoa
+*Spectre assault rifle, two handed, special, Andromeda-only*
+___
+- **Cost:** 59,000
+- **Damage:** 2d8 thunder
+- **Range:** 10/30m
+- **Heat:** 3
+- **Weight:** 6
+
+Instead of making a ranged weapon attack, target an area within normal or long range of this weapon. Each creature within a 4m radius of the target makes a Dexterity saving throw. The DC of this saving throw equals 8 + your Dexterity modifier + your proficiency bonus (if you are proficient with Assault Rifles). A creature takes thunder damage equal to the weapon's damage on a failed save or half as much on a successful one. Each creature within the radius has advantage on the saving throw the target area is beyond the normal range of this weapon.
+
+
+
+
+#### Striker Assault Rifle
+*Rare assault rifle, recoil, two handed*
+___
+- **Cost:** 36,500
+- **Damage:** 1d12 piercing
+- **Range:** 10/30m
+- **Heat:** 12
+- **Weight:** 6
+
+After making a ranged attack with the Striker, you may choose to enter the Targeting condition. At the start of your next turn, all ranged attacks made with the Striker deal an additional 1d12 damage, at the cost of 2 heat per attack. This bonus continues to stack at the start of your turn until the targeting condition ends or until the Striker must be reloaded. For example, the 3rd round would deal 3d12 for 3 heat per attack, etc.
+
+
+
+
+#### Sweeper
+*Rare assault rifle, two handed, heavy, special, burst fire, Andromeda-only*
+___
+- **Cost:** 39,000
+- **Damage:** 2d8 force
+- **Range:** 20/60m
+- **Heat:** 6
+- **Weight:** 8
+
+The Sweeper does not use thermal clips. Instead, use a d6 to track the "heat". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 1 face. This represents the weapon internally cooling off. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat. If you make a Burst Fire attack, spin down the die by 2.
+
+
+
+
+#### Thokin
+*Rare assault rifle, two handed, special, Andromeda-only*
+___
+- **Cost:** 37,500
+- **Damage:** 3d4 fire
+- **Range:** 20/60m
+- **Heat:** 4
+- **Weight:** 6
+
+Each attack costs 2 heat. Weapon attacks made with this weapon cannot miss as long as you can see the target.
+
+
+
+
+#### X5 Ghost
+*Uncommon assault rifle, two handed, burst fire*
+___
+- **Cost:** 15,000
+- **Damage:** 2d4 piercing
+- **Range:** 30/90m
+- **Heat:** 8
+- **Weight:** 4
+
+Whenever you make an attack with this weapon, if your previous action, reaction, or bonus action was an attack with this weapon, you gain a +1 bonus to the attack roll. Possesses recording and sensor functions so it can be left behind as a "black box" by doomed explorers.
+
+
+
+
+#### Zalkin
+*Uncommon assault rifle, two handed, double tap, Andromeda-only*
+___
+- **Cost:** 15,000
+- **Damage:** 2d4 fire
+- **Range:** 20/60m
+- **Heat:** 8
+- **Weight:** 5
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX C | WEAPONS</div>
+\page
+
+### Heavy Pistols
+
+#### Acolyte
+*Uncommon heavy pistol, light*
+___
+- **Cost:** 13,500
+- **Damage:** 1d6 force
+- **Range:** 20/60m
+- **Heat:** 6
+- **Weight:** 2
+
+Damage done by this weapon cannot be reduced by using barrier ticks. Use a bonus action to charge the weapon before firing, consuming 2 heat. On a hit, it deals an additional 2d6 force damage.
+
+
+
+
+#### Arc Pistol
+*Uncommon heavy pistol, arc, light, special*
+___
+- **Cost:** 13,500
+- **Damage:** 1d6 lightning
+- **Range:** 30/90m
+- **Heat:** 18
+- **Weight:** 2
+
+Use a bonus action to charge the weapon before firing, consuming 2 heat. On a hit, it deals an additional 2d6 lightning damage.
+
+
+
+
+#### Equalizer
+*Rare heavy pistol, double tap, light, burst fire, Andromeda-only*
+___
+- **Cost:** 34,500
+- **Damage:** 1d8 force
+- **Range:** 10/30m
+- **Heat:** 8
+- **Weight:** 2
+
+When you hit a target beyond normal range, it takes half damage.
+
+The Equalizer does not use thermal clips. Instead, use a d8 to track the "heat". Whenever you make a ranged attack with the weapon, spin down the die 1 face. Every round that you don't fire the weapon, spin the die up 1 face. If you ever spin down the die to 0, the weapon jams and cannot be fired again this combat. If you make a Burst Fire attack, spin down the die by 2.  
+
+
+
+
+#### Executioner Pistol
+*Spectre heavy pistol, *
+___
+- **Cost:** 63,000
+- **Damage:** 2d12 piercing
+- **Range:** 30/90m
+- **Heat:** 1
+- **Weight:** 2
+
+
+
+
+#### M-11 Suppressor
+*Uncommon heavy pistol, silent, double tap, light*
+___
+- **Cost:** 13,500
+- **Damage:** 1d6 piercing
+- **Range:** 20/60m
+- **Heat:** 8
+- **Weight:** 2
+
+
+```
+```
+
+#### M-3 Predator
+*Common heavy pistol, double tap, light*
+___
+- **Cost:** 5,500
+- **Damage:** 1d4 piercing
+- **Range:** 20/60m
+- **Heat:** 15
+- **Weight:** 1
+
+
+
+
+#### M-358 Talon
+*Spectre heavy pistol, double tap, light*
+___
+- **Cost:** 57,000
+- **Dam
