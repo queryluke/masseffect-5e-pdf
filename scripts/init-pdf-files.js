@@ -559,8 +559,16 @@ if (limit === 'weaponmods') {
   let text = ''
 
   for (const s of sets) {
+    let availability = 'all ranged weapons'
+    if (s.availability.length < 5) {
+      if (s.availability[0] === 'Melee') {
+        availability = 'melee weapons'
+      } else {
+        availability = s.availability.map(a => `${a.toLowerCase()}s`).join(', ')
+      }
+    }
     text += `#### ${s.name}\n`
-    text += `*${s.type}, ${_.lowerCase(s.rarity)}*\n`
+    text += `*${s.rarity} ${s.placement.toLowerCase()} mod, available for ${availability}*\n`
     text += '___\n'
     text += `- **Cost:** ${_.parseInt(s.cost).toLocaleString()}\n`
     text += '\n'
