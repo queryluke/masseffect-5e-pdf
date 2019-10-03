@@ -599,7 +599,7 @@ if (limit === 'grenades') {
   write('grenades', text)
 }
 
-// grenades
+// programs
 
 if (limit === 'programs') {
   const items = mdFiles('programs')
@@ -622,4 +622,26 @@ if (limit === 'programs') {
   }
 
   write('programs', text)
+}
+
+// Conditions
+
+if (limit === 'conditions') {
+  const items = mdFiles('conditions')
+
+  let text = ''
+
+  for (const i of items) {
+
+    text += `#### ${i.name}\n`
+    text += '\n'
+    const body = i.body.replace(/<condition id="(.*?)"\/?>/g, function(m,p1) {
+      return `*${p1}*`
+    })
+    text += body
+    text += '\n'
+    text += '\n\n\n\n'
+  }
+
+  write('conditions', text)
 }
