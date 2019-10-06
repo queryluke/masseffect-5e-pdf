@@ -3,6 +3,8 @@ const fm = require('front-matter')
 const _ = require('lodash')
 import listOfChoices from './../../masseffect-5e/plugins/filters/listOfChoices'
 import ordinal from './../../masseffect-5e/plugins/filters/ordinal'
+import article from './../../masseffect-5e/plugins/filters/article'
+import weaponRange from './../../masseffect-5e/plugins/filters/weaponRange'
 
 const xpByCr = [
   {cr: 0, xp: 10},
@@ -40,7 +42,6 @@ const xpByCr = [
   {cr: 29, xp: 135000},
   {cr: 30, xp: 155000}
 ]
-
 
 // potentially rerun certain sections
 const limit = process.argv[2]
@@ -644,4 +645,481 @@ if (limit === 'conditions') {
   }
 
   write('conditions', text)
+}
+
+
+// bestiary
+
+class WeaponAttack {
+  constructor(id, abilityScores, profBonus) {
+    this.weapons = require('./../../masseffect-5e/static/data/weapons')
+    this.id = id
+    this.abilityScores = abilityScores
+    this.profBonus = profBonus
+  }
+
+  attackMod () {
+    const tags = this.tags()
+    let abilityMod = 0
+    const strMod = this.abilityScoreBonus(this.abilityScores.str)
+    const dexMod = this.abilityScoreBonus(this.abilityScores.dex)
+    if (tags.includes('finesse') || tags.includes('recoil')) {
+      abilityMod = strMod > dexMod ? strMod : dexMod
+    } else {
+      abilityMod = this.weapon().type === 'Melee' ? strMod : dexMod
+    }
+    return abilityMod
+  }
+  abilityScoreBonus (score) {
+    return Math.floor((parseInt(score, 10) - 10) / 2)
+  }
+  averageFromDie (die) {
+    if (die) {
+      const array = die.split('d')
+      return Math.floor(parseInt(array[0], 10) * ((parseInt(array[1], 10) + 1) / 2))
+    } else {
+      return 0
+    }
+  }
+  attackType () {
+    return this.weapon().type === 'Melee' ? 'melee' : 'ranged'
+  }
+  rangeType () {
+    return this.weapon().type === 'Melee' ? 'reach' : 'range'
+  }
+  tags () {
+    return this.weapon().properties.map(t => t.toLowerCase().trim())
+  }
+  notableTags () {
+    const notableTags = ['two-handed', 'double tap', 'hip fire', 'burst fire']
+    return this.tags().filter(t => notableTags.includes(t))
+  }
+  damage () {
+    return this.averageFromDie(this.weapon().damage) + this.attackMod()
+  }
+  damageText () {
+    const npcHit = this.weapon().npcHit ? ` and ${this.weapon().npcHit}` : ''
+    const attackModText = this.attackMod() > 0 ? ` + ${this.attackMod()}` : ''
+    return `${this.damage()} (${this.weapon().damage}${attackModText}) ${this.weapon().dmgType} damage${npcHit}`
+  }
+  weapon () {
+    let weapon = this.weapons.find(w => w.id === this.id)
+    if (typeof (weapon) === 'undefined') {
+      console.log(`could not find ${this.id}`)
+      weapon = {
+        name: 'NOT FOUND',
+        tags: '',
+        type: '',
+        damage: '1d4',
+        range: 2
+      }
+    }
+    return weapon
+  }
+}
+
+class Monster {
+  constructor(data) {
+    this.adept = require('./../../masseffect-5e/static/data/classes/adept.json')
+    this.spells = require('./../../masseffect-5e/static/data/spells.json')
+    this.skillsMap = {
+      acrobatics: 'dex',
+      athletics: 'str',
+      deception: 'cha',
+      electronics: 'int',
+      engineering: 'int',
+      history: 'int',
+      insight: 'wis',
+      intimidation: 'cha',
+      investigation: 'int',
+      medicine: 'wis',
+      perception: 'wis',
+      performance: 'cha',
+      persuasion: 'cha',
+      science: 'int',
+      'sleight_of_hand': 'dex',
+      stealth: 'dex',
+      survival: 'wis',
+      'vehicle_handling': 'dex'
+    }
+    this.abilityMap = {
+      str: 'Strength',
+      dex: 'Dexterity',
+      con: 'Constitution',
+      int: 'Intelligence',
+      wis: 'Wisdom',
+      cha: 'Charisma'
+    }
+    this.barrierFeature = {
+      name: 'Barrier'
+    }
+    this.stats = data
+  }
+  hitPoints () {
+    let mod = this.abilityScoreBonus(this.stats.abilityScores.con) * this.stats.hp.numDice
+    const average = this.averageFromDie(`${this.stats.hp.numDice}d${this.stats.hp.die}`) + mod
+    if (mod > 0) {
+      mod = ` + ${mod}`
+    } else if (mod < 0) {
+      mod = ` - ${mod * -1}`
+    } else {
+      mod = ''
+    }
+    return `${average} (${this.stats.hp.numDice}d${this.stats.hp.die}${mod})`
+  }
+  legendaryActions () {
+    if (this.stats.legendaryActions) {
+      const actions = this.stats.legendaryActions
+      return actions.sort((a, b) => {
+        return a.cost === b.cost
+            ? a.name > b.name ? 1 : -1
+            : a.cost > b.cost ? 1 : -1
+      })
+    }
+    return []
+  }
+  passivePerception () {
+    const skillText = this.skills()
+    const hasPerception = skillText && skillText.match(/perception/) ? this.stats.profBonus : 0
+    return `Passive Perception ${10 + this.abilityScoreBonus(this.stats.abilityScores.wis) + hasPerception}`
+  }
+  savingThrows () {
+    return this.stats.savingThrows.map(st => {
+      const name = this.abilityMap[st]
+      let bonus = this.abilityScoreBonus(this.stats.abilityScores[st]) + parseInt(this.stats.profBonus, 10)
+      bonus = bonus > 0 ? bonus : 0
+      return `${name} +${bonus}`
+    }).join(', ')
+  }
+  senses () {
+    let senses = ''
+    if (this.stats.senses && this.stats.senses.length > 0) {
+      senses = this.stats.senses.map(s => `${s.sense} ${s.range}m`).join(', ')
+      // return this.stats.senses.map(s => `${s.sense} ${s.range}m`).push(this.passivePerception)
+    }
+    return senses === '' ? this.passivePerception() : `${senses}, ${this.passivePerception()}`
+  }
+  skills () {
+    if (this.stats.skills.length === 0) {
+      return false
+    }
+    return this.stats.skills.map(skillKey => {
+      let skill = skillKey
+      let bonus = this.stats.profBonus
+      if (skill.match(/\*/)) {
+        bonus *= 2
+        skill = skill.replace('*', '')
+      }
+      const ability = this.skillsMap[skill]
+      if (!ability) {
+        console.log(`could not find ${skill} from ${this.stats.name}`)
+        return false
+      }
+      const score = this.stats.abilityScores[ability]
+      bonus += this.abilityScoreBonus(score)
+      return `${_.startCase(skill)} +${bonus}`
+    }).join(', ')
+  }
+  speed () {
+    return this.stats.speed.map(speed => {
+      return speed.type === 'walk' ? `${speed.range}m` : `${speed.type} ${speed.range}m`
+    }).join(', ')
+  }
+  spellSaveDc () {
+    return 8 + this.spellHit()
+  }
+  spellHit () {
+    if (this.stats.spellcasting) {
+      return this.stats.profBonus + this.abilityScoreBonus(this.stats.abilityScores[this.stats.spellcasting.mod])
+    }
+    return 0
+  }
+  regen () {
+    if (this.stats.sp && this.stats.sp.regen) {
+      const regen = parseInt(this.stats.sp.regen, 10)
+      if (regen > 0) {
+        return regen
+      }
+    }
+    return 0
+  }
+  abilityBonus (score) {
+    const abilityScoreBonus = this.abilityScoreBonus(score)
+    return abilityScoreBonus >= 0 ? `+${abilityScoreBonus}` : abilityScoreBonus
+  }
+  hasFeature (feature) {
+    return this.stats[feature] && this.stats[feature].length > 0
+  }
+  abilityScoreBonus (score) {
+    return Math.floor((parseInt(score, 10) - 10) / 2)
+  }
+  averageFromDie (die) {
+    if (die) {
+      const array = die.split('d')
+      return Math.floor(parseInt(array[0], 10) * ((parseInt(array[1], 10) + 1) / 2))
+    } else {
+      return 0
+    }
+  }
+  spellList () {
+    const spellList = []
+    Object.entries(this.spellSlots()).forEach(([key, value]) => {
+      if (value) {
+        const spellsInLevel = this.castable().filter(s => parseInt(s.level, 10) === parseInt(key, 10))
+        spellList.push({level: key, slots: value, spells: spellsInLevel})
+      }
+    })
+    return spellList
+  }
+  cantrips () {
+    return this.castable().filter(s => parseInt(s.level, 10) === 0)
+  }
+  spellSlots () {
+    return this.adept.progression.find(p => parseInt(p.level, 10) === parseInt(this.stats.spellcasting.level, 10)).spellSlots
+  }
+  castable () {
+    return this.spells.filter(s => this.stats.spellcasting.spellList.includes(s.id))
+  }
+}
+
+const xpTable = {
+      '0': 10,
+      '1/8': 25,
+      '1/4': 50,
+      '1/2': 100,
+      '1': 200,
+      '2': 450,
+      '3': 700,
+      '4': 1100,
+      '5': 1800,
+      '6': 2300,
+      '7': 2900,
+      '8': 3900,
+      '9': 5000,
+      '10': 5900,
+      '11': 7200,
+      '12': 8400,
+      '13': 10000,
+      '14': 11500,
+      '15': 13000,
+      '16': 15000,
+      '17': 18000,
+      '18': 20000,
+      '19': 22000,
+      '20': 25000,
+      '21': 33000,
+      '22': 41000,
+      '23': 50000,
+      '24': 62000,
+      '25': 75000,
+      '26': 90000,
+      '27': 105000,
+      '28': 120000,
+      '29': 135000,
+      '30': 155000
+}
+
+
+if (limit === 'bestiary') {
+  const items = _.sortBy(
+      _.chain(require('./../../masseffect-5e/static/data/bestiary.json'))
+    .groupBy('unit').map((value, key) => ({ unit: key, items: value })).value(),
+      ['unit'])
+
+  const grenades = mdFiles('grenades')
+
+
+  let text = '';
+
+  for (const i of items) {
+    text += `## ${i.unit}\n\n`
+
+    for (const j of i.items) {
+      const m = new Monster(j)
+      if (j.reactions.length > 0 || j.legendaryActions.length > 0 || j.lairActions.length > 0 || j.actions.length + j.features.length > 7) {
+        text += '___\n'
+      }
+      text += '___\n'
+      text += `> ## ${j.name}\n`
+      text += `> *${j.size} ${_.lowerCase(j.type)}, ${_.lowerCase(j.alignment)}*\n`
+
+      // Basic Stats
+      text += `> ___\n`
+      text += `> - **Armor Class** ${j.ac}\n`
+      text += `> - **Hit Points** ${m.hitPoints()}\n`
+      if (j.sp) {
+        text += `> - **Shield Points** ${ j.sp.shields } (regen ${ m.regen() })\n`
+      }
+      if (j.barrier) {
+        text += `> - **Barrier Ticks** ${ j.barrier }\n`
+      }
+      text += `> - **Speed** ${m.speed()}\n`
+
+      // Ability Scores
+      text += `> ___\n`
+      const scoreKeys = []
+      const scores = []
+      _.forEach(j.abilityScores, function(value, key) {
+        scoreKeys.push(key.toUpperCase())
+        scores.push(`${value} (${m.abilityBonus(value)})`)
+      });
+      text += `> |${scoreKeys.join('|')}|\n`
+      text += '> |:---:|:---:|:---:|:---:|:---:|:---:|\n'
+      text += `> |${scores.join('|')}|\n`
+
+      // Immunities and Skills
+      text += `> ___\n`
+      if (m.hasFeature('savingThrows')) {
+        text += `> - **Saving Throws** ${m.savingThrows()}\n`
+      }
+      if (m.skills()) {
+        text += `> - **Skills** ${m.skills()}\n`
+      }
+      if (m.hasFeature('damageVulnerabilities')) {
+        text += `> - **Damage Vulnerabilities** ${j.damageVulnerabilities.join(', ')}\n`
+      }
+      if (m.hasFeature('damageResistances')) {
+        text += `> - **Damage Resistances** ${j.damageResistances.join(', ')}\n`
+      }
+      if (m.hasFeature('damageImmunities')) {
+        text += `> - **Damage Immunities** ${j.damageImmunities.join(', ')}\n`
+      }
+      if (m.hasFeature('conditionImmunities')) {
+        text += `> - **Condition Immunities** ${j.conditionImmunities.join(', ')}\n`
+      }
+      text += `> - **Senses** ${m.senses()}\n`
+      text += `> - **Challenge** ${j.cr} (${xpTable[j.cr]} XP)\n`
+
+
+      // Features
+      text += `> ___\n`
+      for (const feature of j.features) {
+        const recharge = feature.recharge ? ` (${feature.recharge})` : ''
+        text += `> ***${feature.name}${recharge}.*** ${feature.description}\n`
+        text += '>\n'
+      }
+
+      // Spellcasting
+      if (j.spellcasting) {
+        if (j.spellcasting.level === 'innate') {
+          text += `> ***Innate Spellcasting.*** The ${j.name.toLowerCase()}'s innate spellcasting ability is ${ m.abilityMap[j.spellcasting.mod] } (spell save DC ${ m.spellSaveDc() }, +${ m.spellHit() } to hit with spell attacks). It can innately cast the following:\n`
+          text += '> \n'
+          for (const level of j.spellcasting.spellList) {
+            const spellList = level.spells.map(s => {
+              let st = `${s.id}`
+              if (s.higherLevel) {
+                st += ` (as a ${ordinal(s.higherLevel)}-level spell)`
+              }
+              return st
+            })
+            text += `> ${ level.perDay }: *${spellList.join(', ')}*\n`
+            text += '> \n'
+          }
+        } else {
+          text += `> ***Spellcasting.*** The ${j.name.toLowerCase()} is ${article(j.spellcasting.level)} ${ordinal(j.spellcasting.level)}-level spellcaster. Its spellcasting ability is ${ m.abilityMap[j.spellcasting.mod] } (spell save DC ${ m.spellSaveDc() }, +${ m.spellHit() } to hit with spell attacks). The ${ j.name.toLowerCase() } has the following spells:\n`
+          text += '> \n'
+          if (m.cantrips().length) {
+            text += `> Cantrips (at will): *${m.cantrips().map(s => s.name.toLowerCase()).join(', ')}*\n`
+            text += '> \n'
+          }
+          for (const s of m.spellList()) {
+            const list = s.spells.length > 0 ? `: *${s.spells.map(sp => sp.name.toLowerCase()).join(', ')}*` : ''
+            text += `> ${ordinal(s.level)} level (${s.slots} slot${s.slots > 1 ? 's' : ''})${list}\n`
+            text += '> \n'
+          }
+        }
+      }
+
+      // Actions
+      if (m.hasFeature('actions')) {
+        text += '> ### Actions\n'
+        for (const action of j.actions) {
+          switch (action.type) {
+            case 'standard':
+              const recharge = action.recharge ? ` (${action.recharge})` : ''
+              text += `> ***${action.name}${recharge}.*** ${action.description}\n`
+              text += '>\n'
+              break
+            case 'weapon':
+              const weapon = new WeaponAttack(action.id, j.abilityScores, j.profBonus)
+              text += `> ***${weapon.weapon().name}`
+              if (weapon.notableTags().length > 0) {
+                text += ` (${weapon.notableTags().join(', ')})`
+              }
+              text += `.*** *${_.startCase(weapon.attackType())} Weapon Attack:* +${weapon.attackMod()} to hit, ${weapon.rangeType()} ${weaponRange(weapon.weapon())}, one target. *Hit:* ${weapon.damageText()}`
+              if(weapon.weapon().npcMiss) {
+                text += ` *Miss:* ${weapon.weapon().npcMiss}.`
+              }
+              text += '\n>\n'
+              break
+            case 'grenade':
+              const grenade = grenades.find(g => g.id === action.id)
+              const body = grenade.body.replace(/__At higher marks__:?\.?(.*?)\./i,'').replace(/<condition id="(.*?)"\/?>/g, function(m,p1) {
+                return `*${p1}*`
+              })
+              text += `> ***${grenade.name} (${j.profBonus}/day).*** ${body}`
+              text += '\n>\n'
+              break
+            default:
+              let range = ''
+              if (action.type === 'melee') {
+                range = `reach ${action.range}m`
+              }
+              if (action.type === 'ranged') {
+                range = `range ${action.range}/${action.range * 3}m`
+              }
+              text += `> ***${action.name}.*** *${_.startCase(action.type)} Weapon Attack:* +${action.attackMod} to hit, ${range}, ${action.target}. *Hit:* ${action.hit}`
+              if(action.miss) {
+                text += ` *Miss:* ${action.miss}.`
+              }
+              text += '\n>\n'
+              break
+
+          }
+        }
+      }
+
+      // Legendary Actions
+      if (m.hasFeature('legendaryActions')) {
+        text += '> ### Legendary Actions\n'
+        text += `> The ${ j.name.toLowerCase() } can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The ${ j.name.toLowerCase() } regains spent legendary actions at the start of its turn.\n`
+        text += '>\n'
+        for (const action of j.legendaryActions) {
+          const cost = action.cost > 1 ? ` (costs ${action.cost} actions)` : ''
+          text += `> ***${action.name}${cost}.*** ${action.description}\n`
+          text += '>\n'
+        }
+      }
+
+      // Lair Actions
+      if (m.hasFeature('lairActions')) {
+        text += '> ### Lair Actions\n'
+        text += `> On initiative count 20 (losing initiative ties), the ${ j.name.toLowerCase() } takes a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:\n`
+        for (const action of j.lairActions) {
+          text += `> - ${action.description}\n`
+        }
+        text += '>\n'
+      }
+
+      // Reactions
+      if (m.hasFeature('reactions')) {
+        text += '> ### Reactions\n'
+        for (const action of j.reactions) {
+          const recharge = action.recharge ? ` (${action.recharge})` : ''
+          text += `> ***${action.name}${recharge}.*** ${action.description}\n`
+          text += '>\n'
+        }
+      }
+
+      text += '\n\n'
+
+
+    }
+
+    text += '\n\n\n\n'
+
+  }
+
+
+  write('bestiary', text)
 }
