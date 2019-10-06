@@ -1119,9 +1119,13 @@ if (limit === 'bestiary') {
 
       text += '\n\n'
 
+      text += '<div class=\'pageNumber auto\'></div>\n'
+      text += '<div class=\'footnote\'>APPENDIX H | BESTIARY</div>\n'
+      text += '\\page\n'
     }
 
     text += '\n\n\n\n'
+
 
   }
 

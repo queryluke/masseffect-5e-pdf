@@ -40,6 +40,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/starwars/images/e/e2/Kathhound.jpg/revision/latest/scale-to-width-down/439?cb=20091106175830" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Elcor
 > *Large organic, lawful neutral*
@@ -68,6 +71,9 @@ ___
 
 <img src="https://pre00.deviantart.net/0c66/th/pre/f/2012/139/9/3/mass_effect__elcor_warriors_by_lipatov-d50d2p0.jpg" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Harvester
@@ -112,6 +118,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/92/ME2_Harvester.jpg/revision/latest/scale-to-width-down/200?cb=20100210004033" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Horned Kath Hound
 > *Medium organic, unaligned*
@@ -145,6 +154,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/starwars/images/5/5b/HornedKathhound.jpg/revision/latest/scale-to-width-down/448?cb=20091107052416" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Kath Hound
 > *Medium organic, unaligned*
@@ -176,6 +188,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/swtor/images/5/5c/Khound.png/revision/latest/scale-to-width-down/476?cb=20150207213717" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Klixen
 > *Medium organic, unaligned*
@@ -207,6 +222,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/2f/ME2_Klixen.PNG/revision/latest/scale-to-width-down/350?cb=20100703065034" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Pyjak
 > *Small organic, unaligned*
@@ -231,6 +249,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c4/Spacemonkey.jpg/revision/latest/scale-to-width-down/200?cb=20080727175830" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Thresher Maw
@@ -283,6 +304,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9e/Thresher_Maw_ME2.png/revision/latest?cb=20100704014552" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Varren
 > *Medium organic, unaligned*
@@ -310,6 +334,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/f/f5/Varren.png/revision/latest?cb=20100220175817" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Varren Alpha
 > *Large organic, unaligned*
@@ -337,6 +364,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/6/63/Codex_ME_-_Varren.png/revision/latest/scale-to-width-down/200?cb=20140820063614" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Yahg
 > *Large organic, chaotic evil*
@@ -372,6 +402,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/34/ME3_Yahg.png/revision/latest/scale-to-width-down/230?cb=20120322212821" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -410,6 +443,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e6/Codex_ME_-_Mass_Accelerators.png/revision/latest?cb=20140820141725" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Salarian STG Agent
 > *Medium organic, lawful neutral*
@@ -454,6 +490,9 @@ by 1 for each mark above the first.
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/7/7c/STG_busybodies.png/revision/latest/scale-to-width-down/640?cb=20141208193957" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -488,6 +527,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/05/Blood_Pack_Boom-Squad.png/revision/latest/scale-to-width-down/388?cb=20100621053021" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Blood Pack Pyro
@@ -521,6 +563,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ec/Blood_Pack_Pyro.png/revision/latest/scale-to-width-down/348?cb=20100621053224" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Blood Pack Trooper
@@ -556,6 +601,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/80/ME2_blood_pack_trooper.png/revision/latest/scale-to-width-down/305?cb=20140516115803" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Blood Pack Warlord
 > *Medium organic, chaotic evil*
@@ -593,6 +641,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b6/ME3_Krogan_Warlord_Sentinel.png/revision/latest/scale-to-width-down/240?cb=20130227103010" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Blood Pack Warrior
 > *Medium organic, chaotic evil*
@@ -625,6 +676,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e8/Blood_Pack_Warrior.png/revision/latest/scale-to-width-down/352?cb=20100621023223" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -666,6 +720,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/22/Blue_Suns_Centurion.png/revision/latest/scale-to-width-down/348?cb=20100621022434" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Blue Suns Heavy
@@ -696,6 +753,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Blue_Suns_Heavy.png/revision/latest/scale-to-width-down/348?cb=20100621035327" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Blue Suns Legate
@@ -739,6 +799,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8c/Blue_Suns_Commander.png/revision/latest/scale-to-width-down/369?cb=20100626053904" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Blue Suns Legionnaire
@@ -778,6 +841,9 @@ A creature must also make the saving throw when it enters the burning space for 
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/94/Blue_Suns_Legionnaire.png/revision/latest/scale-to-width-down/369?cb=20100626080854" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Blue Suns Pyro
 > *Medium organic, neutral*
@@ -804,6 +870,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c2/Blue_Suns_Pyro_2.png/revision/latest/scale-to-width-down/347?cb=20100621035042" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Blue Suns Trooper
 > *Medium organic, neutral*
@@ -829,6 +898,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/1/13/Blue_Suns_Trooper.png/revision/latest/scale-to-width-down/369?cb=20100626054323" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -873,6 +945,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/98/ME3_adjutant.png/revision/latest/scale-to-width-down/700?cb=20121128185320" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Assault Trooper
 > *Medium organic, neutral*
@@ -904,6 +979,9 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1c/ME3_Cerberus_Assault_Trooper.png/revision/latest/scale-to-width-down/514?cb=20120322151133" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Atlas
@@ -953,6 +1031,9 @@ disperse the smoke after 1 round, and a strong wind (21 or more miles per hour) 
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/1/16/ME3_Cerberus_Atlas.png/revision/latest/scale-to-width-down/700?cb=20120322140845" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Centurion
 > *Medium organic, neutral*
@@ -996,6 +1077,9 @@ disperse the smoke after 1 round, and a strong wind (21 or more miles per hour) 
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/ME3_Cerberus_Centurion.png/revision/latest/scale-to-width-down/417?cb=20120322145316" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Combat Engineer
 > *Medium organic, neutral*
@@ -1026,6 +1110,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/5/54/ME3_Cerberus_Combat_Engineer.png/revision/latest/scale-to-width-down/214?cb=20120322145158" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Dragoon
 > *Medium organic, neutral evil*
@@ -1056,6 +1143,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/01/Cerberus_dragoon_smash.png/revision/latest?cb=20121013090412" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Guardian
 > *Medium organic, neutral*
@@ -1085,6 +1175,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/ME3_Cerberus_Guardian.png/revision/latest/scale-to-width-down/350?cb=20120321201359" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Nemesis
 > *Medium organic, neutral evil*
@@ -1118,6 +1211,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/a/aa/ME3_Cerberus_Nemesis.png/revision/latest/scale-to-width-down/338?cb=20120314005634" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Phantom
 > *Medium organic, neutral evil*
@@ -1153,6 +1249,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4d/ME3_Cerberus_Phantom.png/revision/latest/scale-to-width-down/699?cb=20120325214910" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Weakened Adjutant
 > *Large synorg, lawful evil*
@@ -1183,6 +1282,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/46/EPP_-_adjutant_1.png/revision/latest/scale-to-width-down/640?cb=20121202170742" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -1222,6 +1324,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/6/69/Collector_Assassin.png/revision/latest/scale-to-width-down/350?cb=20100623060453" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Collector Captain
 > *Medium organic, lawful evil*
@@ -1259,6 +1364,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8f/Collector_CapME3.jpg/revision/latest/scale-to-width-down/335?cb=20121201212047" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Collector Drone
 > *Medium organic, lawful evil*
@@ -1290,6 +1398,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a3/Collector.png/revision/latest/scale-to-width-down/331?cb=20100130000709" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Collector General
@@ -1337,6 +1448,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3c/Collectors_Leader_Character_Shot.png/revision/latest/scale-to-width-down/350?cb=20091119091650" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Collector Guardian
 > *Medium organic, lawful evil*
@@ -1374,6 +1488,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/ce/Collector_Guardian.png/revision/latest/scale-to-width-down/350?cb=20100623060233" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Collector Trooper
 > *Medium organic, lawful evil*
@@ -1413,6 +1530,9 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/d/d3/Collector_TrooperME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212208" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Praetorian
@@ -1452,6 +1572,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/09/PraetorianME3.jpg/revision/latest/scale-to-width-down/700?cb=20121201212320" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Seeker Plague
 > *Small organic, lawful evil*
@@ -1478,6 +1601,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9f/SwarmME3_Plague.jpg/revision/latest/scale-to-width-down/350?cb=20121201212536" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Seeker Swarm
 > *Small organic, lawful evil*
@@ -1501,6 +1627,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8f/SwarmME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212516" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -1547,6 +1676,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/Eclipse_Commando.png/revision/latest?cb=20100625014253" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Eclipse Engineer
@@ -1585,6 +1717,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/25/Eclipse_Engineer.png/revision/latest?cb=20100625014624" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Eclipse Heavy
 > *Medium organic, neutral*
@@ -1609,6 +1744,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4d/Eclipse_Heavy.png/revision/latest?cb=20100624034136" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Eclipse Operative
@@ -1648,6 +1786,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/92/Eclipse_Operative.png/revision/latest?cb=20100704072730" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Eclipse Trooper
 > *Medium organic, neutral*
@@ -1680,6 +1821,9 @@ by 1 for each mark above the first.
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9e/Eclipse_Trooper.png/revision/latest?cb=20100625014426" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Eclipse Vanguard
@@ -1719,6 +1863,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/45/Eclipse_Vanguard.png/revision/latest?cb=20100624033844" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Security Guard
 > *Medium organic, neutral*
@@ -1741,6 +1888,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1a/Eclipse_Security_Guard.png/revision/latest?cb=20100720085554" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -1782,6 +1932,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a9/ArmatureLanding.png/revision/latest/scale-to-width-down/350?cb=20090125024722" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Bomber
 > *Small synthetic, lawful neutral*
@@ -1818,6 +1971,9 @@ On a failed save, a creature takes 1d4 piercing damage or half as much on a succ
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/01/ME3_geth_bomber_AAA.png/revision/latest/scale-to-width-down/700?cb=20130313175937" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Geth Colossus
@@ -1863,6 +2019,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/6/64/Geth_Colossus_01.jpg/revision/latest/scale-to-width-down/350?cb=20080922231050" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Hunter
 > *Medium synthetic, lawful neutral*
@@ -1896,6 +2055,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/b/be/ME3_Geth_Hunter.png/revision/latest/scale-to-width-down/300?cb=20120326002931" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Juggernaut
 > *Large synthetic, lawful neutral*
@@ -1928,6 +2090,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a4/Geth_Destroyer_ME2.png/revision/latest/scale-to-width-down/350?cb=20100625040647" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Geth Prime
@@ -1975,6 +2140,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c9/ME3_Geth_Prime.png/revision/latest/scale-to-width-down/229?cb=20120403192110" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Stalker
 > *Medium synthetic, lawful neutral*
@@ -2017,6 +2185,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ec/ME_geth_stalker.png/revision/latest/scale-to-width-down/350?cb=20130517141111" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Trooper
 > *Medium synthetic, lawful neutral*
@@ -2046,6 +2217,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/cf/ME3_Geth_Trooper.png/revision/latest/scale-to-width-down/238?cb=20120315171310" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Geth Turret
 > *Small synthetic, lawful neutral*
@@ -2074,6 +2248,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b0/ME3_Geth_Turret.png/revision/latest/scale-to-width-down/350?cb=20120326000908" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -2109,6 +2286,9 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/f/fd/MEA_Enemy_Chosen.png/revision/latest?cb=20170705200934" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -2141,6 +2321,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ea/Defense_Drone.png/revision/latest/scale-to-width-down/606?cb=20120407052056" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Combat Drone
 > *Small synthetic, neutral*
@@ -2171,6 +2354,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/44/Me3_combat_drone.png/revision/latest/scale-to-width-down/480?cb=20120720164039" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Defense Drone
@@ -2201,6 +2387,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Info_Drone.png/revision/latest/scale-to-width-down/531?cb=20100908213419" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Disruption Drone
 > *Small synthetic, neutral*
@@ -2226,6 +2415,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b6/ME3_disruption_drone.png/revision/latest/scale-to-width-down/350?cb=20130308125421" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## FENRIS Mech
 > *Small synthetic, neutral*
@@ -2263,6 +2455,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/32/ME2_FENRIS_Mech.png/revision/latest/scale-to-width-down/350?cb=20120419003938" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## LOKI Mech
 > *Medium synthetic, neutral*
@@ -2301,6 +2496,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c0/ME2_Loki_Mech.png/revision/latest?cb=20120917060158" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Rampart Mech
 > *Medium synthetic, neutral*
@@ -2338,6 +2536,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/6/60/ME3-Rampart-Mech.png/revision/latest/scale-to-width-down/287?cb=20121128090615" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Recon Drone
 > *Small synthetic, neutral*
@@ -2367,6 +2568,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/29/Geth_Recon_Drone_ME2.png/revision/latest/scale-to-width-down/350?cb=20100627032507" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Repair Drone
 > *Small synthetic, neutral*
@@ -2399,6 +2603,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/21/Maintenance_Drone.png/revision/latest/scale-to-width-down/350?cb=20100909024927" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Rocket Drone
 > *Small synthetic, neutral*
@@ -2424,6 +2631,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/2f/Virmire_geth_rocket_drone.png/revision/latest/scale-to-width-down/640?cb=20091209133938" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Sentry Turret
 > *Small synthetic, neutral*
@@ -2455,6 +2665,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/f/f8/ME3_Sentry_Turret.png/revision/latest/scale-to-width-down/100?cb=20180206214039" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Turret
 > *Small synthetic, neutral*
@@ -2484,6 +2697,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/0c/ME3_Cerberus_Turret.png/revision/latest/scale-to-width-down/350?cb=20120322141943" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## YMIR Mech
 > *Large synthetic, neutral*
@@ -2516,6 +2732,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/5/5f/ME2_YMIR_Mech.png/revision/latest/scale-to-width-down/700?cb=20120419005946" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -2571,6 +2790,9 @@ or half as much on a successful one.
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/04/N7_Demolisher_Engineer_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151043" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## N7 Paladin
 > *Medium organic, lawful neutral*
@@ -2615,6 +2837,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/83/N7_Paladin_Sentinel_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151128" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## N7 Shadow
 > *Medium organic, lawful neutral*
@@ -2656,6 +2881,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/0/08/N7_Shadow_Infiltrator_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151201" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## N7 Slayer
@@ -2708,6 +2936,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/97/N7_Slayer_Vanguard_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151234" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -2753,6 +2984,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e5/Rachni_Brood_Warrior.PNG/revision/latest/scale-to-width-down/700?cb=20100824160815" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Rachni Queen
@@ -2789,6 +3023,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/3/38/Noveria_rachni_queen.png/revision/latest/scale-to-width-down/700?cb=20090919061419" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Rachni Soldier
 > *Medium organic, unaligned*
@@ -2819,6 +3056,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4f/Codex_ME_-_Rachni.png/revision/latest?cb=20140820042133" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Rachni Worker
 > *Small organic, unaligned*
@@ -2844,6 +3084,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Rachni_Worker.png/revision/latest?cb=20100824223955" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -2877,6 +3120,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8e/AbominationME3.jpg/revision/latest/scale-to-width-down/316?cb=20121201211954" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Banshee
@@ -2924,6 +3170,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/eb/ME3_Banshee.png/revision/latest/scale-to-width-down/548?cb=20120319210941" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Brute
 > *Large synorg, lawful evil*
@@ -2957,6 +3206,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/90/ME3_Brute.png/revision/latest/scale-to-width-down/700?cb=20120320023753" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Cannibal
 > *Medium synorg, lawful evil*
@@ -2993,6 +3245,9 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1b/ME3_Cannibal.png/revision/latest/scale-to-width-down/339?cb=20120320020900" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Husk
 > *Medium synorg, lawful evil*
@@ -3018,6 +3273,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/2/27/ME3_Husk.png/revision/latest/scale-to-width-down/350?cb=20120320012912" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Marauder
 > *Medium synorg, lawful evil*
@@ -3047,6 +3305,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9b/ME3_Marauder.png/revision/latest/scale-to-width-down/219?cb=20120313015215" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Oculus
 > *Large synthetic, lawful evil*
@@ -3075,6 +3336,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ed/Oculus_Combat.png/revision/latest?cb=20100731075649&format=original" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Ravager
 > *Large synorg, lawful evil*
@@ -3104,6 +3368,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/7/7b/ME3_Ravager.png/revision/latest/scale-to-width-down/350?cb=20120319195950" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 ___
 > ## Reaper Harvester
@@ -3141,6 +3408,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/a/ae/ME3_Harvester.png/revision/latest/scale-to-width-down/350?cb=20120320013110" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Scion
 > *Medium synorg, lawful evil*
@@ -3167,6 +3437,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/d/da/ScionME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212433" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Swarmer
 > *Tiny synorg, lawful evil*
@@ -3193,6 +3466,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/82/ME3_Swarmer.png/revision/latest/scale-to-width-down/350?cb=20120319204747" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
@@ -3238,6 +3514,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8a/Thorian_charbox.png/revision/latest/scale-to-width-down/700?cb=20140409103930" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Thorian Controller
 > *Medium organic, lawful evil*
@@ -3269,6 +3548,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ee/Test_subject_hyperres.png/revision/latest/scale-to-width-down/180?cb=20131218143230" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Thorian Creeper
 > *Medium organic, lawful evil*
@@ -3296,6 +3578,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e5/Thorian_Creeper.png/revision/latest/scale-to-width-down/424?cb=20140614190322" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Thorian Nymph
 > *Small organic, lawful evil*
@@ -3322,6 +3607,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/elderscrolls/images/c/c3/Chaurus_3D.png/revision/latest/scale-to-width-down/700?cb=20120612155204" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Thorian Spawn
 > *Small organic, lawful evil*
@@ -3349,6 +3637,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/finalfantasy/images/1/15/Sandragora.jpg/revision/latest?cb=20081018141337" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 ___
 > ## Thorian Thrall
 > *Medium organic, lawful evil*
@@ -3378,6 +3669,9 @@ ___
 
 <img src="https://vignette.wikia.nocookie.net/masseffect/images/e/eb/Feros_Asari_Clone_and_Thorian.png/revision/latest?cb=20090305015251" style="width: 325px" />
 
+<div class='pageNumber auto'></div>
+<div class='footnote'>APPENDIX H | BESTIARY</div>
+\page
 
 
 
