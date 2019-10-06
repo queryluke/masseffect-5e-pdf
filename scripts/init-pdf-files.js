@@ -1113,6 +1113,11 @@ if (limit === 'bestiary') {
 
       text += '\n\n'
 
+      if (j.image) {
+        text += `<img src="${j.image}" style="width: 325px" />`
+      }
+
+      text += '\n\n'
 
     }
 

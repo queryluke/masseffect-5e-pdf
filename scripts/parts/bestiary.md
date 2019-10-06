@@ -38,6 +38,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/starwars/images/e/e2/Kathhound.jpg/revision/latest/scale-to-width-down/439?cb=20091106175830" style="width: 325px" />
+
 ___
 > ## Elcor
 > *Large organic, lawful neutral*
@@ -63,6 +65,8 @@ ___
 > ***Mass Accelerator Cannon.*** *Ranged Weapon Attack:* +6 to hit, range 120/360m, one target. *Hit:* 22 (5d8) radiant damage.
 >
 
+
+<img src="https://pre00.deviantart.net/0c66/th/pre/f/2012/139/9/3/mass_effect__elcor_warriors_by_lipatov-d50d2p0.jpg" style="width: 325px" />
 
 ___
 ___
@@ -106,6 +110,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/92/ME2_Harvester.jpg/revision/latest/scale-to-width-down/200?cb=20100210004033" style="width: 325px" />
+
 ___
 > ## Horned Kath Hound
 > *Medium organic, unaligned*
@@ -137,6 +143,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/starwars/images/5/5b/HornedKathhound.jpg/revision/latest/scale-to-width-down/448?cb=20091107052416" style="width: 325px" />
+
 ___
 > ## Kath Hound
 > *Medium organic, unaligned*
@@ -165,6 +173,8 @@ ___
 > ***Maul.*** *Melee Weapon Attack:* +3 to hit, reach 2m, one target. *Hit:* 10 (2d8 + 1) piercing damage. *Miss:* Hit or miss, if the target is a creature, it must succeed on a DC 12 Dexterity saving throw or be knocked prone and is grappled. A creature takes half damage on a successful saving throw..
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/swtor/images/5/5c/Khound.png/revision/latest/scale-to-width-down/476?cb=20150207213717" style="width: 325px" />
 
 ___
 > ## Klixen
@@ -195,6 +205,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/2f/ME2_Klixen.PNG/revision/latest/scale-to-width-down/350?cb=20100703065034" style="width: 325px" />
+
 ___
 > ## Pyjak
 > *Small organic, unaligned*
@@ -216,6 +228,8 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 2m, one target. *Hit:* 1 (1d4 - 1) piercing damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c4/Spacemonkey.jpg/revision/latest/scale-to-width-down/200?cb=20080727175830" style="width: 325px" />
 
 ___
 ___
@@ -267,6 +281,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9e/Thresher_Maw_ME2.png/revision/latest?cb=20100704014552" style="width: 325px" />
+
 ___
 > ## Varren
 > *Medium organic, unaligned*
@@ -292,6 +308,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/f/f5/Varren.png/revision/latest?cb=20100220175817" style="width: 325px" />
+
 ___
 > ## Varren Alpha
 > *Large organic, unaligned*
@@ -316,6 +334,8 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 2m, one target. *Hit:* 9 (2d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/6/63/Codex_ME_-_Varren.png/revision/latest/scale-to-width-down/200?cb=20140820063614" style="width: 325px" />
 
 ___
 > ## Yahg
@@ -349,6 +369,8 @@ ___
 > ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 4m, one target. *Hit:* 13 (2d8 + 4) slashing damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/34/ME3_Yahg.png/revision/latest/scale-to-width-down/230?cb=20120322212821" style="width: 325px" />
 
 
 
@@ -385,6 +407,8 @@ ___
 > ***M-4 Shuriken (hip fire, burst fire).*** *Ranged Weapon Attack:* +2 to hit, range (4/12m), one target. *Hit:* 7 (2d4 + 2) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e6/Codex_ME_-_Mass_Accelerators.png/revision/latest?cb=20140820141725" style="width: 325px" />
 
 ___
 > ## Salarian STG Agent
@@ -428,6 +452,8 @@ by 1 for each mark above the first.
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/7/7c/STG_busybodies.png/revision/latest/scale-to-width-down/640?cb=20141208193957" style="width: 325px" />
+
 
 
 
@@ -460,6 +486,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/05/Blood_Pack_Boom-Squad.png/revision/latest/scale-to-width-down/388?cb=20100621053021" style="width: 325px" />
+
 ___
 ___
 > ## Blood Pack Pyro
@@ -490,6 +518,8 @@ ___
 > ***Fortification (Recharges after a Short or Long Rest).*** As a reaction to being hit by an attack the pyro can see, it gains a +5 bonus to its AC until the start of its next turn (including against the triggering attack).
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ec/Blood_Pack_Pyro.png/revision/latest/scale-to-width-down/348?cb=20100621053224" style="width: 325px" />
 
 ___
 ___
@@ -523,6 +553,8 @@ ___
 > ***Fortification (Recharges after a Short or Long Rest).*** As a reaction to being hit by an attack the trooper can see, it gains a +5 bonus to its AC until the start of its next turn (including against the triggering attack).
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/80/ME2_blood_pack_trooper.png/revision/latest/scale-to-width-down/305?cb=20140516115803" style="width: 325px" />
 
 ___
 > ## Blood Pack Warlord
@@ -559,6 +591,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b6/ME3_Krogan_Warlord_Sentinel.png/revision/latest/scale-to-width-down/240?cb=20130227103010" style="width: 325px" />
+
 ___
 > ## Blood Pack Warrior
 > *Medium organic, chaotic evil*
@@ -588,6 +622,8 @@ ___
 > ***M-27 Scimitar (two-handed, hip fire, double tap).*** *Ranged Weapon Attack:* +3 to hit, range (4/8m), one target. *Hit:* 8 (2d4 + 3) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e8/Blood_Pack_Warrior.png/revision/latest/scale-to-width-down/352?cb=20100621023223" style="width: 325px" />
 
 
 
@@ -628,6 +664,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/22/Blue_Suns_Centurion.png/revision/latest/scale-to-width-down/348?cb=20100621022434" style="width: 325px" />
+
 ___
 ___
 > ## Blue Suns Heavy
@@ -655,6 +693,8 @@ ___
 > ***Tech Armor.*** As a reaction to taking damage, the heavy can activate its tech armor.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Blue_Suns_Heavy.png/revision/latest/scale-to-width-down/348?cb=20100621035327" style="width: 325px" />
 
 ___
 ___
@@ -697,6 +737,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8c/Blue_Suns_Commander.png/revision/latest/scale-to-width-down/369?cb=20100626053904" style="width: 325px" />
+
 ___
 ___
 > ## Blue Suns Legionnaire
@@ -734,6 +776,8 @@ A creature must also make the saving throw when it enters the burning space for 
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/94/Blue_Suns_Legionnaire.png/revision/latest/scale-to-width-down/369?cb=20100626080854" style="width: 325px" />
+
 ___
 > ## Blue Suns Pyro
 > *Medium organic, neutral*
@@ -758,6 +802,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c2/Blue_Suns_Pyro_2.png/revision/latest/scale-to-width-down/347?cb=20100621035042" style="width: 325px" />
+
 ___
 > ## Blue Suns Trooper
 > *Medium organic, neutral*
@@ -780,6 +826,8 @@ ___
 > ***M-23 Katana (two-handed, hip fire).*** *Ranged Weapon Attack:* +1 to hit, range (4/8m), one target. *Hit:* 8 (2d6 + 1) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/1/13/Blue_Suns_Trooper.png/revision/latest/scale-to-width-down/369?cb=20100626054323" style="width: 325px" />
 
 
 
@@ -823,6 +871,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/98/ME3_adjutant.png/revision/latest/scale-to-width-down/700?cb=20121128185320" style="width: 325px" />
+
 ___
 > ## Assault Trooper
 > *Medium organic, neutral*
@@ -851,6 +901,8 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1c/ME3_Cerberus_Assault_Trooper.png/revision/latest/scale-to-width-down/514?cb=20120322151133" style="width: 325px" />
 
 ___
 ___
@@ -899,6 +951,8 @@ disperse the smoke after 1 round, and a strong wind (21 or more miles per hour) 
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/1/16/ME3_Cerberus_Atlas.png/revision/latest/scale-to-width-down/700?cb=20120322140845" style="width: 325px" />
+
 ___
 > ## Centurion
 > *Medium organic, neutral*
@@ -940,6 +994,8 @@ disperse the smoke after 1 round, and a strong wind (21 or more miles per hour) 
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/ME3_Cerberus_Centurion.png/revision/latest/scale-to-width-down/417?cb=20120322145316" style="width: 325px" />
+
 ___
 > ## Combat Engineer
 > *Medium organic, neutral*
@@ -967,6 +1023,8 @@ ___
 > ***Repair.*** The combat engineer uses its action to repair a friendly, synthetic target within 2m for 1d8 hit points.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/5/54/ME3_Cerberus_Combat_Engineer.png/revision/latest/scale-to-width-down/214?cb=20120322145158" style="width: 325px" />
 
 ___
 > ## Dragoon
@@ -996,6 +1054,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/01/Cerberus_dragoon_smash.png/revision/latest?cb=20121013090412" style="width: 325px" />
+
 ___
 > ## Guardian
 > *Medium organic, neutral*
@@ -1022,6 +1082,8 @@ ___
 > ***M-358 Talon (double tap).*** *Ranged Weapon Attack:* +1 to hit, range (10/30m), one target. *Hit:* 8 (2d6 + 1) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/ME3_Cerberus_Guardian.png/revision/latest/scale-to-width-down/350?cb=20120321201359" style="width: 325px" />
 
 ___
 > ## Nemesis
@@ -1053,6 +1115,8 @@ ___
 > ***M-98 Widow (two-handed).*** *Ranged Weapon Attack:* +5 to hit, range (80/240m), one target. *Hit:* 18 (2d12 + 5) piercing damage and if the target is not behind cover, it takes and additional 1d4 damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/a/aa/ME3_Cerberus_Nemesis.png/revision/latest/scale-to-width-down/338?cb=20120314005634" style="width: 325px" />
 
 ___
 > ## Phantom
@@ -1087,6 +1151,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4d/ME3_Cerberus_Phantom.png/revision/latest/scale-to-width-down/699?cb=20120325214910" style="width: 325px" />
+
 ___
 > ## Weakened Adjutant
 > *Large synorg, lawful evil*
@@ -1114,6 +1180,8 @@ ___
 > ***Reaper Infection.*** *Melee Weapon Attack:* +2 to hit, reach 2m, one organic creature that is grappled by the [name], incapacitated, or restrained. *Hit:* 3 (1d6) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. An organic creature slain in this way becomes a Weakened Adjutant and becomes an Adjutant after a long rest.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/46/EPP_-_adjutant_1.png/revision/latest/scale-to-width-down/640?cb=20121202170742" style="width: 325px" />
 
 
 
@@ -1152,6 +1220,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/6/69/Collector_Assassin.png/revision/latest/scale-to-width-down/350?cb=20100623060453" style="width: 325px" />
+
 ___
 > ## Collector Captain
 > *Medium organic, lawful evil*
@@ -1187,6 +1257,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8f/Collector_CapME3.jpg/revision/latest/scale-to-width-down/335?cb=20121201212047" style="width: 325px" />
+
 ___
 > ## Collector Drone
 > *Medium organic, lawful evil*
@@ -1215,6 +1287,8 @@ ___
 > ***Collector Assault Rifle (burst fire, two-handed).*** *Ranged Weapon Attack:* +0 to hit, range (20/60m), one target. *Hit:* 10 (4d4) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a3/Collector.png/revision/latest/scale-to-width-down/331?cb=20100130000709" style="width: 325px" />
 
 ___
 ___
@@ -1261,6 +1335,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3c/Collectors_Leader_Character_Shot.png/revision/latest/scale-to-width-down/350?cb=20091119091650" style="width: 325px" />
+
 ___
 > ## Collector Guardian
 > *Medium organic, lawful evil*
@@ -1295,6 +1371,8 @@ ___
 > ***Hex Shield (1/Day).*** As a bonus action, the collector guardian generates a 2m tall and wide, hexagon-shaped shield with 5AC and 50 shield points which offers full-cover.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/ce/Collector_Guardian.png/revision/latest/scale-to-width-down/350?cb=20100623060233" style="width: 325px" />
 
 ___
 > ## Collector Trooper
@@ -1333,6 +1411,8 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/d/d3/Collector_TrooperME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212208" style="width: 325px" />
+
 ___
 ___
 > ## Praetorian
@@ -1370,6 +1450,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/09/PraetorianME3.jpg/revision/latest/scale-to-width-down/700?cb=20121201212320" style="width: 325px" />
+
 ___
 > ## Seeker Plague
 > *Small organic, lawful evil*
@@ -1394,6 +1476,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9f/SwarmME3_Plague.jpg/revision/latest/scale-to-width-down/350?cb=20121201212536" style="width: 325px" />
+
 ___
 > ## Seeker Swarm
 > *Small organic, lawful evil*
@@ -1414,6 +1498,8 @@ ___
 > ***Sting.*** *Melee Weapon Attack:* +2 to hit, reach 2m, one target. *Hit:* 2 (1d4) poison damage and the target must succeed on a DC 13 Constitution saving throw or has disadvantage on its next attack roll.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8f/SwarmME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212516" style="width: 325px" />
 
 
 
@@ -1459,6 +1545,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/3f/Eclipse_Commando.png/revision/latest?cb=20100625014253" style="width: 325px" />
+
 ___
 ___
 > ## Eclipse Engineer
@@ -1495,6 +1583,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/25/Eclipse_Engineer.png/revision/latest?cb=20100625014624" style="width: 325px" />
+
 ___
 > ## Eclipse Heavy
 > *Medium organic, neutral*
@@ -1516,6 +1606,8 @@ ___
 > ***ML-77 Missile Launcher (5 charges).*** Choose a creature within 60m that you can see and fire a missile at it. Each creature within a 4m cube of the target, including the target, must make a DC 14 Dexterity saving throw. On a failed save a creature takes 39 (6d12) thunder damage or half as much on a successful one.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4d/Eclipse_Heavy.png/revision/latest?cb=20100624034136" style="width: 325px" />
 
 ___
 ___
@@ -1554,6 +1646,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/92/Eclipse_Operative.png/revision/latest?cb=20100704072730" style="width: 325px" />
+
 ___
 > ## Eclipse Trooper
 > *Medium organic, neutral*
@@ -1583,6 +1677,8 @@ by 1 for each mark above the first.
 
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9e/Eclipse_Trooper.png/revision/latest?cb=20100625014426" style="width: 325px" />
 
 ___
 ___
@@ -1621,6 +1717,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/45/Eclipse_Vanguard.png/revision/latest?cb=20100624033844" style="width: 325px" />
+
 ___
 > ## Security Guard
 > *Medium organic, neutral*
@@ -1640,6 +1738,8 @@ ___
 > ***M-3 Predator (double tap).*** *Ranged Weapon Attack:* +-1 to hit, range (20/60m), one target. *Hit:* 1 (1d4) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1a/Eclipse_Security_Guard.png/revision/latest?cb=20100720085554" style="width: 325px" />
 
 
 
@@ -1680,6 +1780,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a9/ArmatureLanding.png/revision/latest/scale-to-width-down/350?cb=20090125024722" style="width: 325px" />
+
 ___
 > ## Geth Bomber
 > *Small synthetic, lawful neutral*
@@ -1713,6 +1815,8 @@ On a failed save, a creature takes 1d4 piercing damage or half as much on a succ
 
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/01/ME3_geth_bomber_AAA.png/revision/latest/scale-to-width-down/700?cb=20130313175937" style="width: 325px" />
 
 ___
 ___
@@ -1757,6 +1861,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/6/64/Geth_Colossus_01.jpg/revision/latest/scale-to-width-down/350?cb=20080922231050" style="width: 325px" />
+
 ___
 > ## Geth Hunter
 > *Medium synthetic, lawful neutral*
@@ -1788,6 +1894,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/b/be/ME3_Geth_Hunter.png/revision/latest/scale-to-width-down/300?cb=20120326002931" style="width: 325px" />
+
 ___
 > ## Geth Juggernaut
 > *Large synthetic, lawful neutral*
@@ -1817,6 +1925,8 @@ ___
 > ***Geth Plasma SMG (burst fire).*** *Ranged Weapon Attack:* +5 to hit, range (18/54m), one target. *Hit:* 15 (4d4 + 5) radiant damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/a/a4/Geth_Destroyer_ME2.png/revision/latest/scale-to-width-down/350?cb=20100625040647" style="width: 325px" />
 
 ___
 ___
@@ -1863,6 +1973,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c9/ME3_Geth_Prime.png/revision/latest/scale-to-width-down/229?cb=20120403192110" style="width: 325px" />
+
 ___
 > ## Geth Stalker
 > *Medium synthetic, lawful neutral*
@@ -1903,6 +2015,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ec/ME_geth_stalker.png/revision/latest/scale-to-width-down/350?cb=20130517141111" style="width: 325px" />
+
 ___
 > ## Geth Trooper
 > *Medium synthetic, lawful neutral*
@@ -1930,6 +2044,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/cf/ME3_Geth_Trooper.png/revision/latest/scale-to-width-down/238?cb=20120315171310" style="width: 325px" />
+
 ___
 > ## Geth Turret
 > *Small synthetic, lawful neutral*
@@ -1955,6 +2071,8 @@ ___
 > ***Shield Restore (Recharge 5-6).*** The geth turret restores 9 (2d8) shield points to a friendly creature within 4m.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b0/ME3_Geth_Turret.png/revision/latest/scale-to-width-down/350?cb=20120326000908" style="width: 325px" />
 
 
 
@@ -1989,6 +2107,8 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/f/fd/MEA_Enemy_Chosen.png/revision/latest?cb=20170705200934" style="width: 325px" />
+
 
 
 
@@ -2019,6 +2139,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ea/Defense_Drone.png/revision/latest/scale-to-width-down/606?cb=20120407052056" style="width: 325px" />
+
 ___
 > ## Combat Drone
 > *Small synthetic, neutral*
@@ -2046,6 +2168,8 @@ ___
 > ***Shock Attack.*** *Ranged Weapon Attack:* +4 to hit, range 10/30m, one target. *Hit:* 5 (1d6 + 2) lightning damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/44/Me3_combat_drone.png/revision/latest/scale-to-width-down/480?cb=20120720164039" style="width: 325px" />
 
 ___
 ___
@@ -2075,6 +2199,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Info_Drone.png/revision/latest/scale-to-width-down/531?cb=20100908213419" style="width: 325px" />
+
 ___
 > ## Disruption Drone
 > *Small synthetic, neutral*
@@ -2097,6 +2223,8 @@ ___
 > ***Kamikaze Attack.*** When the disruption drone is within 2m of an enemy creature, it explodes. Each creature within a 2m radius must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 1d12 thunder damage, or half as much on a successful one.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/b/b6/ME3_disruption_drone.png/revision/latest/scale-to-width-down/350?cb=20130308125421" style="width: 325px" />
 
 ___
 > ## FENRIS Mech
@@ -2132,6 +2260,8 @@ ___
 > ***Stun.*** *Melee Weapon Attack:* +3 to hit, reach 2m, one prone target. *Hit:* 9 (2d8) lightning damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or be stunned until the end of its next turn.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/32/ME2_FENRIS_Mech.png/revision/latest/scale-to-width-down/350?cb=20120419003938" style="width: 325px" />
 
 ___
 > ## LOKI Mech
@@ -2169,6 +2299,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/c/c0/ME2_Loki_Mech.png/revision/latest?cb=20120917060158" style="width: 325px" />
+
 ___
 > ## Rampart Mech
 > *Medium synthetic, neutral*
@@ -2204,6 +2336,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/6/60/ME3-Rampart-Mech.png/revision/latest/scale-to-width-down/287?cb=20121128090615" style="width: 325px" />
+
 ___
 > ## Recon Drone
 > *Small synthetic, neutral*
@@ -2230,6 +2364,8 @@ ___
 > ***Pulse Rifle.*** *Ranged Weapon Attack:* +5 to hit, range 60/180m, one target. *Hit:* 5 (1d4 + 3) radiant damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/29/Geth_Recon_Drone_ME2.png/revision/latest/scale-to-width-down/350?cb=20100627032507" style="width: 325px" />
 
 ___
 > ## Repair Drone
@@ -2261,6 +2397,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/21/Maintenance_Drone.png/revision/latest/scale-to-width-down/350?cb=20100909024927" style="width: 325px" />
+
 ___
 > ## Rocket Drone
 > *Small synthetic, neutral*
@@ -2283,6 +2421,8 @@ ___
 > ***Distortion Rocket.*** *Ranged Weapon Attack:* +2 to hit, range 30/90m, one target. *Hit:* 7 (2d6) thunder damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/2f/Virmire_geth_rocket_drone.png/revision/latest/scale-to-width-down/640?cb=20091209133938" style="width: 325px" />
 
 ___
 > ## Sentry Turret
@@ -2313,6 +2453,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/f/f8/ME3_Sentry_Turret.png/revision/latest/scale-to-width-down/100?cb=20180206214039" style="width: 325px" />
+
 ___
 > ## Turret
 > *Small synthetic, neutral*
@@ -2339,6 +2481,8 @@ ___
 > ***Mass Accelerator Machinegun.*** *Ranged Weapon Attack:* +2 to hit, range 60/180m, one target. *Hit:* 7 (2d6) piercing damage and 7 (2d6) radiant damage. The turret can make a burst fire attack instead.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/0c/ME3_Cerberus_Turret.png/revision/latest/scale-to-width-down/350?cb=20120322141943" style="width: 325px" />
 
 ___
 > ## YMIR Mech
@@ -2369,6 +2513,8 @@ ___
 > ***Rocket Launcher (Recharge 5-6).*** The ymir mech targets an area within 60m. Each creature within 6m of the target must make a DC 18 Dexterity saving throw. On a failed save, a creature takes 52 (8d12) thunder damage or half as much damage on a successful one.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/5/5f/ME2_YMIR_Mech.png/revision/latest/scale-to-width-down/700?cb=20120419005946" style="width: 325px" />
 
 
 
@@ -2423,6 +2569,8 @@ or half as much on a successful one.
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/04/N7_Demolisher_Engineer_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151043" style="width: 325px" />
+
 ___
 > ## N7 Paladin
 > *Medium organic, lawful neutral*
@@ -2465,6 +2613,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/83/N7_Paladin_Sentinel_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151128" style="width: 325px" />
+
 ___
 > ## N7 Shadow
 > *Medium organic, lawful neutral*
@@ -2503,6 +2653,8 @@ ___
 > ***M-97 Viper (two-handed, double tap).*** *Ranged Weapon Attack:* +4 to hit, range (100/300m), one target. *Hit:* 10 (1d12 + 4) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/0/08/N7_Shadow_Infiltrator_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151201" style="width: 325px" />
 
 ___
 ___
@@ -2554,6 +2706,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/97/N7_Slayer_Vanguard_MP.png/revision/latest/scale-to-width-down/250?cb=20120717151234" style="width: 325px" />
+
 
 
 
@@ -2597,6 +2751,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e5/Rachni_Brood_Warrior.PNG/revision/latest/scale-to-width-down/700?cb=20100824160815" style="width: 325px" />
+
 ___
 ___
 > ## Rachni Queen
@@ -2631,6 +2787,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/3/38/Noveria_rachni_queen.png/revision/latest/scale-to-width-down/700?cb=20090919061419" style="width: 325px" />
+
 ___
 > ## Rachni Soldier
 > *Medium organic, unaligned*
@@ -2659,6 +2817,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/4/4f/Codex_ME_-_Rachni.png/revision/latest?cb=20140820042133" style="width: 325px" />
+
 ___
 > ## Rachni Worker
 > *Small organic, unaligned*
@@ -2681,6 +2841,8 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 2m, one target. *Hit:* 3 (1d6) piercing damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e0/Rachni_Worker.png/revision/latest?cb=20100824223955" style="width: 325px" />
 
 
 
@@ -2712,6 +2874,8 @@ ___
 > ***Grapple.*** *Melee Weapon Attack:* +3 to hit, reach 2m, one target. *Hit:* The creature is grappled (escape DC 11). At the start of the abomination's next turn, it uses Post-Mortem Explosion.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8e/AbominationME3.jpg/revision/latest/scale-to-width-down/316?cb=20121201211954" style="width: 325px" />
 
 ___
 ___
@@ -2758,6 +2922,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/eb/ME3_Banshee.png/revision/latest/scale-to-width-down/548?cb=20120319210941" style="width: 325px" />
+
 ___
 > ## Brute
 > *Large synorg, lawful evil*
@@ -2788,6 +2954,8 @@ ___
 > ***Smash.*** *Melee Weapon Attack:* +9 to hit, reach 2m, one target. *Hit:* 17 (3d8 + 5) bludgeoning damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/90/ME3_Brute.png/revision/latest/scale-to-width-down/700?cb=20120320023753" style="width: 325px" />
 
 ___
 > ## Cannibal
@@ -2823,6 +2991,8 @@ On a failed save, a creature takes 3d12 piercing damage or half as much damage o
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/1/1b/ME3_Cannibal.png/revision/latest/scale-to-width-down/339?cb=20120320020900" style="width: 325px" />
+
 ___
 > ## Husk
 > *Medium synorg, lawful evil*
@@ -2845,6 +3015,8 @@ ___
 > ***Swipe.*** *Melee Weapon Attack:* +3 to hit, reach 2m, one target. *Hit:* 4 (1d6 + 1) slashing damage, and the creature is grappled (escape DC 13). A creature that is grappled by the husk takes 11 (3d6) necrotic damage at the start of each of the husk's turns. The husk can't make swipe attacks on any other target while grappling a creature in this way.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/2/27/ME3_Husk.png/revision/latest/scale-to-width-down/350?cb=20120320012912" style="width: 325px" />
 
 ___
 > ## Marauder
@@ -2873,6 +3045,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/9/9b/ME3_Marauder.png/revision/latest/scale-to-width-down/219?cb=20120313015215" style="width: 325px" />
+
 ___
 > ## Oculus
 > *Large synthetic, lawful evil*
@@ -2898,6 +3072,8 @@ ___
 > ***Crush.*** *Melee Weapon Attack:* +3 to hit, reach 10m, one target. *Hit:* 17 (4d6 + 3) bludgeoning damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ed/Oculus_Combat.png/revision/latest?cb=20100731075649&format=original" style="width: 325px" />
 
 ___
 > ## Ravager
@@ -2925,6 +3101,8 @@ ___
 > ***Twin Artillery Cannons.*** *Ranged Weapon Attack:* +5 to hit, range 60/180m, one target. *Hit:* 18 (3d10 + 2) piercing damage and 10 (3d6) acid damage.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/7/7b/ME3_Ravager.png/revision/latest/scale-to-width-down/350?cb=20120319195950" style="width: 325px" />
 
 ___
 ___
@@ -2961,6 +3139,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/a/ae/ME3_Harvester.png/revision/latest/scale-to-width-down/350?cb=20120320013110" style="width: 325px" />
+
 ___
 > ## Scion
 > *Medium synorg, lawful evil*
@@ -2985,6 +3165,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/d/da/ScionME3.jpg/revision/latest/scale-to-width-down/350?cb=20121201212433" style="width: 325px" />
+
 ___
 > ## Swarmer
 > *Tiny synorg, lawful evil*
@@ -3008,6 +3190,8 @@ ___
 > ***Suicide Attack.*** *Melee Weapon Attack:* +3 to hit, reach 2m, one target. *Hit:* 3 (1d6) acid damage and the swarmer explodes (its hit points immediately fall to 0).
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/82/ME3_Swarmer.png/revision/latest/scale-to-width-down/350?cb=20120319204747" style="width: 325px" />
 
 
 
@@ -3052,6 +3236,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/8/8a/Thorian_charbox.png/revision/latest/scale-to-width-down/700?cb=20140409103930" style="width: 325px" />
+
 ___
 > ## Thorian Controller
 > *Medium organic, lawful evil*
@@ -3081,6 +3267,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/ee/Test_subject_hyperres.png/revision/latest/scale-to-width-down/180?cb=20131218143230" style="width: 325px" />
+
 ___
 > ## Thorian Creeper
 > *Medium organic, lawful evil*
@@ -3106,6 +3294,8 @@ ___
 >
 
 
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/e5/Thorian_Creeper.png/revision/latest/scale-to-width-down/424?cb=20140614190322" style="width: 325px" />
+
 ___
 > ## Thorian Nymph
 > *Small organic, lawful evil*
@@ -3129,6 +3319,8 @@ ___
 > ***Release Spores (1/Day).*** The nymph releases spores in a 4m-radius sphere lasting until the end of its next turn. A creature that enters the area for the first time on a turn or starts its turn there takes 3 (1d6) psychic damage and must make a DC 13 Wisdom saving throw. On a failed save, a creature becomes paralyzed until the start of its next turn.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/elderscrolls/images/c/c3/Chaurus_3D.png/revision/latest/scale-to-width-down/700?cb=20120612155204" style="width: 325px" />
 
 ___
 > ## Thorian Spawn
@@ -3154,6 +3346,8 @@ ___
 > ***Release Spores (1/Day).*** The spawn releases spores in a 4m-radius sphere lasting until the end of its next turn. A creature that enters the area for the first time on a turn or starts its turn there takes 3 (1d6) psychic damage and must make a DC 13 Wisdom saving throw. On a failed save, a creature becomes paralyzed until the start of its next turn.
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/finalfantasy/images/1/15/Sandragora.jpg/revision/latest?cb=20081018141337" style="width: 325px" />
 
 ___
 > ## Thorian Thrall
@@ -3181,6 +3375,8 @@ ___
 > ***M-3 Predator (double tap).*** *Ranged Weapon Attack:* +1 to hit, range (20/60m), one target. *Hit:* 3 (1d4 + 1) piercing damage
 >
 
+
+<img src="https://vignette.wikia.nocookie.net/masseffect/images/e/eb/Feros_Asari_Clone_and_Thorian.png/revision/latest?cb=20090305015251" style="width: 325px" />
 
 
 
